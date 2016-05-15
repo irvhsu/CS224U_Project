@@ -1,5 +1,6 @@
 import re
 import pickle
+from constants import *
 
 '''
 Function: read_snli_data
@@ -50,7 +51,23 @@ def format_sent(sentence):
 		if char == "'": sentence = sentence[:index] + ' ' + sentence[index:] 
 	return sentence
 
+'''
+Function: read_pickle_file
+--------------------------
+Reads pickled data from filename and returns 
+the result.
+'''
+def read_pickle_file(filename):
+	f = open(filename, 'rb')
+	result = pickle.load(f)
+	f.close()
+	return result
 
 if __name__ == '__main__':
-	read_snli_data('snli_1.0/snli_1.0_train.txt')
+	print "Reading training data..."
+	read_snli_data(TRAIN_FILE)
+	print "Reading dev data..."
+	read_snli_data(DEV_FILE)
+	print "Reading test data..."
+	read_snli_data(TEST_FILE)
 
