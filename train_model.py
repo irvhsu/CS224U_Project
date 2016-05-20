@@ -56,8 +56,12 @@ def main(model_name):
 	
 	print 'Compiling ' + model_name + ' model...'
 	model = ModelDefinition(embedding_matrix, num_vocab_words, \
-					output_vocab_len, max_X_len, max_Y_len).model_defs[model_name]
+                                output_vocab_len, max_X_len, max_Y_len).model_defs[model_name]
+        
+        json_string = model.to_json()
+        open(model_name + '.json', 'w').write(json_string)
 
+        # Train the model
 	model.compile(loss='categorical_crossentropy', optimizer='adam')
 	for epoch in range(NUM_EPOCHS):
 		print 'Starting Epoch ' + str(epoch)
@@ -72,7 +76,10 @@ def main(model_name):
 			model.fit(X_batch, Y_one_hot, batch_size=BATCH_SIZE, nb_epoch=1, show_accuracy=True)
 			if (iteration % PRINT_FREQ) == 0:
 				preds = model.predict_classes(X_batch, verbose=0)
-				print convert_to_word_list(preds, Y_inds_to_words) 
+				print convert_to_word_list(preds, Y_inds_to_words)
+                        if (iteration % SAVE_FREQ) == 0:
+                                filename = model_name + '.' + str(epoch) + '.' + str(iteration) + '.h5'
+                                model.save_weights(filename)
 
 
 
