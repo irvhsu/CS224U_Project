@@ -35,12 +35,13 @@ def process_snli_data(infile):
         # Add to growing premise and hypothesis lists
         premise_list.append(premise)
         hypothesis_list.append(hypothesis)
-        # Write premise and hypothesis to separate files
     f.close()
 
     # Write the premises and hypotheses to their corresponding output files
     write_to_file(outfile_pr, premise_list)
     write_to_file(outfile_hp, hypothesis_list)
+
+    print 'Done!'
 
 
 '''
