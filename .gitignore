@@ -2,4 +2,5 @@ snli_1.0/
 tmp/
 *.idea
 *.pickle
+*.pyc
 .DS_Store
