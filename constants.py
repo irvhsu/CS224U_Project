@@ -7,3 +7,7 @@ TEST_PICKLE_FILE = 'snli_1.0/snli_1.0_test_data.pickle'
 
 GLOVE_DIM = 50
 HIDDEN_SIZE = 100
+BATCH_SIZE = 30
+NUM_EPOCHS = 100
+LAYERS = 3
+PRINT_FREQ = 100

@@ -1,6 +1,12 @@
 import re
 import pickle
 from constants import *
+import enchant
+from autocorrect import spell
+
+d = enchant.Dict("en_US")
+typos = set()
+# typo_sents = set()
 
 '''
 Function: read_snli_data
@@ -13,9 +19,7 @@ def read_snli_data(filename):
 	print 'Reading in data from ' + filename + '...'
 	f = open(filename)
 	data_list = []
-	# counter = 0
 	for line in f:
-		# if counter == 20: break
 		# Split input line by tabs
 		split_line = line.split('\t')
 		# Only look at entailments
@@ -26,9 +30,9 @@ def read_snli_data(filename):
 		hypothesis = format_sent(split_line[6])
 		# Add to growing data list
 		data_list.append((premise, hypothesis))
-		# counter += 1
 	f.close()
 	# Pickle file name
+	print data_list[100]
 	pickle_filename = filename.split('.txt')[0] + '_data.pickle'
 	print 'Writing data to ' + pickle_filename + '...'
 	# Write data in to pickle file, and close
@@ -48,8 +52,25 @@ def format_sent(sentence):
 	sentence = re.sub(r"([a-z])\-([a-z])", r"\1 \2", sentence)
 	sentence = re.sub(r"([\w/'+$\s-]+|[^\w/'+$\s-]+)\s*", r"\1 ", sentence)
 	for index, char in enumerate(sentence):
-		if char == "'": sentence = sentence[:index] + ' ' + sentence[index:] 
-	return sentence
+		if char == "'" or char == '"': sentence = sentence[:index] + ' ' + sentence[index:] 
+	sentence = fix_typos(sentence)
+	return '_START_ ' + sentence + ' _END_'
+
+'''
+Function: fix_typos
+---------------------
+Checks every word in the sentence for typos.
+If it finds one, it replaces it with an
+auto-correction.
+'''
+def fix_typos(sentence):
+	typo_list = []
+	split_sent = sentence.split()
+	for i, token in enumerate(split_sent):
+		if not d.check(token) and str.isalnum(token):
+			split_sent[i] = spell(token).lower()
+	return ' '.join(split_sent)
+
 
 '''
 Function: read_pickle_file
@@ -66,8 +87,19 @@ def read_pickle_file(filename):
 if __name__ == '__main__':
 	print "Reading training data..."
 	read_snli_data(TRAIN_FILE)
+	# print 'There are ' + str(len(typos)) + ' typos in the training set.'
+	# for pairs in typos:
+	# 	typo = pairs[0]
+	# 	sent = pairs[1]
+	# 	print typo 
+	# 	print spell(typo)
+	# 	print sent
+	# typos.clear()
 	print "Reading dev data..."
 	read_snli_data(DEV_FILE)
+	# print 'There are ' + str(len(typos)) + ' typos in the dev set.'
+	# typos.clear()
 	print "Reading test data..."
 	read_snli_data(TEST_FILE)
+	# print 'There are ' + str(len(typos)) + ' typos in the test set.'
 

@@ -2,7 +2,6 @@ from __future__ import print_function
 import numpy as np
 import pickle 
 from keras.preprocessing import sequence
-np.random.seed(1337)
 
 '''
 Function: addUnseenWords
@@ -122,22 +121,6 @@ def convertToIndexSequence(X, wordsToIndices):
 
 
 '''
-Function: convertToOneHot
--------------------------
-Given a list of labels, return a
-corresponding list of one-hot vectors. 
-'''
-def convertToOneHot(Y):
-	numClasses = len(set(Y))
-	# Initialize the results. 
-	result = np.zeros((len(Y), numClasses))
-	# For every label in Y
-	for index, label in enumerate(Y):
-		result[index][label] = 1
-	return result
-
-
-'''
 Function: breakApartInputs
 --------------------------
 This function takes in a list of index sequences X, a list of labels
@@ -236,6 +219,14 @@ def ensembleProbs(model, blockLength, X):
 		allProbs.append(sumProbs/np.sum(sumProbs))
 	return allProbs
 
+
+'''
+Function: convertToOneHot
+------------------------------
+Given a list of lists of indices,
+converts every index into a one-hot vector
+with dimensionality num_words.
+'''
 def convertToOneHot(Y, num_words):
 	# Create 3D matrix (num_sentences, num_words_per_sentence, num_vocab_words)
 	result = np.zeros((Y.shape[0], Y.shape[1], num_words))
@@ -247,3 +238,60 @@ def convertToOneHot(Y, num_words):
 			index = Y[sent, word]
 			result[sent][word][index] = 1
 	return result
+
+
+'''
+Function: convertYsToIndexSequence
+------------------------------
+Given a list of target strings,
+converts it into a list of lists of indices
+by mapping every word to a unique index starting
+from 1. The 0-th index is reserved for the padding token.
+'''
+def convertYsToIndexSequence(Y):
+	final_result = []
+	words_to_inds = {}
+	inds_to_words = {}
+	inds_to_words[0] = 'PADDING_TOKEN'
+	counter = 1
+	for line in Y:
+		split_line = line.split()
+		index_seq = []
+		for token in split_line:
+			if token in words_to_inds:
+				index_seq += [words_to_inds[token]]
+			else:
+				index_seq += [counter]
+				words_to_inds[token] = counter
+				inds_to_words[counter] = token
+				counter += 1
+		final_result.append(index_seq)
+	return final_result, words_to_inds, inds_to_words, counter - 1
+
+'''
+Function: convert_to_word_list
+------------------------------
+Given a list of lists of indices, and a mapping from indices
+to words, returns a list of reconstructed sentences.
+'''
+def convert_to_word_list(indices, inds_to_words):
+	final_list = []
+	# For every index list
+	for ind_list in indices:
+		# For every index
+		result_string = ''
+		for i, index in enumerate(ind_list):
+			# If this is not the 0-th iteration,
+			# prepend a space
+			if i != 0: result_string += ' '
+			# Append the word
+			result_string += inds_to_words[index]
+		# Append the entire string to our list
+		final_list += [result_string]
+	# Return result
+	return final_list
+
+
+
+
+
