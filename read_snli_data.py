@@ -47,14 +47,16 @@ Function: format_sent
 Formats an input sentence to convert to lower case, and
 put a space before every punctuation mark.
 '''
-def format_sent(sentence):
+def format_sent(sentence, add_tags=True):
 	sentence = sentence.lower()
 	sentence = re.sub(r"([a-z])\-([a-z])", r"\1 \2", sentence)
 	sentence = re.sub(r"([\w/'+$\s-]+|[^\w/'+$\s-]+)\s*", r"\1 ", sentence)
 	for index, char in enumerate(sentence):
 		if char == "'" or char == '"': sentence = sentence[:index] + ' ' + sentence[index:] 
 	sentence = fix_typos(sentence)
-	return '_START_ ' + sentence + ' _END_'
+	if add_tags:
+		return '_START_ ' + sentence + ' _END_'
+	return sentence
 
 '''
 Function: fix_typos
