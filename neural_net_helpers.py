@@ -281,6 +281,8 @@ def convert_to_word_list(indices, inds_to_words):
 		# For every index
 		result_string = ''
 		for i, index in enumerate(ind_list):
+			word = inds_to_words[index]
+			if index == 0: continue
 			# If this is not the 0-th iteration,
 			# prepend a space
 			if i != 0: result_string += ' '
