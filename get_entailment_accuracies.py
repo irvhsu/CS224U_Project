@@ -1,3 +1,4 @@
+import sys
 from constants import *
 
 '''
@@ -26,11 +27,14 @@ def get_entailment_accuracies(infile1, infile2):
     # Counter for number of total sentences
     num_sentences = 0
 
-    for pair in sentence_pairs:
+    for i, pair in enumerate(sentence_pairs):
+        if i not in SAMPLE_INDS: continue
         sentence_1 = pair[0][:-1]
         sentence_2 = pair[1][:-1]
-
-        print "\nORIGINAL PREMISE: {}".format(sentence_1)
+        period_location = sentence_2.find('.')
+        if period_location >= 0: sentence_2 = sentence_2[:period_location + 1]
+        print '\nSentence ' + str(num_sentences + 1) + '/' + str(len(SAMPLE_INDS))
+        print "ORIGINAL PREMISE: {}".format(sentence_1)
         print "GENERATED HYPOTHESIS: {}".format(sentence_2)
 
         while True:
@@ -48,7 +52,11 @@ def get_entailment_accuracies(infile1, infile2):
     print "\nDone!"
     print "Final accuracy: {}\n".format(final_accuracy)
 
+
+'''
+Argument 1 is either 'dev' or 'test'. Argument 2 is either 'model1', 'model2', or 'model3'.
+'''
 if __name__ == '__main__':
-    infile1 = "test_files/premises.txt"
-    infile2 = "test_files/hypotheses.txt"
+    infile1 = "milestone_outputs/" + sys.argv[1] + '_premise.txt'
+    infile2 = "milestone_outputs/" + sys.argv[2] + '_' + sys.argv[1] + '_results.txt'
     get_entailment_accuracies(infile1, infile2)
