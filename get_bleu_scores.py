@@ -1,6 +1,6 @@
 from constants import *
 from nltk.translate import bleu_score
-
+import sys
 '''
 Function: get_bleu_scores
 -------------------------
@@ -33,7 +33,9 @@ def get_bleu_scores(infile1, infile2, n=1):
     print "Average BLEU score: {}\n".format(avg_bleu_score)
 
 if __name__ == '__main__':
-    infile1 = "test_files/premises.txt"
-    infile2 = "test_files/hypotheses.txt"
+
+    infile1 = "milestone_outputs/" + sys.argv[1] + '_hypothesis.txt'
+    infile2 = "milestone_outputs/" + sys.argv[2] + '_' + sys.argv[1] + '_results.txt'
+
     get_bleu_scores(infile1, infile2, n=1)
     get_bleu_scores(infile1, infile2, n=2)
