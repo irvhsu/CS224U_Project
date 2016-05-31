@@ -15,6 +15,8 @@ def get_bleu_scores(infile1, infile2, n=1):
 
     sentences_f1 = f1.readlines()
     sentences_f2 = f2.readlines()
+    # weights = tuple([1/float(n) for i in range(n)])
+    # print 'corpus_bleu: ', bleu_score.corpus_bleu(sentences_f1, sentences_f2, weights=weights)
 
     bleu_scores = []
 
@@ -26,7 +28,7 @@ def get_bleu_scores(infile1, infile2, n=1):
         # Generated hypothesis
         hypothesis = pair[1][:-1]
 
-        score = bleu_score._modified_precision([reference], hypothesis, n)
+        score = bleu_score.modified_precision([reference], hypothesis, n)
         bleu_scores.append(float(score))
 
     avg_bleu_score = sum(bleu_scores) / float(len(bleu_scores))
@@ -37,5 +39,7 @@ if __name__ == '__main__':
     infile1 = "milestone_outputs/" + sys.argv[1] + '_hypothesis.txt'
     infile2 = "milestone_outputs/" + sys.argv[2] + '_' + sys.argv[1] + '_results.txt'
 
-    get_bleu_scores(infile1, infile2, n=1)
+    # get_bleu_scores(infile1, infile2, n=1)
     get_bleu_scores(infile1, infile2, n=2)
+    # get_bleu_scores(infile1, infile2, n=3)
+    # get_bleu_scores(infile1, infile2, n=4)
