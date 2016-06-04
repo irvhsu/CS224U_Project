@@ -1,0 +1,6502 @@
+(lp0
+(S'_START_ the young boys are playing outdoors and the man is smiling nearby _END_'
+p1
+S'_START_ the kids are playing outdoors near a man with a smile _END_'
+p2
+tp3
+a(S'_START_ a person in a black jacket is doing tricks on a motorbike _END_'
+p4
+S'_START_ a man in a black jacket is doing tricks on a motorbike _END_'
+p5
+tp6
+a(S'_START_ a man with a jersey is dunking the ball at a basketball game _END_'
+p7
+S'_START_ the ball is being dunked by a man with a jersey at a basketball game _END_'
+p8
+tp9
+a(S'_START_ the game of basketball consists of a ball being dunked by a man with a jersey _END_'
+p10
+S'_START_ a man with a jersey is dunking the ball at a basketball game _END_'
+p11
+tp12
+a(S'_START_ a man who is playing dunks the basketball into the net and a crowd is in background _END_'
+p13
+S'_START_ the player is dunking the basketball into the net and a crowd is in background _END_'
+p14
+tp15
+a(S'_START_ two young women are sparring in a kickboxing fight _END_'
+p16
+S'_START_ two women are sparring in a kickboxing match _END_'
+p17
+tp18
+a(S'_START_ kids in red shirts are playing in the leaves _END_'
+p19
+S'_START_ children in red shirts are playing in the leaves _END_'
+p20
+tp21
+a(S'_START_ two people wearing snowsuits are on the ground making snow angels _END_'
+p22
+S'_START_ two people in snowsuits are lying in the snow and making snow angels _END_'
+p23
+tp24
+a(S'_START_ a little girl is looking at a woman in costume _END_'
+p25
+S'_START_ a young girl is looking at a woman in costume _END_'
+p26
+tp27
+a(S'_START_ a lone biker is jumping in the air _END_'
+p28
+S'_START_ a biker is jumping in the air , alone _END_'
+p29
+tp30
+a(S'_START_ four kids are doing backbends in the park _END_'
+p31
+S'_START_ four children are doing backbends in the park _END_'
+p32
+tp33
+a(S'_START_ two groups of people are playing football _END_'
+p34
+S'_START_ two teams are competing in a football match _END_'
+p35
+tp36
+a(S'_START_ two teams are competing in a football match _END_'
+p37
+S'_START_ football is being played by two competing teams _END_'
+p38
+tp39
+a(S'_START_ five children are standing in front of a wooden hut _END_'
+p40
+S'_START_ five children are standing in front of a hut made of wood _END_'
+p41
+tp42
+a(S'_START_ the current is being ridden by a group of friends in a raft _END_'
+p43
+S'_START_ a group of friends are riding the current in a raft _END_'
+p44
+tp45
+a(S'_START_ this group of people is practicing water safety and wearing preservers _END_'
+p46
+S'_START_ preservers are being worn by a group of people who are practicing water safety _END_'
+p47
+tp48
+a(S'_START_ a deer is jumping over a fence _END_'
+p49
+S'_START_ a deer is jumping a fence _END_'
+p50
+tp51
+a(S'_START_ people are walking outside a building that has many murals on it _END_'
+p52
+S'_START_ people are walking outside the building that has several murals on it _END_'
+p53
+tp54
+a(S'_START_ several people are in front of a building which is covered by colors _END_'
+p55
+S'_START_ several people are in front of a colorful building _END_'
+p56
+tp57
+a(S'_START_ a man with a helmet painted red is riding a blue motorcycle down the road _END_'
+p58
+S'_START_ a motorcyclist with a red helmet is riding a blue motorcycle down the road _END_'
+p59
+tp60
+a(S'_START_ two dogs are playing by a tree _END_'
+p61
+S'_START_ two dogs are playing by a plant _END_'
+p62
+tp63
+a(S'_START_ a girl in white is dancing _END_'
+p64
+S'_START_ a girl is wearing white clothes and is dancing _END_'
+p65
+tp66
+a(S'_START_ a woman is wearing an egyptian hat on her head _END_'
+p67
+S'_START_ a woman is wearing an egyptian headdress _END_'
+p68
+tp69
+a(S'_START_ a cowgirl is riding a brown horse and is cornering a barrel _END_'
+p70
+S'_START_ a cowgirl is riding a horse and corners a barrel _END_'
+p71
+tp72
+a(S'_START_ a person has blonde and flyaway hair and is playing a guitar _END_'
+p73
+S'_START_ a guitarist has blonde and flyaway hair _END_'
+p74
+tp75
+a(S'_START_ a nude lady is walking in front of many people in body paint _END_'
+p76
+S'_START_ a nude lady is walking in front of a crowd in body paint _END_'
+p77
+tp78
+a(S'_START_ a young , topless woman is covered in paint _END_'
+p79
+S'_START_ a topless girl is covered in paint _END_'
+p80
+tp81
+a(S'_START_ a group of children in uniforms is standing at a gate and one is kissing the mother _END_'
+p82
+S'_START_ a group of children wearing the same clothes is waiting at a gate and one is kissing the mother _END_'
+p83
+tp84
+a(S'_START_ a man is in a parking lot and is playing tennis against a large wall _END_'
+p85
+S'_START_ a lone man is in a parking lot and is playing tennis against a large wall _END_'
+p86
+tp87
+a(S'_START_ an asian woman in a crowd is carrying a black bag _END_'
+p88
+S'_START_ an asian woman in in the midst of many people is carrying a black bag _END_'
+p89
+tp90
+a(S'_START_ a dog is chasing another and is holding a stick in its mouth _END_'
+p91
+S'_START_ a dog is chasing another and is holding a piece of wood in its mouth _END_'
+p92
+tp93
+a(S'_START_ a person who plays soccer is kicking a ball into the goal _END_'
+p94
+S'_START_ a soccer player is kicking a ball into the goal _END_'
+p95
+tp96
+a(S'_START_ a man with paint covered clothes is sitting outside in a busy area writing something _END_'
+p97
+S'_START_ a man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something _END_'
+p98
+tp99
+a(S'_START_ some people are walking _END_'
+p100
+S'_START_ people are walking _END_'
+p101
+tp102
+a(S'_START_ two men are taking a break from a trip on a snowy road _END_'
+p103
+S'_START_ two men are taking a break from a trip on a road covered by snow _END_'
+p104
+tp105
+a(S'_START_ the helmeted girl is perching on a bike _END_'
+p106
+S'_START_ the girl with a helmet is perching on a bike _END_'
+p107
+tp108
+a(S'_START_ a blonds girl is surfing _END_'
+p109
+S'_START_ a blond girl is riding the waves _END_'
+p110
+tp111
+a(S'_START_ a man is performing stunts on a green bicycle _END_'
+p112
+S'_START_ a man is performing a trick on a green bicycle _END_'
+p113
+tp114
+a(S'_START_ the black and white dog is running and a person stands behind it _END_'
+p115
+S'_START_ the dog , which is black and white , is running and a person stands behind it _END_'
+p116
+tp117
+a(S'_START_ a little dog is sprinting and the person who owns it is trying to catch it _END_'
+p118
+S'_START_ a little dog is sprinting and its owner is trying to catch it _END_'
+p119
+tp120
+a(S'_START_ a man wearing a dyed black shirt is sitting at the table and laughing _END_'
+p121
+S'_START_ a black shirt is being worn by a man who is sitting at the table and laughing _END_'
+p122
+tp123
+a(S'_START_ a person , who is riding a bike , is wearing gear which is black _END_'
+p124
+S'_START_ a biker is wearing gear which is black _END_'
+p125
+tp126
+a(S'_START_ a black helmet is being worn by a man who is pushing a bicycle _END_'
+p127
+S'_START_ one man is wearing a black helmet and pushing a bicycle _END_'
+p128
+tp129
+a(S'_START_ the man in a grey t shirt is sitting on a rock in front of the waterfall _END_'
+p130
+S'_START_ the man in a t shirt dyed grey is sitting on a rock in front of a waterfall _END_'
+p131
+tp132
+a(S'_START_ one woman is sitting and looks at the waterfall _END_'
+p133
+S'_START_ a woman is sitting and looking at the waterfall _END_'
+p134
+tp135
+a(S'_START_ a dark black dog and a light brown dog are playing in the yard in the back _END_'
+p136
+S'_START_ a dark black dog and a light brown dog are playing in the backyard _END_'
+p137
+tp138
+a(S'_START_ a dog that has a brown and white coat is trotting through shallow water _END_'
+p139
+S'_START_ a dog that has a white and brown colored coat is trotting through shallow water . _END_'
+p140
+tp141
+a(S'_START_ a white and brown dog is walking through the water with difficulty _END_'
+p142
+S'_START_ a white and brown dog is pacing through the water with difficulty _END_'
+p143
+tp144
+a(S'_START_ a group of boys are playing with a ball in front of a large door made of wood _END_'
+p145
+S'_START_ a bunch of boys are playing with a ball in front of a large door made of wood _END_'
+p146
+tp147
+a(S'_START_ the children are playing in front of a door , which is very large _END_'
+p148
+S'_START_ the children are playing in front of a large door _END_'
+p149
+tp150
+a(S'_START_ a black , red , white and pink dress is being worn by a woman _END_'
+p151
+S'_START_ a dress , which is black , red , white and pink is being worn by a woman _END_'
+p152
+tp153
+a(S'_START_ the teenage girl is wearing beads that are red _END_'
+p154
+S'_START_ a teenage girl is wearing beads that are red _END_'
+p155
+tp156
+a(S'_START_ a young lady with light brown hair is wearing a red necklace , a sweatshirt and earrings and is smiling _END_'
+p157
+S'_START_ a lady of young age , with light brown hair , is wearing a red necklace , a sweatshirt and earrings and is smiling _END_'
+p158
+tp159
+a(S'_START_ a boy is climbing up a wall artificially built for climbing and is attached to a rope _END_'
+p160
+S'_START_ a boy is effortlessly climbing up a wall artificially built for climbing and is attached to a rope _END_'
+p161
+tp162
+a(S'_START_ a fearful little boy is on a climbing wall _END_'
+p163
+S'_START_ a little boy , who looks fearful , is on a climbing wall . _END_'
+p164
+tp165
+a(S'_START_ a dad is launching his daughter into a swimming pool _END_'
+p166
+S'_START_ a father is launching the daughter in a swimming pool _END_'
+p167
+tp168
+a(S'_START_ the man is tossing a kid into the swimming pool that is near the ocean _END_'
+p169
+S'_START_ one man is tossing a kid into the swimming pool that is near the ocean _END_'
+p170
+tp171
+a(S'_START_ one man is climbing the cliff with a rope _END_'
+p172
+S'_START_ one man is climbing a cliff with a rope _END_'
+p173
+tp174
+a(S'_START_ a person is climbing a rock with a rope , which is pink _END_'
+p175
+S'_START_ a rock is being climbed by a person with a rope , which is pink _END_'
+p176
+tp177
+a(S'_START_ the young boy is climbing the wall made of rock _END_'
+p178
+S'_START_ one young boy is climbing a wall made of rock _END_'
+p179
+tp180
+a(S'_START_ a young child is climbing a rock climbing wall which is indoors _END_'
+p181
+S'_START_ a young kid is climbing a rock climbing wall which is indoors _END_'
+p182
+tp183
+a(S'_START_ one man is doing a trick with a bicycle in midair _END_'
+p184
+S'_START_ one man is doing a bicycle trick in midair _END_'
+p185
+tp186
+a(S'_START_ a dog , which is black , and a white one are staring at each other in the street _END_'
+p187
+S'_START_ a dog , which is black , and another one , which is white , are staring at each other in the street _END_'
+p188
+tp189
+a(S'_START_ a dog which is furry and black is in a backyard and is carrying a basket in its mouth . _END_'
+p190
+S'_START_ a dog which is furry and black is in a back yard and is carrying a basket in its mouth _END_'
+p191
+tp192
+a(S'_START_ two persons of large size are sitting on a park bench and they have a bottle of soda between them _END_'
+p193
+S'_START_ two large persons are sitting on a park bench and they have a bottle of soda between them _END_'
+p194
+tp195
+a(S'_START_ two large park benches have a person sitting and a bottle of soda between them _END_'
+p196
+S'_START_ two large persons are sitting on a park bench and they have a bottle of soda between them _END_'
+p197
+tp198
+a(S'_START_ one man is leading the race _END_'
+p199
+S'_START_ a man is leading the race _END_'
+p200
+tp201
+a(S'_START_ a few men in a competition are running outside _END_'
+p202
+S'_START_ a few men in a competition are running outdoors _END_'
+p203
+tp204
+a(S'_START_ the subject is being studied by a man with a camera _END_'
+p205
+S'_START_ a man with a camera is studying the subject _END_'
+p206
+tp207
+a(S'_START_ the man with the dyed purple hat is operating a camera that makes videos _END_'
+p208
+S'_START_ the man in the purple hat is operating a camera that makes videos _END_'
+p209
+tp210
+a(S'_START_ the bride and the groom are leaving after the marriage _END_'
+p211
+S'_START_ the bride and the groom are leaving after the wedding _END_'
+p212
+tp213
+a(S'_START_ a married couple is walking down the aisle _END_'
+p214
+S'_START_ a couple who have just got married are walking down the isle _END_'
+p215
+tp216
+a(S'_START_ the presentation is being watched by a classroom of students _END_'
+p217
+S'_START_ the presentation is being attended by a classroom of students _END_'
+p218
+tp219
+a(S'_START_ a woman , who is old , is near a dog that has a white coat _END_'
+p220
+S'_START_ a woman , who is old , is near a white dog _END_'
+p221
+tp222
+a(S'_START_ a girl from asia , in front of a brick window , looks surprised _END_'
+p223
+S'_START_ a girl from asia , in front of a window made of bricks , looks surprised _END_'
+p224
+tp225
+a(S'_START_ a girl is wearing a t shirt and has her mouth open . _END_'
+p226
+S'_START_ a girl has a t shirt and is keeping her mouth open _END_'
+p227
+tp228
+a(S'_START_ a group of people is equipped with protective gear _END_'
+p229
+S'_START_ a group of people is equipped with gear used for protection _END_'
+p230
+tp231
+a(S'_START_ a person in biking gear is standing steadily in front of some mountains _END_'
+p232
+S'_START_ a person in the gear used for biking is standing steadily in front of the mountains _END_'
+p233
+tp234
+a(S'_START_ a man with climbing equipment is hanging from a rock , which is vertical and white _END_'
+p235
+S'_START_ a man with equipment used for climbing is hanging from a white , vertical rock . _END_'
+p236
+tp237
+a(S'_START_ the ice skating rink placed outdoors is full of people _END_'
+p238
+S'_START_ an ice skating rink placed outdoors is full of people _END_'
+p239
+tp240
+a(S'_START_ the girl in the blue and white uniform is cheering _END_'
+p241
+S'_START_ some cheers are being performed by the girl in the blue and white uniform _END_'
+p242
+tp243
+a(S'_START_ people are on a beach full of sand by the ocean and are enjoying a sunny day _END_'
+p244
+S'_START_ people are on a beach full of sand by the ocean and are enjoying a day full of sun _END_'
+p245
+tp246
+a(S'_START_ a woman is being kissed by a man _END_'
+p247
+S'_START_ a lady is being kissed by a man _END_'
+p248
+tp249
+a(S'_START_ the young girl is blowing a bubble that is huge _END_'
+p250
+S'_START_ the girl , who is young , is blowing a bubble that is huge _END_'
+p251
+tp252
+a(S'_START_ a young child is wearing boots made of green rubber and playing in a puddle full of mud _END_'
+p253
+S'_START_ a young child is wearing green boots and playing in a puddle full of mud _END_'
+p254
+tp255
+a(S'_START_ a little boy is jumping into a puddle in the street _END_'
+p256
+S'_START_ a little boy is jumping into a puddle on the street _END_'
+p257
+tp258
+a(S'_START_ some coondogs are being eaten by two toddlers who are in a wagon , which is really small _END_'
+p259
+S'_START_ two toddlers are eating coondogs in a wagon , which is really small _END_'
+p260
+tp261
+a(S'_START_ two young kids are eating coondogs _END_'
+p262
+S'_START_ two young children are eating coondogs _END_'
+p263
+tp264
+a(S'_START_ a man in a shirt dyed purple is looking at a man in a black shirt who is doing a funny face _END_'
+p265
+S'_START_ a man in a shirt dyed purple is looking at a man in a black shirt who is doing a face which looks funny _END_'
+p266
+tp267
+a(S'_START_ a horse is tossing the cowboy wearing pants of blue and red color _END_'
+p268
+S'_START_ the cowboy in blue and red pants is being tossed by a horse _END_'
+p269
+tp270
+a(S'_START_ the man and the boy are standing at the bottom of the stairs , which are outdoors _END_'
+p271
+S'_START_ a man and a boy are standing at the bottom of some stairs , which are outdoors _END_'
+p272
+tp273
+a(S'_START_ a boy in a red shirt is in front of a long blue wall and is suspiciously raising an eyebrow at the camera _END_'
+p274
+S'_START_ a boy in a red shirt is in front a wall , which is long and blue , and is suspiciously raising an eyebrow at the camera _END_'
+p275
+tp276
+a(S'_START_ a boy is standing in front of the building painted blue , in the space reserved for handicapped people _END_'
+p277
+S'_START_ a boy is standing in front of the blue building in the space reserved for handicapped people _END_'
+p278
+tp279
+a(S'_START_ the jockeys are riding horses on the field , which is completely green _END_'
+p280
+S'_START_ the jockeys are racing horses on the field , which is completely green _END_'
+p281
+tp282
+a(S'_START_ a few horses are racing furiously over the green grass and jumping the obstacle _END_'
+p283
+S'_START_ some horses are racing furiously over the green grass and jumping an obstacle _END_'
+p284
+tp285
+a(S'_START_ a woman is wearing sunglasses of large size and is holding newspapers in both hands _END_'
+p286
+S'_START_ the woman is wearing sunglasses of large size and is holding newspapers in both hands _END_'
+p287
+tp288
+a(S'_START_ an old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers _END_'
+p289
+S'_START_ an old woman is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers _END_'
+p290
+tp291
+a(S'_START_ one person who is practicing snowboarding jumps into the air _END_'
+p292
+S'_START_ a person who is practicing snowboarding jumps into the air _END_'
+p293
+tp294
+a(S'_START_ a dog is near a ball colored in red , which is in the air _END_'
+p295
+S'_START_ a dog is near the red ball in the air _END_'
+p296
+tp297
+a(S'_START_ the person is riding a motorbike on a sandy track _END_'
+p298
+S'_START_ the person is riding a motorbike on a track on the sand _END_'
+p299
+tp300
+a(S'_START_ a pink shirt with white writing on it is being worn by a girl who is lying in the grass _END_'
+p301
+S'_START_ a girl is wearing a pink shirt with white writing on it and is lying in the grass _END_'
+p302
+tp303
+a(S'_START_ the young girl with a shirt dyed pink is peacefully lying on the grass _END_'
+p304
+S'_START_ the young girl with a pink shirt is peacefully lying on the grass _END_'
+p305
+tp306
+a(S'_START_ a dog of large size is running on the grass with a tennis ball in its mouth _END_'
+p307
+S'_START_ a large dog is running on the grass with a tennis ball in its mouth _END_'
+p308
+tp309
+a(S'_START_ a man is singing and playing the guitar _END_'
+p310
+S'_START_ a man is singing a song and playing the guitar _END_'
+p311
+tp312
+a(S'_START_ a man is driving a car _END_'
+p313
+S'_START_ the car is being driven by a man _END_'
+p314
+tp315
+a(S'_START_ a woman is dipping a prawn in batter _END_'
+p316
+S'_START_ a woman is dipping a shrimp in batter _END_'
+p317
+tp318
+a(S'_START_ a woman is slicing a carrot _END_'
+p319
+S'_START_ a carrot is being sliced by a woman _END_'
+p320
+tp321
+a(S'_START_ a potato is being sliced by a woman _END_'
+p322
+S'_START_ a woman is slicing a potato _END_'
+p323
+tp324
+a(S'_START_ a man and a woman are hiking through a wooded area _END_'
+p325
+S'_START_ a man and a woman are walking through a wooded area _END_'
+p326
+tp327
+a(S'_START_ a man and a woman are walking together through wooded areas _END_'
+p328
+S'_START_ a man and a woman are walking together through the woods _END_'
+p329
+tp330
+a(S'_START_ a man and a woman are hiking through a wooded area _END_'
+p331
+S'_START_ a man and a woman are walking together through the woods _END_'
+p332
+tp333
+a(S'_START_ a man is speaking on a podium _END_'
+p334
+S'_START_ a podium is where a man is speaking _END_'
+p335
+tp336
+a(S'_START_ a woman is talking on a telephonic device _END_'
+p337
+S'_START_ a woman is talking on a telephone _END_'
+p338
+tp339
+a(S'_START_ a man is slicing a bun _END_'
+p340
+S'_START_ a man is cutting a bun _END_'
+p341
+tp342
+a(S'_START_ some women are dancing and singing _END_'
+p343
+S'_START_ a woman is dancing and singing with other women _END_'
+p344
+tp345
+a(S'_START_ a woman is removing the peel of a potato _END_'
+p346
+S'_START_ a woman is peeling a potato _END_'
+p347
+tp348
+a(S'_START_ a woman is amalgamating eggs _END_'
+p349
+S'_START_ a woman is mixing eggs _END_'
+p350
+tp351
+a(S'_START_ a band is performing on a stage _END_'
+p352
+S'_START_ a band is playing on a stage _END_'
+p353
+tp354
+a(S'_START_ a band is performing onstage _END_'
+p355
+S'_START_ a band is playing onstage _END_'
+p356
+tp357
+a(S'_START_ a band is performing onstage _END_'
+p358
+S'_START_ a band is performing on a stage _END_'
+p359
+tp360
+a(S'_START_ a band is playing on a stage _END_'
+p361
+S'_START_ a band is playing onstage _END_'
+p362
+tp363
+a(S'_START_ a band is performing on a stage _END_'
+p364
+S'_START_ a band is playing onstage _END_'
+p365
+tp366
+a(S'_START_ a cat is stuck on a ceiling fan that is moving _END_'
+p367
+S'_START_ a cat is stuck on a moving ceiling fan _END_'
+p368
+tp369
+a(S'_START_ a cat is playing on a moving ceiling fan _END_'
+p370
+S'_START_ a cat is swinging on a fan _END_'
+p371
+tp372
+a(S'_START_ a man is making music with a flute _END_'
+p373
+S'_START_ a man is playing flute _END_'
+p374
+tp375
+a(S'_START_ a person is performing a card trick _END_'
+p376
+S'_START_ a person is doing a trick with some cards _END_'
+p377
+tp378
+a(S'_START_ the woman is measuring the other woman _END_'
+p379
+S'_START_ a woman is being measured by another woman _END_'
+p380
+tp381
+a(S'_START_ a man is talking on a cell phone _END_'
+p382
+S'_START_ a man is making a call on a cell phone _END_'
+p383
+tp384
+a(S'_START_ a machine is sharpening a pencil _END_'
+p385
+S'_START_ the machine is shaving the end of a pencil _END_'
+p386
+tp387
+a(S'_START_ a steak is being rinsed with water by a person _END_'
+p388
+S'_START_ a person is rinsing a steak with water _END_'
+p389
+tp390
+a(S'_START_ butter is being chopped into a container by a man _END_'
+p391
+S'_START_ a man is chopping butter into a container _END_'
+p392
+tp393
+a(S'_START_ some men are sawing _END_'
+p394
+S'_START_ men are sawing _END_'
+p395
+tp396
+a(S'_START_ a man is spreading dough _END_'
+p397
+S'_START_ dough is being spread by a man _END_'
+p398
+tp399
+a(S'_START_ the oil is being stirred by a man _END_'
+p400
+S'_START_ the man is stirring oil _END_'
+p401
+tp402
+a(S'_START_ a man is playing a guitar _END_'
+p403
+S'_START_ a man is strumming a guitar _END_'
+p404
+tp405
+a(S'_START_ a man is playing a guitar _END_'
+p406
+S'_START_ a man is playing guitar _END_'
+p407
+tp408
+a(S'_START_ two men are playing table tennis _END_'
+p409
+S'_START_ two men are playing ping pong _END_'
+p410
+tp411
+a(S'_START_ a man is picking up a tree _END_'
+p412
+S'_START_ a tree is being picked up by a man _END_'
+p413
+tp414
+a(S'_START_ a tree is being picked up by a man _END_'
+p415
+S'_START_ a man is carrying a tree _END_'
+p416
+tp417
+a(S'_START_ a trumpet is being played by a person _END_'
+p418
+S'_START_ a person is playing a trumpet _END_'
+p419
+tp420
+a(S'_START_ the badger is burrowing a hole _END_'
+p421
+S'_START_ a hole is being burrowed by the badger _END_'
+p422
+tp423
+a(S'_START_ a badger , which is shrewd , is digging the earth _END_'
+p424
+S'_START_ a badger is shrewdly digging the earth _END_'
+p425
+tp426
+a(S'_START_ some liquid is being poured into a pan by a man _END_'
+p427
+S'_START_ a man is pouring liquid into a pot _END_'
+p428
+tp429
+a(S'_START_ the chef is carefully pouring oil in the pan _END_'
+p430
+S'_START_ the chef is carefully pouring some oil into a pan _END_'
+p431
+tp432
+a(S'_START_ the man is typing on a machine used for stenography _END_'
+p433
+S'_START_ a man is typing on a machine used for stenography _END_'
+p434
+tp435
+a(S'_START_ the man is operating a stenograph _END_'
+p436
+S'_START_ a man is typing on a machine used for stenography _END_'
+p437
+tp438
+a(S'_START_ a snake is being fed a mouse by a man _END_'
+p439
+S'_START_ one man is feeding a mouse to the snake _END_'
+p440
+tp441
+a(S'_START_ the man is carefully feeding a mouse to the snake _END_'
+p442
+S'_START_ the man is cautiously feeding a mouse to the snake _END_'
+p443
+tp444
+a(S'_START_ a guy is cheerfully playing with the footbag _END_'
+p445
+S'_START_ a guy is cheerfully playing with a footbag _END_'
+p446
+tp447
+a(S'_START_ there is a guy cheerfully playing with a footbag _END_'
+p448
+S'_START_ a guy is cheerfully playing with a footbag _END_'
+p449
+tp450
+a(S'_START_ one young lady is jumping on the car _END_'
+p451
+S'_START_ one girl is jumping on the car _END_'
+p452
+tp453
+a(S'_START_ the girl is recklessly jumping onto a car _END_'
+p454
+S'_START_ one young lady is jumping on the car _END_'
+p455
+tp456
+a(S'_START_ a woman is peeling the potato _END_'
+p457
+S'_START_ the potato is being peeled by a woman _END_'
+p458
+tp459
+a(S'_START_ a woman is peeling the potato _END_'
+p460
+S'_START_ one woman is peeling a potato _END_'
+p461
+tp462
+a(S'_START_ the potato is being peeled by a woman _END_'
+p463
+S'_START_ one woman is peeling a potato _END_'
+p464
+tp465
+a(S'_START_ a boat is sailing quietly over the water _END_'
+p466
+S'_START_ a boat is sailing peacefully over the water _END_'
+p467
+tp468
+a(S'_START_ the guitar is being played by the man _END_'
+p469
+S'_START_ the guitar is being played by a man _END_'
+p470
+tp471
+a(S'_START_ the guitar is being played by the man _END_'
+p472
+S'_START_ the man is a guitar player _END_'
+p473
+tp474
+a(S'_START_ some oil is being poured on the tomatoes by the man _END_'
+p475
+S'_START_ the man is pouring some oil on the tomatoes _END_'
+p476
+tp477
+a(S'_START_ some oil is being poured on the tomatoes by the man _END_'
+p478
+S'_START_ the man is pouring oil on a few tomatoes _END_'
+p479
+tp480
+a(S'_START_ the milk is being drunk by a cat _END_'
+p481
+S'_START_ the cat is drinking some milk _END_'
+p482
+tp483
+a(S'_START_ a man is emptying a container made of plastic completely _END_'
+p484
+S'_START_ a man is emptying a container made of plastic _END_'
+p485
+tp486
+a(S'_START_ a frog is being held carelessly by a man _END_'
+p487
+S'_START_ a man is carelessly holding a frog _END_'
+p488
+tp489
+a(S'_START_ a man is slicing an onion _END_'
+p490
+S'_START_ an onion is being sliced by a man _END_'
+p491
+tp492
+a(S'_START_ an onion is being cut by a man _END_'
+p493
+S'_START_ the onion is being cut by the man _END_'
+p494
+tp495
+a(S'_START_ a man is slicing an onion _END_'
+p496
+S'_START_ the onion is being cut by the man _END_'
+p497
+tp498
+a(S'_START_ an onion is being sliced by a man _END_'
+p499
+S'_START_ an onion is being cut by a man _END_'
+p500
+tp501
+a(S'_START_ an onion is being cut by a man _END_'
+p502
+S'_START_ a man is slicing an onion _END_'
+p503
+tp504
+a(S'_START_ the elephant is being ridden by the woman _END_'
+p505
+S'_START_ the woman is riding the elephant _END_'
+p506
+tp507
+a(S'_START_ someone is feeding an animal _END_'
+p508
+S'_START_ someone is giving food to an animal _END_'
+p509
+tp510
+a(S'_START_ somebody is playing the piano _END_'
+p511
+S'_START_ the piano is being played by someone _END_'
+p512
+tp513
+a(S'_START_ a man is pushing the buttons of a microwave _END_'
+p514
+S'_START_ the buttons of a microwave are being pushed by a man _END_'
+p515
+tp516
+a(S'_START_ one man is turning on the microwave _END_'
+p517
+S'_START_ one man is powering the microwave _END_'
+p518
+tp519
+a(S'_START_ a boy is happily playing the piano _END_'
+p520
+S'_START_ one boy is happily playing a piano _END_'
+p521
+tp522
+a(S'_START_ a cheetah is quickly running behind its prey . _END_'
+p523
+S'_START_ the cheetah is running quickly behind its prey _END_'
+p524
+tp525
+a(S'_START_ a cheetah is chasing its prey across a field _END_'
+p526
+S'_START_ a cheetah is quickly running behind its prey . _END_'
+p527
+tp528
+a(S'_START_ a lion is pacing tiredly in a pen _END_'
+p529
+S'_START_ the lion is pacing tiredly in the pen _END_'
+p530
+tp531
+a(S'_START_ a flute is being played by a man _END_'
+p532
+S'_START_ the flute is being played by one man _END_'
+p533
+tp534
+a(S'_START_ the person is dicing up a pepper which is orange _END_'
+p535
+S'_START_ an orange pepper is being diced up by a person _END_'
+p536
+tp537
+a(S'_START_ a girl is cutting the butter into two pieces _END_'
+p538
+S'_START_ a girl is cutting butter into two pieces _END_'
+p539
+tp540
+a(S'_START_ some tofu is being sliced by one woman _END_'
+p541
+S'_START_ tofu is being sliced by a woman _END_'
+p542
+tp543
+a(S'_START_ a man is carelessly smearing butter on a slice of garlic flavored bread _END_'
+p544
+S'_START_ the man is carelessly smearing butter on a slice of garlic bread _END_'
+p545
+tp546
+a(S'_START_ a man is spreading butter on a piece of bread which is big _END_'
+p547
+S'_START_ a piece of bread , which is big , is having butter spread upon it by a man or a piece of bread , which is big , is being spread with butter by a man _END_'
+p548
+tp549
+a(S'_START_ the parrot is speaking _END_'
+p550
+S'_START_ a parrot is speaking _END_'
+p551
+tp552
+a(S'_START_ a few kittens are eating _END_'
+p553
+S'_START_ some kittens are eating _END_'
+p554
+tp555
+a(S'_START_ the food on the trays is being eaten by the kittens _END_'
+p556
+S'_START_ the kittens are eating the food on the trays _END_'
+p557
+tp558
+a(S'_START_ a person is singing and playing a guitar _END_'
+p559
+S'_START_ a person is singing and playing the guitar _END_'
+p560
+tp561
+a(S'_START_ a man is passionately playing a guitar _END_'
+p562
+S'_START_ one man is passionately playing the guitar _END_'
+p563
+tp564
+a(S'_START_ one chimp is angrily kicking the target _END_'
+p565
+S'_START_ a chimp is angrily kicking a target _END_'
+p566
+tp567
+a(S'_START_ the woman is pouring oil into a skillet _END_'
+p568
+S'_START_ oil is being poured into a skillet by the woman _END_'
+p569
+tp570
+a(S'_START_ the baby is being put into a trash can by a woman _END_'
+p571
+S'_START_ a woman is putting the baby into a trash can _END_'
+p572
+tp573
+a(S'_START_ a woman is putting on makeup carefully _END_'
+p574
+S'_START_ a woman is putting on some makeup carefully , _END_'
+p575
+tp576
+a(S'_START_ one person is playing the guitar and singing _END_'
+p577
+S'_START_ a person is playing a guitar and singing _END_'
+p578
+tp579
+a(S'_START_ one truck is quickly going down the hill _END_'
+p580
+S'_START_ a truck is quickly going down a hill _END_'
+p581
+tp582
+a(S'_START_ one man is intensely playing a guitar _END_'
+p583
+S'_START_ the man is intensely playing the guitar _END_'
+p584
+tp585
+a(S'_START_ the horse is being ridden by a man _END_'
+p586
+S'_START_ a man is riding the horse _END_'
+p587
+tp588
+a(S'_START_ a man is riding a motorbike _END_'
+p589
+S'_START_ a man is driving a motorbike _END_'
+p590
+tp591
+a(S'_START_ a man is dangerously throwing knives at the tree _END_'
+p592
+S'_START_ a man is dangerously throwing knives at a tree _END_'
+p593
+tp594
+a(S'_START_ the cat is playing with a device _END_'
+p595
+S'_START_ a cat is playing with a device _END_'
+p596
+tp597
+a(S'_START_ some meat is being cut into pieces by a woman _END_'
+p598
+S'_START_ a woman is cutting some meat into pieces _END_'
+p599
+tp600
+a(S'_START_ a woman is cutting some meat into pieces _END_'
+p601
+S'_START_ a lady is cutting up some meat _END_'
+p602
+tp603
+a(S'_START_ a lady is cutting up some meat _END_'
+p604
+S'_START_ some meat is being cut into pieces by a woman _END_'
+p605
+tp606
+a(S'_START_ a boy in his teens is talking to a girl with an internet camera _END_'
+p607
+S'_START_ a boy in his teens is talking to a girl with a webcam _END_'
+p608
+tp609
+a(S'_START_ one man is talking to a girl with an internet camera _END_'
+p610
+S'_START_ one man is chatting with a girl with an internet camera _END_'
+p611
+tp612
+a(S'_START_ eggs are being strongly whisked in a bowl by a person _END_'
+p613
+S'_START_ a person is strongly whisking eggs in a bowl _END_'
+p614
+tp615
+a(S'_START_ a woman is beating two eggs in a bowl and using a whisk made of wire _END_'
+p616
+S'_START_ one woman is beating two eggs in the bowl and using a whisk made of wire _END_'
+p617
+tp618
+a(S'_START_ an interview is being granted by the man _END_'
+p619
+S'_START_ the man is granting an interview _END_'
+p620
+tp621
+a(S'_START_ a white car is being driven by the man _END_'
+p622
+S'_START_ a person is driving the white car _END_'
+p623
+tp624
+a(S'_START_ some milk is being hungrily drunk by a cat _END_'
+p625
+S'_START_ the cat is hungrily drinking milk _END_'
+p626
+tp627
+a(S'_START_ a small boy is playing with a dog _END_'
+p628
+S'_START_ the small boy is playing with the dog _END_'
+p629
+tp630
+a(S'_START_ the man is slicing some potatoes _END_'
+p631
+S'_START_ the man is slicing potatoes _END_'
+p632
+tp633
+a(S'_START_ a man is taking pictures of a lake _END_'
+p634
+S'_START_ a man is attentively taking pictures of a lake _END_'
+p635
+tp636
+a(S'_START_ the man is setting up the camera and taking sunset pictures at the beach _END_'
+p637
+S'_START_ the man is setting up the camera and takes pictures of the sunset at the beach _END_'
+p638
+tp639
+a(S'_START_ a woman is using a machine made for sewing _END_'
+p640
+S'_START_ a woman is using a sewing machine _END_'
+p641
+tp642
+a(S'_START_ a woman is sewing with a machine _END_'
+p643
+S'_START_ a woman is using a machine made for sewing _END_'
+p644
+tp645
+a(S'_START_ a woman is sewing with a machine _END_'
+p646
+S'_START_ a woman is using a sewing machine _END_'
+p647
+tp648
+a(S'_START_ a woman is using a sewing machine _END_'
+p649
+S'_START_ a woman is sewing with a machine _END_'
+p650
+tp651
+a(S'_START_ an egg is being cracked into a bowl by a woman _END_'
+p652
+S'_START_ a woman is cracking an egg into a bowl _END_'
+p653
+tp654
+a(S'_START_ the woman is cracking two eggs into a bowl made of glass _END_'
+p655
+S'_START_ the woman is cracking two eggs into a glass bowl _END_'
+p656
+tp657
+a(S'_START_ people are playing cricket _END_'
+p658
+S'_START_ some people are playing cricket _END_'
+p659
+tp660
+a(S'_START_ people are playing cricket _END_'
+p661
+S'_START_ a few men are playing cricket _END_'
+p662
+tp663
+a(S'_START_ a man is putting garlic on some slices of bread _END_'
+p664
+S'_START_ a man is putting garlic on some bread slices _END_'
+p665
+tp666
+a(S'_START_ two kids are playing in a swimming pool with a green colored crocodile float _END_'
+p667
+S'_START_ two kids are playing in a swimming pool with a crocodile float that is green _END_'
+p668
+tp669
+a(S'_START_ an inflatable crocodile is being pushed by two kids in a pool _END_'
+p670
+S'_START_ two kids are pushing an inflatable crocodile in a pool _END_'
+p671
+tp672
+a(S'_START_ two kids are pushing an inflatable crocodile in a pool _END_'
+p673
+S'_START_ two kids are playing in a swimming pool with a green colored crocodile float _END_'
+p674
+tp675
+a(S'_START_ someone is falling off the horse _END_'
+p676
+S'_START_ someone is falling off a horse _END_'
+p677
+tp678
+a(S'_START_ a dog is pushing a toddler into a rain puddle _END_'
+p679
+S'_START_ a dog is pushing a toddler into a puddle of rain _END_'
+p680
+tp681
+a(S'_START_ the dog is knocking a boy into the water _END_'
+p682
+S'_START_ a boy is being knocked into the water by the dog _END_'
+p683
+tp684
+a(S'_START_ cereal is being eaten by the man _END_'
+p685
+S'_START_ the man is eating cereal _END_'
+p686
+tp687
+a(S'_START_ a man is eating a bowl of cereal _END_'
+p688
+S'_START_ cereal is being eaten by the man _END_'
+p689
+tp690
+a(S'_START_ a man is playing the guitar _END_'
+p691
+S'_START_ a man is strumming the guitar _END_'
+p692
+tp693
+a(S'_START_ a dog is biting a can _END_'
+p694
+S'_START_ a can is being bitten by a dog _END_'
+p695
+tp696
+a(S'_START_ a cat is playing with a watermelon _END_'
+p697
+S'_START_ one cat is playing with a watermelon _END_'
+p698
+tp699
+a(S'_START_ one cat is playing with a watermelon _END_'
+p700
+S'_START_ the cat is playing with a watermelon _END_'
+p701
+tp702
+a(S'_START_ a cat is playing with a watermelon _END_'
+p703
+S'_START_ the cat is playing with a watermelon _END_'
+p704
+tp705
+a(S'_START_ the boy is playing a guitar _END_'
+p706
+S'_START_ a boy is playing a guitar _END_'
+p707
+tp708
+a(S'_START_ a woman is wakeboarding on a lake _END_'
+p709
+S'_START_ one woman is wakeboarding on the lake _END_'
+p710
+tp711
+a(S'_START_ someone is banging the lens of a camera against a nail _END_'
+p712
+S'_START_ someone is banging a camera lens against a nail _END_'
+p713
+tp714
+a(S'_START_ a camera is being hammered onto the nail by the man _END_'
+p715
+S'_START_ the man is hammering a nail with a camera _END_'
+p716
+tp717
+a(S'_START_ a person is slicing an onion _END_'
+p718
+S'_START_ a person is cutting an onion _END_'
+p719
+tp720
+a(S'_START_ one person is cutting an onion _END_'
+p721
+S'_START_ a person is cutting an onion _END_'
+p722
+tp723
+a(S'_START_ a person is cutting an onion _END_'
+p724
+S'_START_ one person is cutting an onion _END_'
+p725
+tp726
+a(S'_START_ a carrot is being sliced by a woman _END_'
+p727
+S'_START_ a woman is slicing a carrot _END_'
+p728
+tp729
+a(S'_START_ the oriental lady is cutting a carrot into thin pieces _END_'
+p730
+S'_START_ the oriental lady is cutting a carrot into pieces that are thin _END_'
+p731
+tp732
+a(S'_START_ a man is pouring a plate of shredded cheese into a pot of sauce _END_'
+p733
+S'_START_ a man is pouring a plate of cheese which is shredded into a pot of sauce _END_'
+p734
+tp735
+a(S'_START_ the woman is adding cheese to the sauce _END_'
+p736
+S'_START_ the lady is adding cheese to the sauce _END_'
+p737
+tp738
+a(S'_START_ some cameras are being burned by a person with a blow torch _END_'
+p739
+S'_START_ a person is burning some cameras with a blow torch _END_'
+p740
+tp741
+a(S'_START_ a man is playing the guitar _END_'
+p742
+S'_START_ one man is playing the guitar _END_'
+p743
+tp744
+a(S'_START_ the man is playing an acoustic guitar _END_'
+p745
+S'_START_ the man is playing a guitar which is acoustic _END_'
+p746
+tp747
+a(S'_START_ a person is cutting an onion into pieces _END_'
+p748
+S'_START_ a person is dicing an onion _END_'
+p749
+tp750
+a(S'_START_ a person is slicing a carrot into pieces _END_'
+p751
+S'_START_ a carrot is being sliced into pieces by a person _END_'
+p752
+tp753
+a(S'_START_ the man is slicing a potato _END_'
+p754
+S'_START_ the man is slicing the potato _END_'
+p755
+tp756
+a(S'_START_ somebody is cutting a tomato _END_'
+p757
+S'_START_ someone is cutting a tomato _END_'
+p758
+tp759
+a(S'_START_ the lady is slicing a tomato _END_'
+p760
+S'_START_ the woman is slicing a tomato _END_'
+p761
+tp762
+a(S'_START_ somebody is cutting a tomato _END_'
+p763
+S'_START_ the lady is slicing a tomato _END_'
+p764
+tp765
+a(S'_START_ a man is preparing some dish _END_'
+p766
+S'_START_ a man is preparing a dish _END_'
+p767
+tp768
+a(S'_START_ the woman is slicing an onion with a knife _END_'
+p769
+S'_START_ an onion is being sliced with a knife by the woman _END_'
+p770
+tp771
+a(S'_START_ some runners are competing in a race _END_'
+p772
+S'_START_ runners are competing in a race _END_'
+p773
+tp774
+a(S'_START_ runners are racing in a competition _END_'
+p775
+S'_START_ runners are competing in a race _END_'
+p776
+tp777
+a(S'_START_ a man is running down the road _END_'
+p778
+S'_START_ one man is running down the road _END_'
+p779
+tp780
+a(S'_START_ the keyboard is being played with his nose by a man _END_'
+p781
+S'_START_ a man is playing the keyboard with his nose _END_'
+p782
+tp783
+a(S'_START_ a man at the keyboard is playing with his nose _END_'
+p784
+S'_START_ a man is playing the keyboard with his nose _END_'
+p785
+tp786
+a(S'_START_ the man is funnily playing the piano with his nose _END_'
+p787
+S'_START_ a man is playing the keyboard with his nose _END_'
+p788
+tp789
+a(S'_START_ a baby rhino is following an adult rhino _END_'
+p790
+S'_START_ a rhino , which is little , is following an adult rhino _END_'
+p791
+tp792
+a(S'_START_ a rhino , which is a youngling , is walking around a pen with its mother _END_'
+p793
+S'_START_ a baby rhino is walking around a pen with its mother _END_'
+p794
+tp795
+a(S'_START_ a man is riding a motorbike _END_'
+p796
+S'_START_ a man is riding a motorcycle _END_'
+p797
+tp798
+a(S'_START_ a group of people is singing _END_'
+p799
+S'_START_ a few people are singing _END_'
+p800
+tp801
+a(S'_START_ some people are singing _END_'
+p802
+S'_START_ some persons are singing _END_'
+p803
+tp804
+a(S'_START_ some persons are singing _END_'
+p805
+S'_START_ a group of people is singing _END_'
+p806
+tp807
+a(S'_START_ some people are singing _END_'
+p808
+S'_START_ a few people are singing _END_'
+p809
+tp810
+a(S'_START_ some people are singing _END_'
+p811
+S'_START_ a group of people is singing _END_'
+p812
+tp813
+a(S'_START_ the man is playing a guitar _END_'
+p814
+S'_START_ a guitar is being played by the man _END_'
+p815
+tp816
+a(S'_START_ one man is dancing _END_'
+p817
+S'_START_ a man is dancing _END_'
+p818
+tp819
+a(S'_START_ one panda is climbing _END_'
+p820
+S'_START_ a panda is climbing _END_'
+p821
+tp822
+a(S'_START_ the woman is dancing _END_'
+p823
+S'_START_ the lady is dancing _END_'
+p824
+tp825
+a(S'_START_ people are riding and paddling a raft _END_'
+p826
+S'_START_ some persons are riding and paddling a raft _END_'
+p827
+tp828
+a(S'_START_ a cat is eating some corn _END_'
+p829
+S'_START_ the cat is eating some corn _END_'
+p830
+tp831
+a(S'_START_ someone is slicing a tomato _END_'
+p832
+S'_START_ someone is cutting a tomato _END_'
+p833
+tp834
+a(S'_START_ a girl , who is little , is playing the piano _END_'
+p835
+S'_START_ a little girl is playing the piano _END_'
+p836
+tp837
+a(S'_START_ a man is playing the guitar _END_'
+p838
+S'_START_ a man is playing a guitar _END_'
+p839
+tp840
+a(S'_START_ someone is strumming the guitar _END_'
+p841
+S'_START_ someone is playing the guitar _END_'
+p842
+tp843
+a(S'_START_ a man is playing a flute made of bamboo _END_'
+p844
+S'_START_ a man is playing a bamboo flute _END_'
+p845
+tp846
+a(S'_START_ the man is playing a flute _END_'
+p847
+S'_START_ a flute is being played by the man _END_'
+p848
+tp849
+a(S'_START_ a person is slicing some mushrooms _END_'
+p850
+S'_START_ a person is cutting some mushrooms _END_'
+p851
+tp852
+a(S'_START_ a person is cutting mushrooms with a knife _END_'
+p853
+S'_START_ a person is slicing some mushrooms _END_'
+p854
+tp855
+a(S'_START_ a tiger is pacing around a cage _END_'
+p856
+S'_START_ a tiger is walking around a cage _END_'
+p857
+tp858
+a(S'_START_ a tiger is walking around with no aim _END_'
+p859
+S'_START_ a tiger is walking around aimlessly _END_'
+p860
+tp861
+a(S'_START_ a tiger is aimlessly walking around _END_'
+p862
+S'_START_ a tiger is walking around aimlessly _END_'
+p863
+tp864
+a(S'_START_ a monkey is brushing the dog _END_'
+p865
+S'_START_ the monkey is brushing the dog _END_'
+p866
+tp867
+a(S'_START_ a bull dog is being brushed by the monkey _END_'
+p868
+S'_START_ the monkey is brushing a bull dog _END_'
+p869
+tp870
+a(S'_START_ the lady is dicing onions _END_'
+p871
+S'_START_ the woman is dicing onions _END_'
+p872
+tp873
+a(S'_START_ the lady is dicing onions _END_'
+p874
+S'_START_ a woman is cutting an onion _END_'
+p875
+tp876
+a(S'_START_ a man is wearing a hard hat and dancing _END_'
+p877
+S'_START_ a man is wearing a hat which is hard and is dancing _END_'
+p878
+tp879
+a(S'_START_ a man with a hard hat is dancing _END_'
+p880
+S'_START_ the man with a hard hat is dancing _END_'
+p881
+tp882
+a(S'_START_ the man with a hard hat is dancing _END_'
+p883
+S'_START_ a man is wearing a hard hat and dancing _END_'
+p884
+tp885
+a(S'_START_ a man with a hard hat is dancing _END_'
+p886
+S'_START_ a man is wearing a hat which is hard and is dancing _END_'
+p887
+tp888
+a(S'_START_ a man is wearing a hard hat and dancing _END_'
+p889
+S'_START_ a man with a hard hat is dancing _END_'
+p890
+tp891
+a(S'_START_ two boys are playing a video game _END_'
+p892
+S'_START_ a couple of boys are playing a video game _END_'
+p893
+tp894
+a(S'_START_ a woman is cutting a potato _END_'
+p895
+S'_START_ a woman is slicing a potato _END_'
+p896
+tp897
+a(S'_START_ the man is slicing vegetables _END_'
+p898
+S'_START_ vegetables are being sliced by a man _END_'
+p899
+tp900
+a(S'_START_ the lady is breaking an egg for the mixer _END_'
+p901
+S'_START_ the lady is cracking an egg for the mixer _END_'
+p902
+tp903
+a(S'_START_ some ferrets are climbing down from a shelf _END_'
+p904
+S'_START_ ferrets are climbing down from a shelf _END_'
+p905
+tp906
+a(S'_START_ a few ferrets are climbing out of the cage _END_'
+p907
+S'_START_ several ferrets are climbing out of the cage _END_'
+p908
+tp909
+a(S'_START_ a man is getting into an automobile _END_'
+p910
+S'_START_ a man is getting into a car _END_'
+p911
+tp912
+a(S'_START_ a person is cutting a capsicum into pieces _END_'
+p913
+S'_START_ a capsicum is being cut into pieces by a person _END_'
+p914
+tp915
+a(S'_START_ one person is slicing a clove of garlic into pieces _END_'
+p916
+S'_START_ the person is slicing a clove of garlic into pieces _END_'
+p917
+tp918
+a(S'_START_ a man is performing with the guitar _END_'
+p919
+S'_START_ a man is playing a guitar _END_'
+p920
+tp921
+a(S'_START_ the person is boiling noodles _END_'
+p922
+S'_START_ a person is boiling noodles _END_'
+p923
+tp924
+a(S'_START_ noodles are being boiled in water by a woman _END_'
+p925
+S'_START_ a woman is boiling noodles in water _END_'
+p926
+tp927
+a(S'_START_ a karate practitioner is kicking at another man who is wearing protective boxing gloves _END_'
+p928
+S'_START_ a karate practitioner is kicking at another man who is wearing protective gloves for boxing _END_'
+p929
+tp930
+a(S'_START_ a woman , who is seated , is singing a song and playing the guitar _END_'
+p931
+S'_START_ a seated woman is singing a song and playing the guitar _END_'
+p932
+tp933
+a(S'_START_ a man is playing an acoustic guitar _END_'
+p934
+S'_START_ a man is playing a guitar that is acoustic _END_'
+p935
+tp936
+a(S'_START_ the woman is playing a guitar which is electric _END_'
+p937
+S'_START_ the woman is playing an electric guitar _END_'
+p938
+tp939
+a(S'_START_ the lady is breaking eggs that are raw into a bowl _END_'
+p940
+S'_START_ the lady is breaking raw eggs into a bowl _END_'
+p941
+tp942
+a(S'_START_ the woman is cracking eggs into a bowl _END_'
+p943
+S'_START_ eggs are being cracked into a bowl by the woman _END_'
+p944
+tp945
+a(S'_START_ the lady is breaking raw eggs into a bowl _END_'
+p946
+S'_START_ eggs are being cracked into a bowl by the woman _END_'
+p947
+tp948
+a(S'_START_ the lady is breaking raw eggs into a bowl _END_'
+p949
+S'_START_ the woman is cracking eggs into a bowl _END_'
+p950
+tp951
+a(S'_START_ a soccer player is scoring a goal _END_'
+p952
+S'_START_ a player of soccer is scoring a goal _END_'
+p953
+tp954
+a(S'_START_ some people who play soccer are kicking a soccer ball into the goal _END_'
+p955
+S'_START_ soccer players are kicking a soccer ball into the goal _END_'
+p956
+tp957
+a(S'_START_ a player of soccer is scoring a goal _END_'
+p958
+S'_START_ soccer players are kicking a soccer ball into the goal _END_'
+p959
+tp960
+a(S'_START_ a man and woman are talking _END_'
+p961
+S'_START_ a man and a woman are having a conversation _END_'
+p962
+tp963
+a(S'_START_ a person is pouring oil made with olives into a pot on the stove _END_'
+p964
+S'_START_ a person is pouring olive oil into a pot on the stove _END_'
+p965
+tp966
+a(S'_START_ a person is pouring oil for cooking into a pot _END_'
+p967
+S'_START_ a person is pouring cooking oil into a pot _END_'
+p968
+tp969
+a(S'_START_ a woman is walking the dog down the street _END_'
+p970
+S'_START_ the woman is walking the dog down the street _END_'
+p971
+tp972
+a(S'_START_ the woman is walking the dog _END_'
+p973
+S'_START_ the dog is being walked by the woman _END_'
+p974
+tp975
+a(S'_START_ a guinea pig is devouring a carrot _END_'
+p976
+S'_START_ a guinea pig is eating a carrot _END_'
+p977
+tp978
+a(S'_START_ a guinea pig , which is small , is gnawing and eating a piece of carrot on the floor _END_'
+p979
+S'_START_ a small guinea pig is gnawing and eating a piece of carrot on the floor _END_'
+p980
+tp981
+a(S'_START_ the woman is slicing an onion _END_'
+p982
+S'_START_ an onion is being sliced by the woman _END_'
+p983
+tp984
+a(S'_START_ the plane is landing _END_'
+p985
+S'_START_ a plane is landing _END_'
+p986
+tp987
+a(S'_START_ a cartoon airplane is landing _END_'
+p988
+S'_START_ an animated airplane is landing _END_'
+p989
+tp990
+a(S'_START_ a woman is cooking an egg in a skillet _END_'
+p991
+S'_START_ a woman is preparing an egg in a skillet _END_'
+p992
+tp993
+a(S'_START_ the girl is using an eye pencil on her eyelid _END_'
+p994
+S'_START_ the girl is using a pencil for the eyes on her eyelid _END_'
+p995
+tp996
+a(S'_START_ the lady is penciling on eyeshadow _END_'
+p997
+S'_START_ the woman is penciling on eyeshadow _END_'
+p998
+tp999
+a(S'_START_ a girl is practicing the piano _END_'
+p1000
+S'_START_ a girl is playing the piano _END_'
+p1001
+tp1002
+a(S'_START_ a girl , who is little , is playing a grand piano on stage _END_'
+p1003
+S'_START_ a little girl is playing a grand piano on stage _END_'
+p1004
+tp1005
+a(S'_START_ the woman is cooking eggs _END_'
+p1006
+S'_START_ a woman is cooking eggs _END_'
+p1007
+tp1008
+a(S'_START_ some cats are playing with each other _END_'
+p1009
+S'_START_ the cats are playing with each other _END_'
+p1010
+tp1011
+a(S'_START_ two people are riding a motorcycle _END_'
+p1012
+S'_START_ two people are driving a motorcycle _END_'
+p1013
+tp1014
+a(S'_START_ the man is riding a mechanical bull _END_'
+p1015
+S'_START_ the man is riding a bull which is mechanical _END_'
+p1016
+tp1017
+a(S'_START_ a man is riding a mechanical bull _END_'
+p1018
+S'_START_ the man is riding a bull which is mechanical _END_'
+p1019
+tp1020
+a(S'_START_ a man is riding a mechanical bull _END_'
+p1021
+S'_START_ the man is riding a mechanical bull _END_'
+p1022
+tp1023
+a(S'_START_ the woman is playing the flute _END_'
+p1024
+S'_START_ the flute is being played by the woman _END_'
+p1025
+tp1026
+a(S'_START_ a woman is playing a flute _END_'
+p1027
+S'_START_ the flute is being played by the woman _END_'
+p1028
+tp1029
+a(S'_START_ the woman is playing the flute _END_'
+p1030
+S'_START_ a woman is playing a flute _END_'
+p1031
+tp1032
+a(S'_START_ the man is lifting barbells _END_'
+p1033
+S'_START_ a man is lifting barbells _END_'
+p1034
+tp1035
+a(S'_START_ the man is lifting weights _END_'
+p1036
+S'_START_ weights are being lifted by the man _END_'
+p1037
+tp1038
+a(S'_START_ a tree is being cut by a man with an axe _END_'
+p1039
+S'_START_ a man is cutting a tree with an axe _END_'
+p1040
+tp1041
+a(S'_START_ a tree is being cut by a man with an axe _END_'
+p1042
+S'_START_ a man is chopping down a tree with an axe _END_'
+p1043
+tp1044
+a(S'_START_ a man is cutting a tree with an axe _END_'
+p1045
+S'_START_ a person is chopping down a tree with an axe _END_'
+p1046
+tp1047
+a(S'_START_ a man is cutting a tree with an axe _END_'
+p1048
+S'_START_ a man is chopping down a tree with an axe _END_'
+p1049
+tp1050
+a(S'_START_ a girl is applying makeup to her face _END_'
+p1051
+S'_START_ the girl is applying makeup to her face _END_'
+p1052
+tp1053
+a(S'_START_ a lady is putting on makeup _END_'
+p1054
+S'_START_ a woman is putting on makeup _END_'
+p1055
+tp1056
+a(S'_START_ a herd of deer is crossing the street _END_'
+p1057
+S'_START_ one herd of deer is crossing the street _END_'
+p1058
+tp1059
+a(S'_START_ a woman is slicing an onion _END_'
+p1060
+S'_START_ an onion is being sliced by a woman _END_'
+p1061
+tp1062
+a(S'_START_ two men are fighting in a cattle pen _END_'
+p1063
+S'_START_ two men are fighting in a pen for cattle _END_'
+p1064
+tp1065
+a(S'_START_ two men are fighting in a cow pasture _END_'
+p1066
+S'_START_ two men are fighting in a pasture for cows _END_'
+p1067
+tp1068
+a(S'_START_ a woman is putting cosmetics on her eyelid _END_'
+p1069
+S'_START_ a woman is applying cosmetics to her eyelid _END_'
+p1070
+tp1071
+a(S'_START_ a woman is penciling on eyeshadow _END_'
+p1072
+S'_START_ the woman is penciling on eyeshadow _END_'
+p1073
+tp1074
+a(S'_START_ a man is eating a banana _END_'
+p1075
+S'_START_ a banana is being eaten by a man _END_'
+p1076
+tp1077
+a(S'_START_ a big green ball is knocking a potato _END_'
+p1078
+S'_START_ a ball , which is green and big , is knocking a potato _END_'
+p1079
+tp1080
+a(S'_START_ a large green ball is hitting a potato _END_'
+p1081
+S'_START_ a large green colored ball is hitting a potato _END_'
+p1082
+tp1083
+a(S'_START_ a large green colored ball is hitting a potato _END_'
+p1084
+S'_START_ a big green ball is knocking a potato _END_'
+p1085
+tp1086
+a(S'_START_ a ball , which is green and big , is knocking a potato _END_'
+p1087
+S'_START_ a large green ball is hitting a potato _END_'
+p1088
+tp1089
+a(S'_START_ a large green ball is hitting a potato _END_'
+p1090
+S'_START_ a big green ball is knocking a potato _END_'
+p1091
+tp1092
+a(S'_START_ different teams are playing football on the field _END_'
+p1093
+S'_START_ different teams are playing football on a field _END_'
+p1094
+tp1095
+a(S'_START_ a boy is playing a keyboard _END_'
+p1096
+S'_START_ a boy is practicing the keyboard _END_'
+p1097
+tp1098
+a(S'_START_ a woman is playing an electric guitar _END_'
+p1099
+S'_START_ a woman is playing a guitar which is electric _END_'
+p1100
+tp1101
+a(S'_START_ a man in a suit is standing at a microphone and singing _END_'
+p1102
+S'_START_ the man in a suit is standing at a microphone and singing _END_'
+p1103
+tp1104
+a(S'_START_ some teenage girls are dancing for the camera _END_'
+p1105
+S'_START_ some girls in their teens are dancing for the camera _END_'
+p1106
+tp1107
+a(S'_START_ three teenage girls are dancing in the room _END_'
+p1108
+S'_START_ three young girls are dancing in the room _END_'
+p1109
+tp1110
+a(S'_START_ the puppy is playing with a plastic container _END_'
+p1111
+S'_START_ the puppy is playing with a container made of plastic _END_'
+p1112
+tp1113
+a(S'_START_ the puppy is playing with a container made of plastic _END_'
+p1114
+S'_START_ the dog is playing with a plastic container _END_'
+p1115
+tp1116
+a(S'_START_ a man is jumping onto a wall which is low _END_'
+p1117
+S'_START_ a man is jumping onto a low wall _END_'
+p1118
+tp1119
+a(S'_START_ the man is pouring oil into a pan _END_'
+p1120
+S'_START_ a man is pouring oil into a pan _END_'
+p1121
+tp1122
+a(S'_START_ a man is pouring oil into a skillet _END_'
+p1123
+S'_START_ oil is being poured into a skillet by a man _END_'
+p1124
+tp1125
+a(S'_START_ a man is pouring oil into a pan _END_'
+p1126
+S'_START_ oil is being poured into a skillet by a man _END_'
+p1127
+tp1128
+a(S'_START_ a man is pouring oil into a pan _END_'
+p1129
+S'_START_ a man is pouring oil into a skillet _END_'
+p1130
+tp1131
+a(S'_START_ the woman and the man are travelling by car _END_'
+p1132
+S'_START_ the woman and the man are travelling by automobile _END_'
+p1133
+tp1134
+a(S'_START_ the person is brushing a cat _END_'
+p1135
+S'_START_ a person is brushing a cat _END_'
+p1136
+tp1137
+a(S'_START_ a person is combing the fur of a cat _END_'
+p1138
+S'_START_ the fur of a cat is being combed by a person _END_'
+p1139
+tp1140
+a(S'_START_ the fur of a cat is being combed by a person _END_'
+p1141
+S'_START_ a person is brushing a cat _END_'
+p1142
+tp1143
+a(S'_START_ a person is combing the fur of a cat _END_'
+p1144
+S'_START_ the person is brushing a cat _END_'
+p1145
+tp1146
+a(S'_START_ a person is brushing a cat _END_'
+p1147
+S'_START_ a person is combing the fur of a cat _END_'
+p1148
+tp1149
+a(S'_START_ broccoli is being chopped by a woman _END_'
+p1150
+S'_START_ a woman is chopping broccoli _END_'
+p1151
+tp1152
+a(S'_START_ the woman is chopping garlic _END_'
+p1153
+S'_START_ the woman is slicing garlic _END_'
+p1154
+tp1155
+a(S'_START_ the man is sitting on the floor in a room and strumming a guitar _END_'
+p1156
+S'_START_ a man is sitting on the floor in a room and strumming a guitar _END_'
+p1157
+tp1158
+a(S'_START_ a man is sitting on the floor in a room and strumming a guitar _END_'
+p1159
+S'_START_ a man is sitting on the floor and is playing a guitar _END_'
+p1160
+tp1161
+a(S'_START_ one man is eating some food _END_'
+p1162
+S'_START_ a man is eating some food _END_'
+p1163
+tp1164
+a(S'_START_ one man is eating some food _END_'
+p1165
+S'_START_ the man is eating _END_'
+p1166
+tp1167
+a(S'_START_ the man is eating _END_'
+p1168
+S'_START_ a man is eating some food _END_'
+p1169
+tp1170
+a(S'_START_ a woman is using a pencil for eyes and is applying eye liner to her eyelid _END_'
+p1171
+S'_START_ a woman is using an eye pencil and is applying eye liner to her eyelid _END_'
+p1172
+tp1173
+a(S'_START_ the baby is crawling happily _END_'
+p1174
+S'_START_ a baby is crawling happily _END_'
+p1175
+tp1176
+a(S'_START_ a baby is sneezing and scaring another baby _END_'
+p1177
+S'_START_ a baby is sneezing and frightening another baby _END_'
+p1178
+tp1179
+a(S'_START_ a man is performing tricks with a soccer ball _END_'
+p1180
+S'_START_ a man is doing some tricks with a soccer ball _END_'
+p1181
+tp1182
+a(S'_START_ a man is cutting a box _END_'
+p1183
+S'_START_ a box is being cut by a man _END_'
+p1184
+tp1185
+a(S'_START_ the man is cutting the tape on the box _END_'
+p1186
+S'_START_ a man is cutting the tape on the box _END_'
+p1187
+tp1188
+a(S'_START_ a boy , who is young , is playing a wind instrument _END_'
+p1189
+S'_START_ a young boy is playing a wind instrument _END_'
+p1190
+tp1191
+a(S'_START_ a man is trekking in the woods _END_'
+p1192
+S'_START_ the man is hiking in the woods _END_'
+p1193
+tp1194
+a(S'_START_ the man is slicing a tomato _END_'
+p1195
+S'_START_ a man is slicing a tomato _END_'
+p1196
+tp1197
+a(S'_START_ a woman is slicing a carrot _END_'
+p1198
+S'_START_ a woman is cutting a carrot _END_'
+p1199
+tp1200
+a(S'_START_ a lady is mixing a meat mixture in a bowl _END_'
+p1201
+S'_START_ a lady is mixing a mixture of meat in a bowl _END_'
+p1202
+tp1203
+a(S'_START_ the lady is stirring meat in a bowl _END_'
+p1204
+S'_START_ the woman is stirring meat in a bowl _END_'
+p1205
+tp1206
+a(S'_START_ the lady is stirring meat in a bowl _END_'
+p1207
+S'_START_ a lady is mixing a meat mixture in a bowl _END_'
+p1208
+tp1209
+a(S'_START_ the woman is stirring meat in a bowl _END_'
+p1210
+S'_START_ a lady is mixing a mixture of meat in a bowl _END_'
+p1211
+tp1212
+a(S'_START_ a lady is mixing a meat mixture in a bowl _END_'
+p1213
+S'_START_ the woman is stirring meat in a bowl _END_'
+p1214
+tp1215
+a(S'_START_ a lemon is being squeezed by a woman _END_'
+p1216
+S'_START_ a woman is squeezing a lemon _END_'
+p1217
+tp1218
+a(S'_START_ the woman is squeezing juice out of a lemon _END_'
+p1219
+S'_START_ a woman is squeezing juice out of a lemon _END_'
+p1220
+tp1221
+a(S'_START_ a woman is squeezing a lemon _END_'
+p1222
+S'_START_ the woman is squeezing juice out of a lemon _END_'
+p1223
+tp1224
+a(S'_START_ a woman is squeezing juice out of a lemon _END_'
+p1225
+S'_START_ a lemon is being squeezed by a woman _END_'
+p1226
+tp1227
+a(S'_START_ a kitten is playing with a blue rope toy _END_'
+p1228
+S'_START_ a kitten is playing with a toy made of blue rope _END_'
+p1229
+tp1230
+a(S'_START_ the little cat is playing with a toy _END_'
+p1231
+S'_START_ the kitten is playing with a toy _END_'
+p1232
+tp1233
+a(S'_START_ a man is walking slowly across a rope bridge _END_'
+p1234
+S'_START_ a man is walking slowly across a bridge made of rope _END_'
+p1235
+tp1236
+a(S'_START_ a boy is hanging a fishing rod and running in front of a fish _END_'
+p1237
+S'_START_ a boy is hanging a rod for fishing and running in front of a fish _END_'
+p1238
+tp1239
+a(S'_START_ the squirrel is running in circles _END_'
+p1240
+S'_START_ a squirrel is running in circles _END_'
+p1241
+tp1242
+a(S'_START_ a woman is boiling eggs _END_'
+p1243
+S'_START_ eggs are being boiled by a woman _END_'
+p1244
+tp1245
+a(S'_START_ a woman is placing two eggs into a pot of water _END_'
+p1246
+S'_START_ a woman is putting two eggs into a pot of water _END_'
+p1247
+tp1248
+a(S'_START_ a man is playing the guitar _END_'
+p1249
+S'_START_ the man is playing the guitar _END_'
+p1250
+tp1251
+a(S'_START_ a man is playing the guitar _END_'
+p1252
+S'_START_ a guitar is being played by a man _END_'
+p1253
+tp1254
+a(S'_START_ the man is playing the guitar _END_'
+p1255
+S'_START_ a man is playing the guitar _END_'
+p1256
+tp1257
+a(S"_START_ the person who is playing soccer is kicking the ball between somebody 's legs _END_"
+p1258
+S"_START_ the soccer player is kicking the ball between somebody 's legs _END_"
+p1259
+tp1260
+a(S'_START_ a child is running in and out of the waves of the ocean _END_'
+p1261
+S'_START_ a child is running in and out of the ocean waves _END_'
+p1262
+tp1263
+a(S'_START_ the boy , who is young , is running through the ocean waves _END_'
+p1264
+S'_START_ the young boy is running through the ocean waves _END_'
+p1265
+tp1266
+a(S'_START_ a woman is grating carrots _END_'
+p1267
+S'_START_ carrots are being grated by a woman _END_'
+p1268
+tp1269
+a(S'_START_ a man and a woman are walking through the woods _END_'
+p1270
+S'_START_ the man and the woman are walking through the woods _END_'
+p1271
+tp1272
+a(S'_START_ the man and woman are strolling _END_'
+p1273
+S'_START_ the man and woman are walking _END_'
+p1274
+tp1275
+a(S'_START_ the south african plane is flying in a blue sky _END_'
+p1276
+S'_START_ the plane , which is south african , is flying in a blue sky _END_'
+p1277
+tp1278
+a(S'_START_ a woman is cooking a pork chop which is breaded _END_'
+p1279
+S'_START_ a woman is cooking a breaded pork chop _END_'
+p1280
+tp1281
+a(S'_START_ the woman is frying a chop of breaded pork _END_'
+p1282
+S'_START_ the woman is frying a breaded pork chop _END_'
+p1283
+tp1284
+a(S'_START_ a woman is cooking a breaded pork chop _END_'
+p1285
+S'_START_ the woman is frying a chop of breaded pork _END_'
+p1286
+tp1287
+a(S'_START_ the man is slicing bread _END_'
+p1288
+S'_START_ bread is being sliced by the man _END_'
+p1289
+tp1290
+a(S'_START_ the woman is slicing herbs _END_'
+p1291
+S'_START_ a woman is slicing herbs _END_'
+p1292
+tp1293
+a(S'_START_ a man is standing on the top of a roof and playing a violin _END_'
+p1294
+S'_START_ a man is standing on a roof top and playing a violin _END_'
+p1295
+tp1296
+a(S'_START_ someone is typing on a keyboard _END_'
+p1297
+S'_START_ somebody is typing on the keyboard _END_'
+p1298
+tp1299
+a(S'_START_ a potato is being peeled by a woman _END_'
+p1300
+S'_START_ a woman is peeling a potato _END_'
+p1301
+tp1302
+a(S'_START_ a woman is cleaning a shrimp _END_'
+p1303
+S'_START_ the woman is cleaning a shrimp _END_'
+p1304
+tp1305
+a(S'_START_ someone is cleaning an animal _END_'
+p1306
+S'_START_ someone is cleansing an animal _END_'
+p1307
+tp1308
+a(S'_START_ a panda bear is eating some bamboo _END_'
+p1309
+S'_START_ some bamboo is being eaten by a panda bear _END_'
+p1310
+tp1311
+a(S'_START_ one panda is eating a bamboo cane _END_'
+p1312
+S'_START_ the panda is eating bamboo _END_'
+p1313
+tp1314
+a(S'_START_ a panda bear is eating some bamboo _END_'
+p1315
+S'_START_ one panda is eating a bamboo cane _END_'
+p1316
+tp1317
+a(S'_START_ some bamboo is being eaten by a panda bear _END_'
+p1318
+S'_START_ the panda is eating bamboo _END_'
+p1319
+tp1320
+a(S'_START_ a panda bear is eating some bamboo _END_'
+p1321
+S'_START_ the panda is eating bamboo _END_'
+p1322
+tp1323
+a(S'_START_ someone is beating an egg _END_'
+p1324
+S'_START_ somebody is beating an egg _END_'
+p1325
+tp1326
+a(S'_START_ the woman is stirring eggs in a bowl _END_'
+p1327
+S'_START_ the lady is stirring eggs in a bowl _END_'
+p1328
+tp1329
+a(S'_START_ a person is folding a tortilla _END_'
+p1330
+S'_START_ a tortilla is being folded by a person _END_'
+p1331
+tp1332
+a(S'_START_ the man is catching a fish _END_'
+p1333
+S'_START_ a man is catching a fish _END_'
+p1334
+tp1335
+a(S'_START_ a man is playing a harp _END_'
+p1336
+S'_START_ the man is playing a harp _END_'
+p1337
+tp1338
+a(S'_START_ a tray is being buttered by a person _END_'
+p1339
+S'_START_ a person is buttering a tray _END_'
+p1340
+tp1341
+a(S'_START_ a person is buttering a tray _END_'
+p1342
+S'_START_ a person is spreading butter on a tray _END_'
+p1343
+tp1344
+a(S'_START_ a person is wiping butter on a tray _END_'
+p1345
+S'_START_ a tray is being buttered by a person _END_'
+p1346
+tp1347
+a(S'_START_ a person is wiping butter on a tray _END_'
+p1348
+S'_START_ a person is buttering a tray _END_'
+p1349
+tp1350
+a(S'_START_ a woman is being handed volleyballs by another woman _END_'
+p1351
+S'_START_ one woman is handing volleyballs to another woman _END_'
+p1352
+tp1353
+a(S'_START_ one woman is handing volleyballs to another woman _END_'
+p1354
+S'_START_ a woman is receiving volleyballs _END_'
+p1355
+tp1356
+a(S'_START_ one man is chopping a log with an axe _END_'
+p1357
+S'_START_ a man is chopping a log with an axe _END_'
+p1358
+tp1359
+a(S'_START_ the man is chopping the trunk of a tree with an axe _END_'
+p1360
+S'_START_ the man is chopping a tree trunk with an axe _END_'
+p1361
+tp1362
+a(S'_START_ the man is thinking _END_'
+p1363
+S'_START_ a man is thinking _END_'
+p1364
+tp1365
+a(S'_START_ a cat with a white coat , perched on a small wooden cabinet , is looking outside the window _END_'
+p1366
+S'_START_ a white cat perched on a small wooden cabinet is looking outside the window _END_'
+p1367
+tp1368
+a(S'_START_ the cat perched on the table is looking out the window _END_'
+p1369
+S'_START_ the cat perched on the table is looking curiously out the window _END_'
+p1370
+tp1371
+a(S'_START_ the dog is licking the baby _END_'
+p1372
+S'_START_ a dog is licking a baby _END_'
+p1373
+tp1374
+a(S'_START_ a dog is licking a baby _END_'
+p1375
+S'_START_ the dog is licking the baby _END_'
+p1376
+tp1377
+a(S'_START_ a woman is slicing garlic _END_'
+p1378
+S'_START_ a woman is chopping up garlic _END_'
+p1379
+tp1380
+a(S'_START_ garlic is being diced by the woman _END_'
+p1381
+S'_START_ the woman is dicing garlic _END_'
+p1382
+tp1383
+a(S'_START_ a woman is chopping up garlic _END_'
+p1384
+S'_START_ garlic is being diced by the woman _END_'
+p1385
+tp1386
+a(S'_START_ a woman is chopping up garlic _END_'
+p1387
+S'_START_ the woman is dicing garlic _END_'
+p1388
+tp1389
+a(S'_START_ the woman is dancing _END_'
+p1390
+S'_START_ a woman is dancing _END_'
+p1391
+tp1392
+a(S'_START_ the person is writing _END_'
+p1393
+S'_START_ a person is writing _END_'
+p1394
+tp1395
+a(S'_START_ a person is jotting something with a pencil _END_'
+p1396
+S'_START_ the person is writing with a pencil _END_'
+p1397
+tp1398
+a(S'_START_ a person is jotting something with a pencil _END_'
+p1399
+S'_START_ a person is writing _END_'
+p1400
+tp1401
+a(S'_START_ somebody is boiling okra in a pot _END_'
+p1402
+S'_START_ someone is boiling okra in a pot _END_'
+p1403
+tp1404
+a(S'_START_ someone is cooking okra in a pan _END_'
+p1405
+S'_START_ okra is being cooked in a pan _END_'
+p1406
+tp1407
+a(S'_START_ the man is dancing _END_'
+p1408
+S'_START_ a man is dancing _END_'
+p1409
+tp1410
+a(S'_START_ a squirrel is running around in circles _END_'
+p1411
+S'_START_ a squirrel is spinning around in circles _END_'
+p1412
+tp1413
+a(S'_START_ paper is being cut with scissors _END_'
+p1414
+S'_START_ someone is cutting some paper with scissors _END_'
+p1415
+tp1416
+a(S'_START_ the piece of paper is being cut _END_'
+p1417
+S'_START_ some paper is being cut _END_'
+p1418
+tp1419
+a(S'_START_ some paper is being cut _END_'
+p1420
+S'_START_ paper is being cut with scissors _END_'
+p1421
+tp1422
+a(S'_START_ someone is cutting some paper with scissors _END_'
+p1423
+S'_START_ the piece of paper is being cut _END_'
+p1424
+tp1425
+a(S'_START_ the man is playing the flute _END_'
+p1426
+S'_START_ a man is playing a flute _END_'
+p1427
+tp1428
+a(S'_START_ a man is playing the drums _END_'
+p1429
+S'_START_ the drums are being played by a man _END_'
+p1430
+tp1431
+a(S'_START_ a man is playing the drum _END_'
+p1432
+S'_START_ a man is practicing the drum _END_'
+p1433
+tp1434
+a(S'_START_ a man is playing the drum _END_'
+p1435
+S'_START_ the drums are being played by a man _END_'
+p1436
+tp1437
+a(S'_START_ a man is playing the drums _END_'
+p1438
+S'_START_ a man is playing the drum _END_'
+p1439
+tp1440
+a(S'_START_ the man is doing floor exercises _END_'
+p1441
+S'_START_ one man is doing floor exercises _END_'
+p1442
+tp1443
+a(S'_START_ a monkey is riding a bike _END_'
+p1444
+S'_START_ a monkey is riding a bicycle _END_'
+p1445
+tp1446
+a(S'_START_ one fish is swimming _END_'
+p1447
+S'_START_ a fish is swimming _END_'
+p1448
+tp1449
+a(S'_START_ someone is dropping the meat into a pan _END_'
+p1450
+S'_START_ the meat is being dropped into a pan _END_'
+p1451
+tp1452
+a(S'_START_ a frog is being handled by the woman _END_'
+p1453
+S'_START_ the woman is handling a frog _END_'
+p1454
+tp1455
+a(S'_START_ the boys are standing in front of the car , which is burning _END_'
+p1456
+S'_START_ the boys are standing in front of the burning car _END_'
+p1457
+tp1458
+a(S'_START_ a boy is filling a pitcher with water _END_'
+p1459
+S'_START_ a pitcher is being filled with water by a boy _END_'
+p1460
+tp1461
+a(S'_START_ a woman is collecting tap water in a mug _END_'
+p1462
+S'_START_ a woman is collecting the water from a tap in a mug _END_'
+p1463
+tp1464
+a(S'_START_ a man is strolling in the rain _END_'
+p1465
+S'_START_ a man is walking in the rain _END_'
+p1466
+tp1467
+a(S'_START_ it is raining on a walking man _END_'
+p1468
+S'_START_ a man is walking in the rain _END_'
+p1469
+tp1470
+a(S'_START_ some men are running a race _END_'
+p1471
+S'_START_ men are running a race _END_'
+p1472
+tp1473
+a(S'_START_ racers are running down a track _END_'
+p1474
+S'_START_ some racers are running down a track _END_'
+p1475
+tp1476
+a(S'_START_ the men are placing suitcases in the trunk of a car _END_'
+p1477
+S'_START_ the men are packing suitcases into the trunk of a car _END_'
+p1478
+tp1479
+a(S'_START_ the men are putting suitcases into the trunk of a car _END_'
+p1480
+S'_START_ the men are placing suitcases in the trunk of a car _END_'
+p1481
+tp1482
+a(S'_START_ the men are putting suitcases into the trunk of a car _END_'
+p1483
+S'_START_ the men are packing suitcases into the trunk of a car _END_'
+p1484
+tp1485
+a(S'_START_ a woman is putting on eyeshadow _END_'
+p1486
+S'_START_ eyeshadow is being put on by a woman _END_'
+p1487
+tp1488
+a(S'_START_ a woman is putting make up on _END_'
+p1489
+S'_START_ the woman is putting make up on _END_'
+p1490
+tp1491
+a(S'_START_ a toy train is striking a toy car _END_'
+p1492
+S'_START_ a toy train is hitting a toy car _END_'
+p1493
+tp1494
+a(S'_START_ the person is peeling an onion _END_'
+p1495
+S'_START_ a person is peeling an onion _END_'
+p1496
+tp1497
+a(S'_START_ the person is slicing onions _END_'
+p1498
+S'_START_ onions are being sliced by the person _END_'
+p1499
+tp1500
+a(S'_START_ swimmers are racing in a lake _END_'
+p1501
+S'_START_ some racers are swimming in a lake _END_'
+p1502
+tp1503
+a(S'_START_ a woman is playing a guitar _END_'
+p1504
+S'_START_ a guitar is being played by a woman _END_'
+p1505
+tp1506
+a(S'_START_ a boy is looking at a calendar _END_'
+p1507
+S'_START_ a boy is staring at a calendar _END_'
+p1508
+tp1509
+a(S'_START_ the boy is studying a calendar _END_'
+p1510
+S'_START_ a boy is studying a calendar _END_'
+p1511
+tp1512
+a(S'_START_ a boy is looking at a calendar _END_'
+p1513
+S'_START_ the boy is studying a calendar _END_'
+p1514
+tp1515
+a(S'_START_ a boy is studying a calendar _END_'
+p1516
+S'_START_ a boy is staring at a calendar _END_'
+p1517
+tp1518
+a(S'_START_ a boy is looking at a calendar _END_'
+p1519
+S'_START_ a boy is studying a calendar _END_'
+p1520
+tp1521
+a(S'_START_ a person is throwing a cat at the ceiling _END_'
+p1522
+S'_START_ a cat is thrown at the ceiling by a person _END_'
+p1523
+tp1524
+a(S'_START_ a cat is thrown at the ceiling by a person _END_'
+p1525
+S'_START_ a person is throwing a cat at the ceiling _END_'
+p1526
+tp1527
+a(S'_START_ a woman is picking up and holding a baby kangaroo in her arms _END_'
+p1528
+S'_START_ a woman is picking up and holding a kangaroo , which is a baby , in her arms _END_'
+p1529
+tp1530
+a(S'_START_ the woman is taking up and holding a baby kangaroo _END_'
+p1531
+S'_START_ the woman is picking up and holding a baby kangaroo _END_'
+p1532
+tp1533
+a(S'_START_ the woman is taking up and holding a baby kangaroo _END_'
+p1534
+S'_START_ a woman is picking up and holding a baby kangaroo in her arms _END_'
+p1535
+tp1536
+a(S'_START_ the woman is picking up and holding a baby kangaroo _END_'
+p1537
+S'_START_ a woman is picking up and holding a kangaroo , which is a baby , in her arms _END_'
+p1538
+tp1539
+a(S'_START_ the woman is picking up and holding a baby kangaroo _END_'
+p1540
+S'_START_ a woman is picking up and holding a baby kangaroo in her arms _END_'
+p1541
+tp1542
+a(S'_START_ a woman is dancing and a man is playing the keyboard _END_'
+p1543
+S'_START_ the woman is dancing and a man is playing the keyboard _END_'
+p1544
+tp1545
+a(S'_START_ a person is scrubbing a zucchini _END_'
+p1546
+S'_START_ the person is scrubbing a zucchini _END_'
+p1547
+tp1548
+a(S'_START_ a woman is scrubbing a zucchini with a brush for vegetables _END_'
+p1549
+S'_START_ a woman is scrubbing a zucchini with a vegetable brush _END_'
+p1550
+tp1551
+a(S'_START_ a man in a cap is playing a harp _END_'
+p1552
+S'_START_ a man in a hat is playing a harp _END_'
+p1553
+tp1554
+a(S'_START_ a woman is slicing a pepper which is green _END_'
+p1555
+S'_START_ a woman is slicing a green pepper _END_'
+p1556
+tp1557
+a(S'_START_ the pepper is being sliced by a woman with a knife _END_'
+p1558
+S'_START_ the woman with a knife is slicing a pepper _END_'
+p1559
+tp1560
+a(S'_START_ the pepper is being sliced by a woman with a knife _END_'
+p1561
+S'_START_ a woman is slicing a green pepper _END_'
+p1562
+tp1563
+a(S'_START_ the woman is playing a flute _END_'
+p1564
+S'_START_ a woman is playing a flute _END_'
+p1565
+tp1566
+a(S'_START_ a woman is playing flute _END_'
+p1567
+S'_START_ the woman is playing a flute _END_'
+p1568
+tp1569
+a(S'_START_ a woman is playing a flute _END_'
+p1570
+S'_START_ a woman is playing flute _END_'
+p1571
+tp1572
+a(S'_START_ a man is riding a horse _END_'
+p1573
+S'_START_ a horse is being ridden by a man _END_'
+p1574
+tp1575
+a(S'_START_ a horse is being ridden in a creek by a man _END_'
+p1576
+S'_START_ the man is riding a horse by a creek _END_'
+p1577
+tp1578
+a(S'_START_ the cat is playing keyboards _END_'
+p1579
+S'_START_ a cat is playing keyboards _END_'
+p1580
+tp1581
+a(S'_START_ a cat is playing a piano _END_'
+p1582
+S'_START_ a cat is playing keyboards _END_'
+p1583
+tp1584
+a(S'_START_ the man is walking along a path through the wilderness _END_'
+p1585
+S'_START_ the man is walking along a track through the wilderness _END_'
+p1586
+tp1587
+a(S'_START_ the man is rising from a swamp _END_'
+p1588
+S'_START_ a man is rising from a swamp _END_'
+p1589
+tp1590
+a(S'_START_ a man is dancing upside down on the ceiling _END_'
+p1591
+S'_START_ the man is dancing upside down on the ceiling _END_'
+p1592
+tp1593
+a(S'_START_ a man is dancing on the ceiling of a room _END_'
+p1594
+S'_START_ the man is dancing upside down on the ceiling _END_'
+p1595
+tp1596
+a(S'_START_ a man is dancing _END_'
+p1597
+S'_START_ a male is dancing _END_'
+p1598
+tp1599
+a(S'_START_ the girl is exercising _END_'
+p1600
+S'_START_ a girl is exercising _END_'
+p1601
+tp1602
+a(S'_START_ a man is doing exercise _END_'
+p1603
+S'_START_ a man is exercising _END_'
+p1604
+tp1605
+a(S'_START_ a few people are dancing _END_'
+p1606
+S'_START_ a group of people are dancing _END_'
+p1607
+tp1608
+a(S'_START_ two men are doing a funny skit with a boxer in front of a crowd of people _END_'
+p1609
+S'_START_ two men are doing a skit , which is very funny , with a boxer in front of a crowd of people _END_'
+p1610
+tp1611
+a(S'_START_ the boy is checking a calendar _END_'
+p1612
+S'_START_ a boy is checking a calendar _END_'
+p1613
+tp1614
+a(S'_START_ the boy is checking a calendar _END_'
+p1615
+S'_START_ a boy is looking at a calendar _END_'
+p1616
+tp1617
+a(S'_START_ a boy is checking a calendar _END_'
+p1618
+S'_START_ a boy is looking at a calendar _END_'
+p1619
+tp1620
+a(S'_START_ the men are fighting with their fists in a ring _END_'
+p1621
+S'_START_ the men are fist fighting in a ring _END_'
+p1622
+tp1623
+a(S'_START_ the men are fighting with their fists in a ring _END_'
+p1624
+S'_START_ two men are fist fighting in a ring _END_'
+p1625
+tp1626
+a(S'_START_ a biker is riding along the top of a fence _END_'
+p1627
+S'_START_ the biker is riding along the top of a fence _END_'
+p1628
+tp1629
+a(S'_START_ the boy is riding a bike on the top of a fence made of metal _END_'
+p1630
+S'_START_ the boy is riding a bike on the top of a metal fence _END_'
+p1631
+tp1632
+a(S'_START_ a woman is slicing a pepper which is big _END_'
+p1633
+S'_START_ a woman is slicing a big pepper _END_'
+p1634
+tp1635
+a(S'_START_ the woman is slicing a clove of garlic _END_'
+p1636
+S'_START_ a woman is slicing a clove of garlic _END_'
+p1637
+tp1638
+a(S'_START_ a girl is awakening _END_'
+p1639
+S'_START_ a girl is waking up _END_'
+p1640
+tp1641
+a(S'_START_ a woman is peeling a potato _END_'
+p1642
+S'_START_ the woman is peeling a potato _END_'
+p1643
+tp1644
+a(S'_START_ a woman is slicing a tomato _END_'
+p1645
+S'_START_ a tomato is being sliced by a woman _END_'
+p1646
+tp1647
+a(S'_START_ a man is climbing up a rope _END_'
+p1648
+S'_START_ the man is climbing up a rope _END_'
+p1649
+tp1650
+a(S'_START_ a man is climbing a rope _END_'
+p1651
+S'_START_ the man is climbing up a rope _END_'
+p1652
+tp1653
+a(S'_START_ a man is climbing a rope _END_'
+p1654
+S'_START_ a man is climbing up a rope _END_'
+p1655
+tp1656
+a(S'_START_ the lady is picking up the kangaroo _END_'
+p1657
+S'_START_ the woman is picking up the kangaroo _END_'
+p1658
+tp1659
+a(S'_START_ a man is breaking tiles with his hands _END_'
+p1660
+S'_START_ tiles are being broken with his hands by a man _END_'
+p1661
+tp1662
+a(S'_START_ a man is breaking wooden boards with his hand _END_'
+p1663
+S'_START_ a man is breaking boards made of wood with his hand _END_'
+p1664
+tp1665
+a(V_START_ a person is riding a jets in the waves _END_
+p1666
+V_START_ the person is riding a jets in the waves _END_
+p1667
+tp1668
+a(V_START_ a seadon is being ridden by a woman _END_
+p1669
+V_START_ a woman is riding a seadon _END_
+p1670
+tp1671
+a(S'_START_ a man is running on the road _END_'
+p1672
+S'_START_ the man is running on the road _END_'
+p1673
+tp1674
+a(S'_START_ a man is outside and is throwing blades at a target which is close _END_'
+p1675
+S'_START_ a man is outside and is throwing blades at a close target _END_'
+p1676
+tp1677
+a(S'_START_ the man is hurling knives at a tree _END_'
+p1678
+S'_START_ the man is throwing knives at a tree _END_'
+p1679
+tp1680
+a(S'_START_ a horse is being ridden by a man _END_'
+p1681
+S'_START_ a man is riding a horse _END_'
+p1682
+tp1683
+a(S'_START_ one man is riding a horse _END_'
+p1684
+S'_START_ the man is riding a horse _END_'
+p1685
+tp1686
+a(S'_START_ one man is riding a horse _END_'
+p1687
+S'_START_ a man is riding a horse _END_'
+p1688
+tp1689
+a(S'_START_ a horse is being ridden by a man _END_'
+p1690
+S'_START_ the man is riding a horse _END_'
+p1691
+tp1692
+a(S'_START_ the man is riding a horse _END_'
+p1693
+S'_START_ a man is riding a horse _END_'
+p1694
+tp1695
+a(S'_START_ a picture is being drawn by a man _END_'
+p1696
+S'_START_ a man is drawing a picture _END_'
+p1697
+tp1698
+a(S'_START_ someone is playing the guitar _END_'
+p1699
+S'_START_ somebody is playing the guitar _END_'
+p1700
+tp1701
+a(S'_START_ some food is being eaten by a man _END_'
+p1702
+S'_START_ a man is eating some food _END_'
+p1703
+tp1704
+a(S'_START_ a man is eating a pizza _END_'
+p1705
+S'_START_ a pizza is being eaten by a man _END_'
+p1706
+tp1707
+a(S'_START_ a cute panda is lying down _END_'
+p1708
+S'_START_ a panda that is cute is lying down _END_'
+p1709
+tp1710
+a(S'_START_ the panda bear is resting on the logs _END_'
+p1711
+S'_START_ the panda bear is lying on the logs _END_'
+p1712
+tp1713
+a(S'_START_ a dog is jumping on a trampoline _END_'
+p1714
+S'_START_ a dog is bouncing on a trampoline _END_'
+p1715
+tp1716
+a(S'_START_ a dog is bouncing on a trampoline _END_'
+p1717
+S'_START_ a dog is jumping on a trampoline _END_'
+p1718
+tp1719
+a(S'_START_ a woman is slicing an onion _END_'
+p1720
+S'_START_ a woman is cutting an onion _END_'
+p1721
+tp1722
+a(S'_START_ a woman is cutting meat _END_'
+p1723
+S'_START_ a woman is slicing some meat _END_'
+p1724
+tp1725
+a(S'_START_ a man is playing a wooden flute _END_'
+p1726
+S'_START_ a wooden flute is being played by a man _END_'
+p1727
+tp1728
+a(S'_START_ the man is cleaning the drawing on the board _END_'
+p1729
+S'_START_ the man is erasing the drawing on the board _END_'
+p1730
+tp1731
+a(S"_START_ the man is erasing the other man 's work from the board _END_"
+p1732
+S"_START_ the man is erasing the other man 's work from the panel _END_"
+p1733
+tp1734
+a(S'_START_ a woman is cutting a vegetable _END_'
+p1735
+S'_START_ a woman is slicing a vegetable _END_'
+p1736
+tp1737
+a(S'_START_ an eggplant is being sliced by a woman _END_'
+p1738
+S'_START_ a woman is slicing an eggplant _END_'
+p1739
+tp1740
+a(S'_START_ a dog is playing with a toy _END_'
+p1741
+S'_START_ a dog is having fun with a toy _END_'
+p1742
+tp1743
+a(S'_START_ a man is dancing _END_'
+p1744
+S'_START_ a man is performing a dance _END_'
+p1745
+tp1746
+a(S'_START_ a man is slicing some bread _END_'
+p1747
+S'_START_ a man is slicing bread _END_'
+p1748
+tp1749
+a(S'_START_ a man is slicing some bread _END_'
+p1750
+S'_START_ a man is cutting a slice of bread _END_'
+p1751
+tp1752
+a(S'_START_ a woman is stroking a lemur _END_'
+p1753
+S'_START_ a lemur is being stroked by a woman _END_'
+p1754
+tp1755
+a(S'_START_ guitar is being played by two men _END_'
+p1756
+S'_START_ two men are playing guitar _END_'
+p1757
+tp1758
+a(S'_START_ a man is playing a flute _END_'
+p1759
+S'_START_ a flute is being played by a man _END_'
+p1760
+tp1761
+a(S'_START_ a song is being sung by a clown _END_'
+p1762
+S'_START_ a clown is singing _END_'
+p1763
+tp1764
+a(S'_START_ the horse is being ridden by the girl _END_'
+p1765
+S'_START_ the girl is riding the horse _END_'
+p1766
+tp1767
+a(S'_START_ a man is rapidly chopping some mushrooms with a knife _END_'
+p1768
+S'_START_ a man is quickly chopping some mushrooms with a knife _END_'
+p1769
+tp1770
+a(S'_START_ a person is quickly cutting mushrooms with a knife _END_'
+p1771
+S'_START_ a person is quickly chopping mushrooms with a knife _END_'
+p1772
+tp1773
+a(S'_START_ a person is quickly cutting mushrooms with a knife _END_'
+p1774
+S'_START_ a man is rapidly chopping some mushrooms with a knife _END_'
+p1775
+tp1776
+a(S'_START_ a person is quickly chopping mushrooms with a knife _END_'
+p1777
+S'_START_ a man is rapidly chopping some mushrooms with a knife _END_'
+p1778
+tp1779
+a(S'_START_ an old woman is shaking hands with a man _END_'
+p1780
+S'_START_ an woman that is old is shaking hands with a man _END_'
+p1781
+tp1782
+a(S'_START_ a woman is chopping up an octopus _END_'
+p1783
+S'_START_ a woman is cutting an octopus _END_'
+p1784
+tp1785
+a(S'_START_ the woman is slicing cooked octopus _END_'
+p1786
+S'_START_ the woman is cutting cooked octopus _END_'
+p1787
+tp1788
+a(S'_START_ a plane is taking off _END_'
+p1789
+S'_START_ an airplane is taking off _END_'
+p1790
+tp1791
+a(S'_START_ an airplane is taking off _END_'
+p1792
+S'_START_ an aircraft is taking off _END_'
+p1793
+tp1794
+a(S'_START_ an aircraft is taking off _END_'
+p1795
+S'_START_ a plane is taking off _END_'
+p1796
+tp1797
+a(S'_START_ an airplane is taking off _END_'
+p1798
+S'_START_ a plane is taking off _END_'
+p1799
+tp1800
+a(S'_START_ a man is cutting a potato _END_'
+p1801
+S'_START_ a man is slicing a potato _END_'
+p1802
+tp1803
+a(S'_START_ a woman is slicing a tomato _END_'
+p1804
+S'_START_ a woman is cutting a tomato _END_'
+p1805
+tp1806
+a(S'_START_ a man is making a sketch _END_'
+p1807
+S'_START_ the man is drawing _END_'
+p1808
+tp1809
+a(S'_START_ a man is drawing _END_'
+p1810
+S'_START_ the man is drawing _END_'
+p1811
+tp1812
+a(S'_START_ someone is peeling a banana _END_'
+p1813
+S'_START_ someone is removing the peel of a banana _END_'
+p1814
+tp1815
+a(S'_START_ someone is playing a piano _END_'
+p1816
+S'_START_ a piano is being played by someone _END_'
+p1817
+tp1818
+a(S'_START_ a shoe is being tied by a man _END_'
+p1819
+S'_START_ a man is tying a shoe _END_'
+p1820
+tp1821
+a(S'_START_ a man is tying a shoe _END_'
+p1822
+S'_START_ a man is tying the shoe _END_'
+p1823
+tp1824
+a(S'_START_ a guy is riding a horse _END_'
+p1825
+S'_START_ a horse is being ridden by a guy _END_'
+p1826
+tp1827
+a(S'_START_ a paper plate is being cut by a man _END_'
+p1828
+S'_START_ a man is cutting a paper plate _END_'
+p1829
+tp1830
+a(S'_START_ a paper plate is being cut by the man _END_'
+p1831
+S'_START_ the man is cutting a paper plate _END_'
+p1832
+tp1833
+a(S'_START_ a man is cutting a paper plate _END_'
+p1834
+S'_START_ a paper plate is being cut by the man _END_'
+p1835
+tp1836
+a(S'_START_ a paper plate is being cut by a man _END_'
+p1837
+S'_START_ the man is cutting a paper plate _END_'
+p1838
+tp1839
+a(S'_START_ a man is cutting a paper plate _END_'
+p1840
+S'_START_ the man is cutting a paper plate _END_'
+p1841
+tp1842
+a(S'_START_ two men are competing in a tire rolling race _END_'
+p1843
+S'_START_ two men are racing in a tire rolling competition _END_'
+p1844
+tp1845
+a(S'_START_ an alligator is being patted on the mouth by a man _END_'
+p1846
+S'_START_ a man is patting an alligator on the mouth _END_'
+p1847
+tp1848
+a(S'_START_ a person is dropping chopped vegetables into a pot on the stove _END_'
+p1849
+S'_START_ chopped vegetables are being dropped into a pot on the stove by a person _END_'
+p1850
+tp1851
+a(S'_START_ the men are having a conversation _END_'
+p1852
+S'_START_ the men are talking _END_'
+p1853
+tp1854
+a(S'_START_ a man is playing the guitar _END_'
+p1855
+S'_START_ a man is playing an instrument _END_'
+p1856
+tp1857
+a(S'_START_ the content of a bowl is being mixed by a man _END_'
+p1858
+S'_START_ a man is mixing the content of a bowl _END_'
+p1859
+tp1860
+a(S'_START_ the woman is pouring oil into the pan _END_'
+p1861
+S'_START_ oil is being poured into the pan by the woman _END_'
+p1862
+tp1863
+a(S'_START_ the patient is being helped by the doctor _END_'
+p1864
+S'_START_ the doctor is helping the patient _END_'
+p1865
+tp1866
+a(S'_START_ a woman is being massaged by a man _END_'
+p1867
+S'_START_ a man is massaging a woman _END_'
+p1868
+tp1869
+a(S'_START_ a piece of wood is being screwed to a wall by a man _END_'
+p1870
+S'_START_ a man is screwing a piece of wood to a wall _END_'
+p1871
+tp1872
+a(S'_START_ a cat is sliding upside down under a sofa _END_'
+p1873
+S'_START_ a cat is sliding upside down under a couch _END_'
+p1874
+tp1875
+a(S'_START_ a man is emptying a container made of plastic _END_'
+p1876
+S'_START_ a man is emptying a plastic container _END_'
+p1877
+tp1878
+a(S'_START_ a container is being shaken over a sink in the kitchen by a man _END_'
+p1879
+S'_START_ a man is shaking a container over a sink in the kitchen _END_'
+p1880
+tp1881
+a(S'_START_ some men are fighting _END_'
+p1882
+S'_START_ a group of men is fighting _END_'
+p1883
+tp1884
+a(S'_START_ two men are battling _END_'
+p1885
+S'_START_ two men are fighting _END_'
+p1886
+tp1887
+a(S'_START_ a horse is being ridden by a woman _END_'
+p1888
+S'_START_ a woman is riding a horse _END_'
+p1889
+tp1890
+a(S'_START_ a woman is riding a horse _END_'
+p1891
+S'_START_ a horse is being ridden by a woman _END_'
+p1892
+tp1893
+a(S'_START_ some onions are being cut by a person _END_'
+p1894
+S'_START_ a person is slicing some onions _END_'
+p1895
+tp1896
+a(S'_START_ a man is playing a guitar _END_'
+p1897
+S'_START_ a guitar is being played by a man _END_'
+p1898
+tp1899
+a(S'_START_ a man is singing and playing a guitar _END_'
+p1900
+S'_START_ a man is performing with a guitar _END_'
+p1901
+tp1902
+a(S'_START_ a man is driving a car _END_'
+p1903
+S'_START_ a car is being driven by a man _END_'
+p1904
+tp1905
+a(S'_START_ a car is being driven by a man _END_'
+p1906
+S'_START_ a man is driving a car _END_'
+p1907
+tp1908
+a(S'_START_ the boy is cutting the grass by the curb with scissors _END_'
+p1909
+S'_START_ the boy is shortening the grass by the curb with scissors _END_'
+p1910
+tp1911
+a(S'_START_ a violin is being played by a man _END_'
+p1912
+S'_START_ a man is playing a violin _END_'
+p1913
+tp1914
+a(S'_START_ a man is playing a harp _END_'
+p1915
+S'_START_ a harp is being played by a man _END_'
+p1916
+tp1917
+a(S'_START_ a keyboard is being played by a man _END_'
+p1918
+S'_START_ a man is playing a keyboard _END_'
+p1919
+tp1920
+a(S'_START_ a man is cutting a cord with a sword _END_'
+p1921
+S'_START_ a man is cutting a rope with a sword _END_'
+p1922
+tp1923
+a(S'_START_ a man is removing the peel of an onion _END_'
+p1924
+S'_START_ a man is peeling an onion _END_'
+p1925
+tp1926
+a(S'_START_ a man is walking along a path through a wilderness _END_'
+p1927
+S'_START_ a man is walking along a track through a wilderness _END_'
+p1928
+tp1929
+a(S'_START_ a woman is slicing a potato _END_'
+p1930
+S'_START_ a woman is cutting a potato _END_'
+p1931
+tp1932
+a(S'_START_ an onion is being sliced by a woman _END_'
+p1933
+S'_START_ a woman is slicing an onion _END_'
+p1934
+tp1935
+a(S'_START_ a woman is slicing garlic _END_'
+p1936
+S'_START_ a woman is cutting garlic _END_'
+p1937
+tp1938
+a(S'_START_ a man is holding a small animal in one hand _END_'
+p1939
+S'_START_ a man is holding an animal , which is small , in one hand _END_'
+p1940
+tp1941
+a(S'_START_ a man is showing off a small monkey _END_'
+p1942
+S'_START_ a man is exhibiting a small monkey _END_'
+p1943
+tp1944
+a(S'_START_ some pieces of butter are being added to the stand mixer _END_'
+p1945
+S'_START_ pieces of butter are being added to the stand mixer _END_'
+p1946
+tp1947
+a(S'_START_ a monkey is kicking a person _END_'
+p1948
+S'_START_ a person is being kicked by a monkey _END_'
+p1949
+tp1950
+a(S'_START_ a monkey is practicing martial arts _END_'
+p1951
+S'_START_ a chimp is practicing martial arts _END_'
+p1952
+tp1953
+a(S'_START_ a man is fixing a silencer to a gun _END_'
+p1954
+S'_START_ a man is applying a silencer to a gun _END_'
+p1955
+tp1956
+a(S'_START_ a man is fitting a silencer to a pistol _END_'
+p1957
+S'_START_ a man is fitting a silencer to a weapon _END_'
+p1958
+tp1959
+a(S'_START_ a man is fitting a silencer to a pistol _END_'
+p1960
+S'_START_ a man is applying a silencer to a gun _END_'
+p1961
+tp1962
+a(S'_START_ a little girl is playing the violin on a beach _END_'
+p1963
+S'_START_ the violin is being played by a little girl on a beach _END_'
+p1964
+tp1965
+a(S'_START_ the girl is sitting on the couch and is crocheting _END_'
+p1966
+S'_START_ the girl is sitting on the sofa and crocheting _END_'
+p1967
+tp1968
+a(S'_START_ a man is cooking a snake _END_'
+p1969
+S'_START_ a man is roasting a snake _END_'
+p1970
+tp1971
+a(S'_START_ a boy is playing guitar _END_'
+p1972
+S'_START_ a guitar is being played by a boy _END_'
+p1973
+tp1974
+a(S'_START_ a little boy is playing a guitar _END_'
+p1975
+S'_START_ a young boy is playing a guitar _END_'
+p1976
+tp1977
+a(S'_START_ a soda is being opened and drunk by a woman _END_'
+p1978
+S'_START_ a woman is opening a soda and drinking it _END_'
+p1979
+tp1980
+a(S'_START_ a woman is riding on an elephant _END_'
+p1981
+S'_START_ an elephant is being ridden by a woman _END_'
+p1982
+tp1983
+a(S'_START_ a guitar is being played by a kid _END_'
+p1984
+S'_START_ a kid is playing guitar _END_'
+p1985
+tp1986
+a(S'_START_ a monkey is teasing a dog at the zoo _END_'
+p1987
+S'_START_ a dog is being teased by a monkey at the zoo _END_'
+p1988
+tp1989
+a(S"_START_ a dog 's tail is being pulled by a monkey _END_"
+p1990
+S"_START_ a monkey is pulling a dog 's tail _END_"
+p1991
+tp1992
+a(S'_START_ a person is slicing some ginger _END_'
+p1993
+S'_START_ a person is cutting some ginger _END_'
+p1994
+tp1995
+a(S'_START_ a person is slicing an onion _END_'
+p1996
+S'_START_ an onion is being sliced by a person _END_'
+p1997
+tp1998
+a(S'_START_ a man is slicing a potato into pieces _END_'
+p1999
+S'_START_ a man is cutting a potato into pieces _END_'
+p2000
+tp2001
+a(S'_START_ a man is slicing a potato _END_'
+p2002
+S'_START_ a man is slicing a potato into pieces _END_'
+p2003
+tp2004
+a(S'_START_ a man is opening a box with a knife _END_'
+p2005
+S'_START_ a man is using a knife to open a box _END_'
+p2006
+tp2007
+a(S'_START_ some instruments are being played by a band _END_'
+p2008
+S'_START_ a band is playing some instruments _END_'
+p2009
+tp2010
+a(S'_START_ a man is playing an electronic keyboard _END_'
+p2011
+S'_START_ an electronic keyboard is being played by a man _END_'
+p2012
+tp2013
+a(S'_START_ a woman is cutting potatoes _END_'
+p2014
+S'_START_ a woman is slicing potatoes _END_'
+p2015
+tp2016
+a(S'_START_ carrots are being sliced by a woman _END_'
+p2017
+S'_START_ a woman is slicing carrots _END_'
+p2018
+tp2019
+a(S'_START_ a man is mixing vegetables in a pot _END_'
+p2020
+S'_START_ vegetables are being mixed in a pot by a man _END_'
+p2021
+tp2022
+a(S'_START_ the man is exercising _END_'
+p2023
+S'_START_ a man is doing exercises _END_'
+p2024
+tp2025
+a(S'_START_ a woman is being carried by a man _END_'
+p2026
+S'_START_ a man is carrying a woman _END_'
+p2027
+tp2028
+a(S'_START_ a guitar is being played by a man _END_'
+p2029
+S'_START_ a man is playing a guitar _END_'
+p2030
+tp2031
+a(S'_START_ a person is cutting garlic into pieces with a knife _END_'
+p2032
+S'_START_ a person is slicing garlic into pieces with a knife _END_'
+p2033
+tp2034
+a(S'_START_ the military officer is shouting at the recruits _END_'
+p2035
+S'_START_ the military officer is barking at the recruits _END_'
+p2036
+tp2037
+a(S'_START_ a small tree is being eaten by a baby elephant _END_'
+p2038
+S'_START_ a baby elephant is eating a small tree _END_'
+p2039
+tp2040
+a(S'_START_ garlic is being chopped by a woman _END_'
+p2041
+S'_START_ a woman is chopping garlic _END_'
+p2042
+tp2043
+a(S'_START_ a woman is cutting a fish _END_'
+p2044
+S'_START_ a woman is slicing a fish _END_'
+p2045
+tp2046
+a(S'_START_ something is being fried by a woman _END_'
+p2047
+S'_START_ a woman is frying something _END_'
+p2048
+tp2049
+a(S'_START_ an email is being read by a man _END_'
+p2050
+S'_START_ a man is reading an email _END_'
+p2051
+tp2052
+a(S'_START_ a person is peeling a banana _END_'
+p2053
+S'_START_ a banana is being peeled by a person _END_'
+p2054
+tp2055
+a(S'_START_ a big cat is opening a drawer made of plastic with its paws and is jumping inside _END_'
+p2056
+S'_START_ a big cat is opening a plastic drawer with its paws and is jumping inside _END_'
+p2057
+tp2058
+a(S'_START_ a man is cutting an onion _END_'
+p2059
+S'_START_ a man is chopping an onion _END_'
+p2060
+tp2061
+a(S"_START_ a woman is painting a man 's face _END_"
+p2062
+S"_START_ a man 's face is being painted by a woman _END_"
+p2063
+tp2064
+a(S'_START_ makeup is being put on the man by the woman _END_'
+p2065
+S'_START_ the woman is putting makeup on the man _END_'
+p2066
+tp2067
+a(S'_START_ the woman is putting makeup on the man _END_'
+p2068
+S"_START_ a man 's face is being painted by a woman _END_"
+p2069
+tp2070
+a(S'_START_ the man is speaking on the phone _END_'
+p2071
+S'_START_ the man is talking on the phone _END_'
+p2072
+tp2073
+a(S'_START_ the man is talking on the telephone _END_'
+p2074
+S'_START_ the man is speaking on the telephone _END_'
+p2075
+tp2076
+a(S'_START_ the man is talking on the phone _END_'
+p2077
+S'_START_ the man is speaking on the telephone _END_'
+p2078
+tp2079
+a(S'_START_ the man is talking on the telephone _END_'
+p2080
+S'_START_ the man is speaking on the phone _END_'
+p2081
+tp2082
+a(S'_START_ the man is talking on the telephone _END_'
+p2083
+S'_START_ the man is talking on the phone _END_'
+p2084
+tp2085
+a(S'_START_ a man is slicing onions _END_'
+p2086
+S'_START_ a man is cutting onions _END_'
+p2087
+tp2088
+a(S'_START_ a woman is cutting an onion _END_'
+p2089
+S'_START_ an onion is being cut by a woman _END_'
+p2090
+tp2091
+a(S'_START_ a man is cutting an onion _END_'
+p2092
+S'_START_ an onion is being cut by a man _END_'
+p2093
+tp2094
+a(S'_START_ a door is being opened by a man _END_'
+p2095
+S'_START_ a man is opening a door _END_'
+p2096
+tp2097
+a(S'_START_ a potato is being cut by a man _END_'
+p2098
+S'_START_ a man is cutting a potato _END_'
+p2099
+tp2100
+a(S'_START_ a man is chopping a potato _END_'
+p2101
+S'_START_ a man is cutting a potato _END_'
+p2102
+tp2103
+a(S'_START_ a potato is being cut by a man _END_'
+p2104
+S'_START_ a man is slicing a potato _END_'
+p2105
+tp2106
+a(S'_START_ a man is slicing a potato _END_'
+p2107
+S'_START_ a man is cutting a potato _END_'
+p2108
+tp2109
+a(S'_START_ a man is playing the guitar _END_'
+p2110
+S'_START_ the guitar is being played by a man _END_'
+p2111
+tp2112
+a(S'_START_ a man is playing the piano _END_'
+p2113
+S'_START_ the piano is being played by a man _END_'
+p2114
+tp2115
+a(S'_START_ a woman is playing the violin _END_'
+p2116
+S'_START_ the violin is being played by a woman _END_'
+p2117
+tp2118
+a(S'_START_ some food is being prepared by a chef _END_'
+p2119
+S'_START_ a chef is preparing some food _END_'
+p2120
+tp2121
+a(S'_START_ a chef is preparing a meal _END_'
+p2122
+S'_START_ a chef is cooking a meal _END_'
+p2123
+tp2124
+a(S'_START_ a chef is preparing some food _END_'
+p2125
+S'_START_ a chef is preparing a meal _END_'
+p2126
+tp2127
+a(S'_START_ two sumo ringers are fighting _END_'
+p2128
+S'_START_ two sumo wrestlers are fighting _END_'
+p2129
+tp2130
+a(S'_START_ a person is playing a piano _END_'
+p2131
+S'_START_ a piano is being played by a person _END_'
+p2132
+tp2133
+a(S'_START_ a person is slicing a potato _END_'
+p2134
+S'_START_ a potato is being sliced by a person _END_'
+p2135
+tp2136
+a(S'_START_ a man is sprinkling shredded cheese on a pizza _END_'
+p2137
+S'_START_ a man is sprinkling cheese on a pizza _END_'
+p2138
+tp2139
+a(S'_START_ a man is sprinkling shredded cheese on a pizza _END_'
+p2140
+S'_START_ a man is putting some cheese on a pizza _END_'
+p2141
+tp2142
+a(S'_START_ a man is buttering a piece of bread _END_'
+p2143
+S'_START_ a man is buttering a slice of bread _END_'
+p2144
+tp2145
+a(S'_START_ a man is pouring cleaner into the sink _END_'
+p2146
+S'_START_ a man is cleaning the sink _END_'
+p2147
+tp2148
+a(S'_START_ the drums are being played by the man _END_'
+p2149
+S'_START_ the man is playing the drums _END_'
+p2150
+tp2151
+a(S'_START_ a woman is deep frying food _END_'
+p2152
+S'_START_ food is being deep fried by a woman _END_'
+p2153
+tp2154
+a(S'_START_ a woman is frying some food _END_'
+p2155
+S'_START_ some food is being fried by a woman _END_'
+p2156
+tp2157
+a(S'_START_ food is being deep fried by a woman _END_'
+p2158
+S'_START_ a woman is frying some food _END_'
+p2159
+tp2160
+a(S'_START_ a man is petting two dogs _END_'
+p2161
+S'_START_ two dogs are being petted by a man _END_'
+p2162
+tp2163
+a(S'_START_ some sticky goo is being pulled out of a bowl by a woman _END_'
+p2164
+S'_START_ a woman is pulling some sticky goo out of a bowl _END_'
+p2165
+tp2166
+a(S'_START_ the woman is putting pasta into a dish _END_'
+p2167
+S'_START_ pasta is being put into a dish by a woman _END_'
+p2168
+tp2169
+a(S'_START_ a man is riding a motorcycle _END_'
+p2170
+S'_START_ a man is riding a motorbike _END_'
+p2171
+tp2172
+a(S'_START_ a tiger is walking around _END_'
+p2173
+S'_START_ a tiger is strolling around _END_'
+p2174
+tp2175
+a(S'_START_ the trumpet is being played by a man _END_'
+p2176
+S'_START_ a man is playing the trumpet _END_'
+p2177
+tp2178
+a(S'_START_ somebody is folding a piece of paper _END_'
+p2179
+S'_START_ someone is folding a piece of paper _END_'
+p2180
+tp2181
+a(S'_START_ somebody is folding a piece of paper _END_'
+p2182
+S'_START_ a person is folding a piece of paper _END_'
+p2183
+tp2184
+a(S'_START_ a person is folding a piece of paper _END_'
+p2185
+S'_START_ someone is folding a piece of paper _END_'
+p2186
+tp2187
+a(S'_START_ a girl is using sign language _END_'
+p2188
+S'_START_ a girl is communicating with sign language _END_'
+p2189
+tp2190
+a(S'_START_ a young girl is using sign language _END_'
+p2191
+S'_START_ sign language is being used by a young girl _END_'
+p2192
+tp2193
+a(S'_START_ a girl is communicating with sign language _END_'
+p2194
+S'_START_ a young girl is using sign language _END_'
+p2195
+tp2196
+a(S'_START_ a rabbit is playing with a stuffed bunny _END_'
+p2197
+S'_START_ a bunny is playing with a stuffed bunny _END_'
+p2198
+tp2199
+a(S'_START_ a rabbit is playing with a toy rabbit _END_'
+p2200
+S'_START_ a rabbit is playing with a stuffed bunny _END_'
+p2201
+tp2202
+a(S'_START_ potatoes are being sliced by a man _END_'
+p2203
+S'_START_ a man is slicing potatoes _END_'
+p2204
+tp2205
+a(S'_START_ the man is slicing a potato _END_'
+p2206
+S'_START_ a potato is being sliced by the man _END_'
+p2207
+tp2208
+a(S'_START_ a potato is being sliced by the man _END_'
+p2209
+S'_START_ a man is slicing potatoes _END_'
+p2210
+tp2211
+a(S'_START_ the man is slicing a potato _END_'
+p2212
+S'_START_ potatoes are being sliced by a man _END_'
+p2213
+tp2214
+a(S'_START_ a flute is being played by a girl _END_'
+p2215
+S'_START_ a girl is playing a flute _END_'
+p2216
+tp2217
+a(S'_START_ a wind instrument is being played by a girl _END_'
+p2218
+S'_START_ a girl is playing a wind instrument _END_'
+p2219
+tp2220
+a(S'_START_ a keyboard is being played by a person _END_'
+p2221
+S'_START_ a person is playing a keyboard _END_'
+p2222
+tp2223
+a(S'_START_ the piano is being played by someone _END_'
+p2224
+S'_START_ someone is playing piano _END_'
+p2225
+tp2226
+a(S'_START_ a man is jumping into a pool _END_'
+p2227
+S'_START_ a man is diving into a pool _END_'
+p2228
+tp2229
+a(S'_START_ a man is playing a large flute _END_'
+p2230
+S'_START_ a large flute is being played by a man _END_'
+p2231
+tp2232
+a(S'_START_ a woman is peeling a potato _END_'
+p2233
+S'_START_ a potato is being peeled by a woman _END_'
+p2234
+tp2235
+a(S'_START_ the lady is peeling the potato _END_'
+p2236
+S'_START_ the potato is being peeled by the lady _END_'
+p2237
+tp2238
+a(S'_START_ a woman is peeling a potato _END_'
+p2239
+S'_START_ the potato is being peeled by the lady _END_'
+p2240
+tp2241
+a(S'_START_ the lady is peeling the potato _END_'
+p2242
+S'_START_ a potato is being peeled by a woman _END_'
+p2243
+tp2244
+a(S'_START_ the lady is peeling the potato _END_'
+p2245
+S'_START_ a woman is peeling a potato _END_'
+p2246
+tp2247
+a(S'_START_ an octopus is being sliced by a woman _END_'
+p2248
+S'_START_ a woman is slicing an octopus _END_'
+p2249
+tp2250
+a(S'_START_ the drums are being played by a man _END_'
+p2251
+S'_START_ a man is playing the drums _END_'
+p2252
+tp2253
+a(S'_START_ the guitar is being played by a man _END_'
+p2254
+S'_START_ a man is playing the guitar _END_'
+p2255
+tp2256
+a(S'_START_ a man is putting some food in a box _END_'
+p2257
+S'_START_ a man is putting some food in a container _END_'
+p2258
+tp2259
+a(S'_START_ eggs are being cracked into a bowl by a woman _END_'
+p2260
+S'_START_ a woman is cracking eggs into a bowl _END_'
+p2261
+tp2262
+a(S'_START_ a woman is placing skewers onto a rack _END_'
+p2263
+S'_START_ skewers are being placed onto a rack by a woman _END_'
+p2264
+tp2265
+a(S'_START_ a baby is playing a guitar _END_'
+p2266
+S'_START_ a guitar is being played by a baby _END_'
+p2267
+tp2268
+a(S'_START_ someone is reading the email _END_'
+p2269
+S'_START_ a person is reading the email _END_'
+p2270
+tp2271
+a(S'_START_ two pandas are lying together _END_'
+p2272
+S'_START_ two panda bears are lying together _END_'
+p2273
+tp2274
+a(S'_START_ fish is being cooked by a woman _END_'
+p2275
+S'_START_ a woman is cooking fish _END_'
+p2276
+tp2277
+a(S'_START_ a woman is frying fish _END_'
+p2278
+S'_START_ fish is being fried by a woman _END_'
+p2279
+tp2280
+a(S'_START_ a woman is playing the flute _END_'
+p2281
+S'_START_ the flute is being played by a woman _END_'
+p2282
+tp2283
+a(S'_START_ a man is playing a flute _END_'
+p2284
+S'_START_ a man is playing the flute _END_'
+p2285
+tp2286
+a(S'_START_ grass is being mowed by a man _END_'
+p2287
+S'_START_ a man is mowing grass _END_'
+p2288
+tp2289
+a(S'_START_ a guy is mowing the lawn _END_'
+p2290
+S'_START_ grass is being mowed by a man _END_'
+p2291
+tp2292
+a(S'_START_ a guy is mowing the lawn _END_'
+p2293
+S'_START_ a man is mowing grass _END_'
+p2294
+tp2295
+a(S'_START_ a skunk is being held by a person _END_'
+p2296
+S'_START_ a person is holding a skunk _END_'
+p2297
+tp2298
+a(S'_START_ a man is cutting tomatoes _END_'
+p2299
+S'_START_ a man is slicing tomatoes _END_'
+p2300
+tp2301
+a(S'_START_ broccoli are being cut by a woman _END_'
+p2302
+S'_START_ a woman is cutting broccoli _END_'
+p2303
+tp2304
+a(S'_START_ guitar is being played by a man _END_'
+p2305
+S'_START_ a man is playing guitar _END_'
+p2306
+tp2307
+a(S'_START_ a woman is cutting onions _END_'
+p2308
+S'_START_ a woman is chopping onions _END_'
+p2309
+tp2310
+a(S'_START_ a woman is slicing tofu _END_'
+p2311
+S'_START_ a woman is cutting tofu _END_'
+p2312
+tp2313
+a(S'_START_ a horse is being ridden by a girl _END_'
+p2314
+S'_START_ a girl is riding a horse _END_'
+p2315
+tp2316
+a(S'_START_ a man is breaking a slab of concrete with a sledge hammer _END_'
+p2317
+S'_START_ a man is breaking a block of concrete with a sledge hammer _END_'
+p2318
+tp2319
+a(S'_START_ a cupcake is being eaten by a girl _END_'
+p2320
+S'_START_ a girl is eating a cupcake _END_'
+p2321
+tp2322
+a(S'_START_ a man is talking _END_'
+p2323
+S'_START_ a man is speaking _END_'
+p2324
+tp2325
+a(S'_START_ a man is cutting a boot with a sword _END_'
+p2326
+S'_START_ a man is cutting a boot with a blade _END_'
+p2327
+tp2328
+a(S'_START_ a person is severing the toe of an empty leather boot with a sword _END_'
+p2329
+S'_START_ a man is severing the toe of an empty leather boot with a sword _END_'
+p2330
+tp2331
+a(S'_START_ a chef is cleaning a bowl of soup _END_'
+p2332
+S'_START_ a bowl of soup is being cleaned by a chef _END_'
+p2333
+tp2334
+a(S'_START_ a man is wiping the edge of a bowl _END_'
+p2335
+S'_START_ a man is cleaning the edge of a bowl _END_'
+p2336
+tp2337
+a(S'_START_ the guitar is being played by a kid _END_'
+p2338
+S'_START_ a kid is playing the guitar _END_'
+p2339
+tp2340
+a(S'_START_ someone is stirring a pot of chili with a spoon _END_'
+p2341
+S'_START_ a pot of chili is being stirred by someone with a spoon _END_'
+p2342
+tp2343
+a(S'_START_ a bottle is being licked by the cat _END_'
+p2344
+S'_START_ the cat is licking a bottle _END_'
+p2345
+tp2346
+a(S'_START_ a small dog is lying on the bed _END_'
+p2347
+S'_START_ a small dog is lying on a bed _END_'
+p2348
+tp2349
+a(S'_START_ a small dog is lying on a bed _END_'
+p2350
+S'_START_ a small dog is lying on the bed _END_'
+p2351
+tp2352
+a(S'_START_ a woman is cutting butter _END_'
+p2353
+S'_START_ a woman is slicing butter _END_'
+p2354
+tp2355
+a(S'_START_ tofu is being sliced by a woman _END_'
+p2356
+S'_START_ a woman is slicing tofu _END_'
+p2357
+tp2358
+a(S'_START_ some cheese is being put on a pizza by a man _END_'
+p2359
+S'_START_ a man is putting some cheese on a pizza _END_'
+p2360
+tp2361
+a(S'_START_ some cheese is being put on a pizza by a man _END_'
+p2362
+S'_START_ the man is sprinkling cheese on the pizza _END_'
+p2363
+tp2364
+a(S'_START_ the man is sprinkling cheese on the pizza _END_'
+p2365
+S'_START_ a man is putting some cheese on a pizza _END_'
+p2366
+tp2367
+a(S'_START_ a man is shooting a shotgun _END_'
+p2368
+S'_START_ a man is firing a shotgun _END_'
+p2369
+tp2370
+a(S'_START_ a cow is eating grass _END_'
+p2371
+S'_START_ a cow is grazing _END_'
+p2372
+tp2373
+a(S'_START_ hay is being eaten by a cow _END_'
+p2374
+S'_START_ a cow is eating hay _END_'
+p2375
+tp2376
+a(S'_START_ a tiger cub is playing with a ball _END_'
+p2377
+S'_START_ a baby tiger is playing with a ball _END_'
+p2378
+tp2379
+a(S'_START_ the man is playing a game on a lawn _END_'
+p2380
+S'_START_ the man is playing a game on the grass _END_'
+p2381
+tp2382
+a(S'_START_ a man is talking to a woman _END_'
+p2383
+S'_START_ a man and a woman are speaking _END_'
+p2384
+tp2385
+a(S'_START_ a woman is cracking eggs _END_'
+p2386
+S'_START_ a woman is breaking eggs _END_'
+p2387
+tp2388
+a(S'_START_ a bicycle is being ridden by a man _END_'
+p2389
+S'_START_ a man is riding a bicycle _END_'
+p2390
+tp2391
+a(S'_START_ a cat is jumping into a container _END_'
+p2392
+S'_START_ a cat is jumping into a box _END_'
+p2393
+tp2394
+a(S'_START_ a boy is talking to a leaf _END_'
+p2395
+S'_START_ a young man is talking to a leaf _END_'
+p2396
+tp2397
+a(S'_START_ a fish is being cut by a man _END_'
+p2398
+S'_START_ a man is cutting a fish _END_'
+p2399
+tp2400
+a(S'_START_ a man is slicing a fish _END_'
+p2401
+S'_START_ a fish is being sliced by a man _END_'
+p2402
+tp2403
+a(S'_START_ a man is cutting a fish _END_'
+p2404
+S'_START_ a fish is being sliced by a man _END_'
+p2405
+tp2406
+a(S'_START_ a man is slicing a fish _END_'
+p2407
+S'_START_ a fish is being cut by a man _END_'
+p2408
+tp2409
+a(S'_START_ a man is slicing a fish _END_'
+p2410
+S'_START_ a man is cutting a fish _END_'
+p2411
+tp2412
+a(S'_START_ a person is peeling a potato _END_'
+p2413
+S'_START_ a potato is being peeled by a person _END_'
+p2414
+tp2415
+a(S'_START_ a woman is cutting a tomato _END_'
+p2416
+S'_START_ a woman is slicing a tomato _END_'
+p2417
+tp2418
+a(S'_START_ a guitar is being played by a girl _END_'
+p2419
+S'_START_ a girl is playing a guitar _END_'
+p2420
+tp2421
+a(S'_START_ a man is riding a motorcycle _END_'
+p2422
+S'_START_ a motorcycle is being ridden by a man _END_'
+p2423
+tp2424
+a(S'_START_ the man is playing the guitar _END_'
+p2425
+S'_START_ the man is playing the instrument _END_'
+p2426
+tp2427
+a(S'_START_ a woman is boiling noodles in water _END_'
+p2428
+S'_START_ noodles are being boiled in water by a woman _END_'
+p2429
+tp2430
+a(S'_START_ two women are dancing and singing in front of a crowd _END_'
+p2431
+S'_START_ two women are dancing and singing in front of many people _END_'
+p2432
+tp2433
+a(S"_START_ an animal is biting a person 's finger _END_"
+p2434
+S"_START_ an animal is biting someone 's finger _END_"
+p2435
+tp2436
+a(S'_START_ the girl is tapping her fingernails _END_'
+p2437
+S'_START_ a girl is tapping her fingernails _END_'
+p2438
+tp2439
+a(S'_START_ ingredients are being poured into a bowl by a woman _END_'
+p2440
+S'_START_ a woman is pouring ingredients into a bowl _END_'
+p2441
+tp2442
+a(S'_START_ a horse is being ridden by a person _END_'
+p2443
+S'_START_ a person is riding a horse _END_'
+p2444
+tp2445
+a(S'_START_ potatoes are being sliced by a woman _END_'
+p2446
+S'_START_ a woman is slicing potatoes _END_'
+p2447
+tp2448
+a(S'_START_ a man is putting vegetables into a pot _END_'
+p2449
+S'_START_ vegetables are being put into a pot by a man _END_'
+p2450
+tp2451
+a(S'_START_ the man is standing on a rocky mountain and gray clouds are in the background _END_'
+p2452
+S'_START_ the man is standing on a mountain , which is rocky , and gray clouds are in the background _END_'
+p2453
+tp2454
+a(S'_START_ a person with a back pack , who is topless , is in front of a pile of rocks and clouds are in the background _END_'
+p2455
+S'_START_ a topless person with a back pack is in front of a pile of rocks and clouds are in the background _END_'
+p2456
+tp2457
+a(S'_START_ the dog is catching a ball _END_'
+p2458
+S'_START_ a dog is catching a ball _END_'
+p2459
+tp2460
+a(S'_START_ a boy in a blue shirt has dirt on his face _END_'
+p2461
+S'_START_ a boy in a blue dyed shirt has dirt on his face _END_'
+p2462
+tp2463
+a(S'_START_ a child , who has blond hair , is holding a yellow bottle _END_'
+p2464
+S'_START_ a blond child is holding a yellow bottle _END_'
+p2465
+tp2466
+a(S'_START_ the man in a hat suited for cowboys is walking through a market and is putting a hand in his pocket _END_'
+p2467
+S'_START_ the man in a cowboy hat is walking through a market and is putting a hand in his pocket _END_'
+p2468
+tp2469
+a(S'_START_ a large white crane is flying near the water _END_'
+p2470
+S'_START_ a crane , which is large and white , is flying near the water _END_'
+p2471
+tp2472
+a(S'_START_ a white bird is landing swiftly in the water _END_'
+p2473
+S'_START_ the white bird is landing swiftly in the water _END_'
+p2474
+tp2475
+a(S'_START_ a dog with golden fur is in the water _END_'
+p2476
+S'_START_ a dog with a golden coat is in the water _END_'
+p2477
+tp2478
+a(S'_START_ a girl in a blue shirt , who looks young , is walking on the sidewalk and holding up a pink sign _END_'
+p2479
+S'_START_ a young girl in a blue shirt is walking on the sidewalk and holding up a pink sign _END_'
+p2480
+tp2481
+a(S'_START_ the girl is carrying a sign and a group of people is following her _END_'
+p2482
+S'_START_ the girl is carrying a sign and is being followed by a group of people _END_'
+p2483
+tp2484
+a(S'_START_ one man in a big city is holding up a sign and begging for money _END_'
+p2485
+S'_START_ a man in a big city is holding a sign and begging for money _END_'
+p2486
+tp2487
+a(S'_START_ a homeless man is holding up a sign and is begging for money _END_'
+p2488
+S'_START_ a homeless man is holding up a sign and is pitifully begging for money _END_'
+p2489
+tp2490
+a(S'_START_ a small dog is chasing a large brown cow _END_'
+p2491
+S'_START_ a dog , which is small , is chasing a large brown cow _END_'
+p2492
+tp2493
+a(S'_START_ a dog is chasing the tail of an animal in the grass _END_'
+p2494
+S'_START_ the tail of an animal is being chasing by a dog in the grass _END_'
+p2495
+tp2496
+a(S'_START_ the small child is walking through the water and is being guided by another person _END_'
+p2497
+S'_START_ the small child is wading through the water and is being guided by another person _END_'
+p2498
+tp2499
+a(S'_START_ a young child is splashing in the water _END_'
+p2500
+S'_START_ the young child is splashing in the water _END_'
+p2501
+tp2502
+a(S'_START_ a woman is looking curiously at a man _END_'
+p2503
+S'_START_ a man is being curiously looked at by a woman _END_'
+p2504
+tp2505
+a(S'_START_ a man and a woman are in a room painted beige , wearing dark colored shirts and a monitor is in the background _END_'
+p2506
+S'_START_ a man and a woman are in a beige room , wearing dark colored shirts and a monitor is in the background _END_'
+p2507
+tp2508
+a(S'_START_ a brown dog is looking closely at a brown and white dog _END_'
+p2509
+S'_START_ a brown dog is staring attentively at a brown and white dog _END_'
+p2510
+tp2511
+a(S'_START_ the man is performing a large jump _END_'
+p2512
+S'_START_ a large jump is being performed by a man _END_'
+p2513
+tp2514
+a(S'_START_ a person in a blue jacket is jumping off of a tall cement wall _END_'
+p2515
+S'_START_ a person in a blue colored jacket is jumping off of a tall cement wall _END_'
+p2516
+tp2517
+a(S'_START_ a woman in jeans is sitting on the saddle of a horse _END_'
+p2518
+S'_START_ the woman in jeans is sitting on the saddle of a horse _END_'
+p2519
+tp2520
+a(S'_START_ the brown dog and the red dog are frolicking on the beach _END_'
+p2521
+S'_START_ a brown dog and a red dog are frolicking on the beach _END_'
+p2522
+tp2523
+a(S'_START_ the brown dogs are playfully fighting on the sandy beach _END_'
+p2524
+S'_START_ the brown dogs are playfully fighting on the sandy shore _END_'
+p2525
+tp2526
+a(S'_START_ a man is standing beside a birdcage which is large and colorful _END_'
+p2527
+S'_START_ a man is standing beside a large and colorful birdcage _END_'
+p2528
+tp2529
+a(S'_START_ one brown and black dog is running through the leaves _END_'
+p2530
+S'_START_ a brown and black dog is running through the leaves _END_'
+p2531
+tp2532
+a(S'_START_ a brown and white dog is holding a baseball in its mouth _END_'
+p2533
+S'_START_ a dog , which has a brown and white coat , is holding a baseball in its mouth _END_'
+p2534
+tp2535
+a(S'_START_ a black and white dog is holding a baseball in its mouth _END_'
+p2536
+S'_START_ a baseball is being held in its mouth by a black and white dog _END_'
+p2537
+tp2538
+a(S'_START_ a boy , who looks young and is wearing a red swimsuit , is jumping into a blue kiddies pool _END_'
+p2539
+S'_START_ a young boy wearing a red swimsuit is jumping into a blue kiddies pool _END_'
+p2540
+tp2541
+a(S'_START_ a group of racing dogs is wearing striped uniforms and is running down a track _END_'
+p2542
+S'_START_ a group of dogs bred for racing is wearing striped uniforms and is running down a track _END_'
+p2543
+tp2544
+a(S'_START_ two people are wading through the water _END_'
+p2545
+S'_START_ a couple or people are wading through the water _END_'
+p2546
+tp2547
+a(S'_START_ two people are standing in the ocean and watching the sunset _END_'
+p2548
+S'_START_ two people are standing in the ocean and looking at the sunset _END_'
+p2549
+tp2550
+a(S'_START_ the person in the blue jacket is wearing a colorful helmet _END_'
+p2551
+S'_START_ a person in a blue jacket is wearing a colorful helmet _END_'
+p2552
+tp2553
+a(S'_START_ a boy and a girl in swimsuits are wearing arm floats _END_'
+p2554
+S'_START_ a boy and a girl in swimsuits are wearing floats for their arms _END_'
+p2555
+tp2556
+a(S'_START_ a woman in a yellow dyed shirt is surfing on a pink surfboard _END_'
+p2557
+S'_START_ a woman in a yellow shirt is surfing on a pink surfboard _END_'
+p2558
+tp2559
+a(S'_START_ the wave is being ridden by a surfer _END_'
+p2560
+S'_START_ a surfer is riding the wave _END_'
+p2561
+tp2562
+a(S'_START_ the group of people is sitting on a ledge which is rocky and a scenic view is behind them _END_'
+p2563
+S'_START_ the group of people is sitting on a rocky ledge and a scenic view is behind them _END_'
+p2564
+tp2565
+a(S'_START_ a group of asian girls are standing together _END_'
+p2566
+S'_START_ the group of asian girls are standing together _END_'
+p2567
+tp2568
+a(S'_START_ a bicyclist is holding a bike over his head in a group of people _END_'
+p2569
+S'_START_ a bike is being held over his head by a bicyclist in a group of people _END_'
+p2570
+tp2571
+a(S'_START_ a cold cyclist is celebrating _END_'
+p2572
+S'_START_ something is being celebrated by a cold cyclist _END_'
+p2573
+tp2574
+a(S'_START_ some people at a drag race are looking at the flames that are coming out of the cars _END_'
+p2575
+S'_START_ people at a drag race are looking at the flames that are coming out of the cars _END_'
+p2576
+tp2577
+a(S'_START_ the crowd is watching two cars designed for racing that are leaving the starting line _END_'
+p2578
+S'_START_ the crowd is watching two racing cars that are leaving the starting line _END_'
+p2579
+tp2580
+a(S'_START_ a dog , which is brown , is jumping in the air _END_'
+p2581
+S'_START_ a brown dog is jumping in the air _END_'
+p2582
+tp2583
+a(S'_START_ a malnourished looking dog is standing on its hind legs and preparing to jump _END_'
+p2584
+S'_START_ the malnourished looking dog is standing on its hind legs and is preparing to jump _END_'
+p2585
+tp2586
+a(S'_START_ the cop is sitting on a police bike _END_'
+p2587
+S'_START_ the cop is sitting on a police bicycle _END_'
+p2588
+tp2589
+a(S'_START_ two women are wearing bikinis on the sandy beach _END_'
+p2590
+S'_START_ two women are wearing bikinis on the beach which is sandy _END_'
+p2591
+tp2592
+a(S'_START_ two women are wearing bikinis and walking on the sand _END_'
+p2593
+S'_START_ two women are wearing bikinis and are walking on the sand _END_'
+p2594
+tp2595
+a(S'_START_ a dog is swimming in a lake and the sun is shining on him _END_'
+p2596
+S'_START_ the dog is swimming in a lake and the sun is shining on him _END_'
+p2597
+tp2598
+a(S'_START_ a dog , which has a black coat , is running in the grass and its tongue is hanging out _END_'
+p2599
+S'_START_ a black dog is running in the grass and its tongue is hanging out _END_'
+p2600
+tp2601
+a(S'_START_ a black dog is running in the grass and its tongue is hanging out _END_'
+p2602
+S'_START_ a black dog is hanging out in the grass and running with its tongue out _END_'
+p2603
+tp2604
+a(S'_START_ a dog , which is black , is running in the grass _END_'
+p2605
+S'_START_ a black dog is running in the grass _END_'
+p2606
+tp2607
+a(S'_START_ a black dog is hanging out in the grass and running with its tongue out _END_'
+p2608
+S'_START_ a black dog is running in the grass _END_'
+p2609
+tp2610
+a(S'_START_ the cheerleaders are parading and wearing uniforms which are black , pink and white _END_'
+p2611
+S'_START_ the cheerleaders are parading and wearing black , pink and white uniforms _END_'
+p2612
+tp2613
+a(S'_START_ a large group of cheerleaders is walking in a parade _END_'
+p2614
+S'_START_ many cheerleaders are walking in a parade _END_'
+p2615
+tp2616
+a(S'_START_ the man is sitting outside under a purple umbrella _END_'
+p2617
+S'_START_ the man is sitting outdoors under a purple umbrella _END_'
+p2618
+tp2619
+a(S'_START_ a shoeless woman is sitting on a blanket under a lavender umbrella _END_'
+p2620
+S'_START_ a woman , who is shoeless , is sitting on a blanket under a lavender umbrella _END_'
+p2621
+tp2622
+a(S'_START_ the woman is playing with two young boys at a park _END_'
+p2623
+S'_START_ a woman is playing with two young boys at a park _END_'
+p2624
+tp2625
+a(S'_START_ a lady is standing near three children _END_'
+p2626
+S'_START_ a woman is standing near three children _END_'
+p2627
+tp2628
+a(S'_START_ a tan dog is running through the snow _END_'
+p2629
+S'_START_ a dog , which is tan , is running through the snow _END_'
+p2630
+tp2631
+a(S'_START_ the little girl in a pink shirt is running under a tree in the desert _END_'
+p2632
+S'_START_ a little girl in a pink shirt is running under a tree in the desert _END_'
+p2633
+tp2634
+a(S'_START_ the white dog wearing reindeer ears is close to a brown dog _END_'
+p2635
+S'_START_ the white dog wearing reindeer ears is near a brown dog _END_'
+p2636
+tp2637
+a(S'_START_ a child , who is young , is riding a bike on a rough dirt path _END_'
+p2638
+S'_START_ a young child is riding a bike on a rough dirt path _END_'
+p2639
+tp2640
+a(S'_START_ the young boy is riding a dirt bike through the mud _END_'
+p2641
+S'_START_ a young boy is riding a dirt bike through the mud _END_'
+p2642
+tp2643
+a(S'_START_ a woman in a red dress is playing an instrument _END_'
+p2644
+S'_START_ an instrument is being played by a woman in a red dress _END_'
+p2645
+tp2646
+a(S'_START_ the woman in a red costume is leaning against a wall made of bricks and playing an instrument _END_'
+p2647
+S'_START_ the woman in a red costume is leaning against a brick wall and playing an instrument _END_'
+p2648
+tp2649
+a(S'_START_ a young child is wearing a white coat and playing a game _END_'
+p2650
+S'_START_ a child , who is young , is wearing a white coat and playing a game _END_'
+p2651
+tp2652
+a(S'_START_ a surfer is leaning on a surfboard _END_'
+p2653
+S'_START_ the surfer is leaning on a surfboard _END_'
+p2654
+tp2655
+a(S'_START_ the people are walking on the road beside a beautiful waterfall _END_'
+p2656
+S'_START_ the people are walking on the road beside a waterfall , which is beautiful _END_'
+p2657
+tp2658
+a(S'_START_ a dog is herding a group of white sheep on a dusty farm _END_'
+p2659
+S'_START_ a dog is herding a pack of white sheep on a dusty farm _END_'
+p2660
+tp2661
+a(S'_START_ a sheepdog is grouping a herd of sheep _END_'
+p2662
+S'_START_ the sheepdog is grouping a herd of sheep _END_'
+p2663
+tp2664
+a(S'_START_ the male , who is dark skinned , is standing on one hand in front of a yellow building _END_'
+p2665
+S'_START_ the dark skinned male is standing on one hand in front of a yellow building _END_'
+p2666
+tp2667
+a(S'_START_ a bike is being ridden by a person _END_'
+p2668
+S'_START_ a person is riding a bike _END_'
+p2669
+tp2670
+a(S'_START_ a person who rides bikes , in a black and red uniform , is standing on a dirt bike _END_'
+p2671
+S'_START_ a bike rider in a black and red uniform is standing on a dirt bike _END_'
+p2672
+tp2673
+a(S'_START_ a man in a purple suit is standing by a purple case and is playing a guitar _END_'
+p2674
+S'_START_ a man in a purple colored suit is standing by a purple case and is playing a guitar _END_'
+p2675
+tp2676
+a(S'_START_ the guitar is being played by the man , who has the guitar case open for donations _END_'
+p2677
+S'_START_ the man is playing the guitar and has the guitar case open for donations _END_'
+p2678
+tp2679
+a(S'_START_ two adults are sitting in the chairs and are watching the ocean _END_'
+p2680
+S'_START_ some adults are sitting in the chairs and are watching the ocean _END_'
+p2681
+tp2682
+a(S'_START_ a couple is sitting on a patio and is staring at the ocean _END_'
+p2683
+S'_START_ a couple is sitting on a patio and looking at the ocean _END_'
+p2684
+tp2685
+a(S'_START_ a small boy in a shirt , which is yellow , is laughing on the beach _END_'
+p2686
+S'_START_ a small boy in a yellow shirt is laughing on the beach _END_'
+p2687
+tp2688
+a(S'_START_ the little boy is wearing a yellow tank top and is laughing _END_'
+p2689
+S'_START_ a little boy is wearing a yellow tank top and is laughing _END_'
+p2690
+tp2691
+a(S'_START_ the orange rescue boat is rushing across the water _END_'
+p2692
+S'_START_ the rescue boat , which is orange , is rushing across the water _END_'
+p2693
+tp2694
+a(S'_START_ a person is standing in a vast field of glacial ice _END_'
+p2695
+S'_START_ one person is standing in a vast field of glacial ice _END_'
+p2696
+tp2697
+a(S'_START_ a blond boy is sliding down a dune of sand on a skateboard _END_'
+p2698
+S'_START_ a blond boy is sliding down a sand dune on a skateboard _END_'
+p2699
+tp2700
+a(S'_START_ a woman is swiftly snowboarding down an incline and another woman is standing behind her _END_'
+p2701
+S'_START_ a woman is snowboarding down an incline and another woman is standing behind her _END_'
+p2702
+tp2703
+a(S'_START_ the man is taking a picture of himself and another guy _END_'
+p2704
+S'_START_ a picture of himself and another guy is being taken by the man _END_'
+p2705
+tp2706
+a(S'_START_ a little black dog is chasing a little brown dog _END_'
+p2707
+S'_START_ a dog , which is little and black , is chasing a little brown dog _END_'
+p2708
+tp2709
+a(S'_START_ the brown dog and the black dog are in the grass _END_'
+p2710
+S'_START_ a brown dog and a black dog are in the grass _END_'
+p2711
+tp2712
+a(S'_START_ a girl in a brown dress is being surrounded by children and is closing her eyes _END_'
+p2713
+S'_START_ children are surrounding a girl in a brown dress who is closing her eyes _END_'
+p2714
+tp2715
+a(S'_START_ a group of women are wearing pink bunny ears and are pointing to the right _END_'
+p2716
+S'_START_ several women are wearing pink bunny ears and are pointing to the right _END_'
+p2717
+tp2718
+a(S'_START_ the goal is being guarded by a hockey player in a yellow jersey _END_'
+p2719
+S'_START_ a hockey player in a yellow jersey is guarding the goal _END_'
+p2720
+tp2721
+a(S'_START_ the goal is being guarded by a hockey player in a yellow jersey _END_'
+p2722
+S'_START_ the ice hockey goalkeeper is wearing a yellow jersey and is defending the goal _END_'
+p2723
+tp2724
+a(S'_START_ a child , who looks young , is standing in front of some trees _END_'
+p2725
+S'_START_ a young child is standing in front of some trees _END_'
+p2726
+tp2727
+a(S'_START_ the small boy is standing in the forest _END_'
+p2728
+S'_START_ a small boy is standing in the forest _END_'
+p2729
+tp2730
+a(S'_START_ two people are looking at a statue made of gold _END_'
+p2731
+S'_START_ two people are looking at a gold statue _END_'
+p2732
+tp2733
+a(S'_START_ the woman is wearing a blue helmet and is riding a bicycle in a parking lot _END_'
+p2734
+S'_START_ a woman is wearing a blue helmet and is riding a bicycle in a parking lot _END_'
+p2735
+tp2736
+a(S'_START_ a pet dog is standing on the bank and is looking at another dog , which is brown , in the pond _END_'
+p2737
+S'_START_ a pet dog is standing on the bank and is looking at another brown dog in the pond _END_'
+p2738
+tp2739
+a(S'_START_ a young female is dancing _END_'
+p2740
+S'_START_ a young girl is dancing _END_'
+p2741
+tp2742
+a(S'_START_ a bee is clinging to a yellow flower _END_'
+p2743
+S'_START_ a yellow flower is being clung to by a bee _END_'
+p2744
+tp2745
+a(S'_START_ the small bee is landing on a bunch of yellow flowers _END_'
+p2746
+S'_START_ a small bee is landing on a bunch of yellow flowers _END_'
+p2747
+tp2748
+a(S'_START_ some people are treading through the snow of the landscape which is beautiful and snowy _END_'
+p2749
+S'_START_ some people are treading through the snow of the beautiful snowy landscape _END_'
+p2750
+tp2751
+a(S'_START_ a tan dog is running through the brush _END_'
+p2752
+S'_START_ a dog , which is tan , is running through the brush _END_'
+p2753
+tp2754
+a(S'_START_ a white dog with beige spots is running through a field _END_'
+p2755
+S'_START_ a white dog with beige spots is speeding through a field _END_'
+p2756
+tp2757
+a(S'_START_ a hurdle is being leapt by a horse that has a rider on its back _END_'
+p2758
+S'_START_ a horse is leaping a hurdle and has a rider on its back _END_'
+p2759
+tp2760
+a(S'_START_ a hurdle is being leapt by a horse that has a rider on its back _END_'
+p2761
+S'_START_ a horse and its rider are leaping over a barrier _END_'
+p2762
+tp2763
+a(S'_START_ a horse is leaping a hurdle and has a rider on its back _END_'
+p2764
+S'_START_ a horse and its rider are leaping over a barrier _END_'
+p2765
+tp2766
+a(S'_START_ some football players in red and white are jumping and hugging _END_'
+p2767
+S'_START_ football players in red and white are jumping and hugging each other _END_'
+p2768
+tp2769
+a(S'_START_ two teammates are lifting a football player in a red and white uniform _END_'
+p2770
+S'_START_ a football player in a red and white uniform is being lifted by two teammates _END_'
+p2771
+tp2772
+a(S'_START_ two teenage girls are wearing fancy dresses at an event _END_'
+p2773
+S'_START_ two girls in their teens are wearing fancy dresses at an event _END_'
+p2774
+tp2775
+a(S'_START_ two women with folded arms , who are young , are looking at the screen _END_'
+p2776
+S'_START_ two young women with folded arms are looking at the screen _END_'
+p2777
+tp2778
+a(S'_START_ a group of students in uniforms is listening attentively at the front of the class _END_'
+p2779
+S'_START_ some students in uniforms are listening attentively at the front of the class _END_'
+p2780
+tp2781
+a(S'_START_ a classroom full of students is looking in the same direction inside a bamboo structure _END_'
+p2782
+S'_START_ a classroom full of students is looking attentively in the same direction inside a bamboo structure _END_'
+p2783
+tp2784
+a(S'_START_ a boy is jumping off a platform and two other boys are standing and watching _END_'
+p2785
+S'_START_ a boy is jumping off a platform and two other boys are standing and staring at him _END_'
+p2786
+tp2787
+a(S'_START_ three boys are jumping off a platform _END_'
+p2788
+S'_START_ some boys are jumping off a platform _END_'
+p2789
+tp2790
+a(S'_START_ a group of kids is playing on a structure which is colorful _END_'
+p2791
+S'_START_ a group of kids is playing on a colorful structure _END_'
+p2792
+tp2793
+a(S'_START_ four middle eastern children , three girls and one boy , are climbing on the grotto with a pink interior _END_'
+p2794
+S'_START_ the grotto with a pink interior is being climbed by four middle eastern children , three girls and one boy _END_'
+p2795
+tp2796
+a(S'_START_ the group of people is sitting on the ground outside a monument _END_'
+p2797
+S'_START_ some people are sitting on the ground outside a monument _END_'
+p2798
+tp2799
+a(S'_START_ a child , who is small , is outdoors climbing steps outdoors in an area full of grass _END_'
+p2800
+S'_START_ a small child is outdoors climbing steps in a grassy area _END_'
+p2801
+tp2802
+a(S'_START_ a little child in a pink sweater is climbing a concrete staircase _END_'
+p2803
+S'_START_ a small child in a pink sweater is climbing a concrete staircase _END_'
+p2804
+tp2805
+a(S'_START_ a bird , which is black , is sitting on a dead tree _END_'
+p2806
+S'_START_ a black bird is sitting on a dead tree _END_'
+p2807
+tp2808
+a(S'_START_ a child in orange is playing outdoors with a snowball _END_'
+p2809
+S'_START_ a kid in orange is playing outside with a snowball _END_'
+p2810
+tp2811
+a(S'_START_ a child is making a snow ball _END_'
+p2812
+S'_START_ a snow ball is being made by a child _END_'
+p2813
+tp2814
+a(S'_START_ the back of a small black dog is being sniffed by the brown dog _END_'
+p2815
+S'_START_ the brown dog is sniffing the back of a small black dog _END_'
+p2816
+tp2817
+a(S'_START_ a large brown dog and a small grey dog are standing on a rocky surface _END_'
+p2818
+S'_START_ a big brown dog and a small grey dog are standing on a rocky surface _END_'
+p2819
+tp2820
+a(S'_START_ a dog is jumping for a frisbee in the snow _END_'
+p2821
+S'_START_ the dog is jumping for a frisbee in the snow _END_'
+p2822
+tp2823
+a(S'_START_ a black dog in the snow is jumping off the ground and catching a stick _END_'
+p2824
+S'_START_ a black dog in the snow is leaping off the ground and catching a stick _END_'
+p2825
+tp2826
+a(S'_START_ a man is holding a mask in his raised hand _END_'
+p2827
+S'_START_ a mask is being held by a man in his raised hand _END_'
+p2828
+tp2829
+a(S'_START_ two children are peering over a ledge , which is rusty _END_'
+p2830
+S'_START_ two children are peering over a rusty ledge _END_'
+p2831
+tp2832
+a(S'_START_ two children are crouching under some bars made of metal _END_'
+p2833
+S'_START_ two children are crouching under some metal bars _END_'
+p2834
+tp2835
+a(S'_START_ the player in purple , white and black is playing near the end of the field _END_'
+p2836
+S'_START_ a player in purple , white and black is playing near the end of the field _END_'
+p2837
+tp2838
+a(S'_START_ a man is wearing a sports uniform and is running down the field _END_'
+p2839
+S'_START_ a sports uniform is being worn by a man who is running down the field _END_'
+p2840
+tp2841
+a(S'_START_ a man on a bicycle is riding on the beach _END_'
+p2842
+S'_START_ a man on a bike is riding on the shore _END_'
+p2843
+tp2844
+a(S'_START_ one person is riding a bicycle in the sand beside the ocean _END_'
+p2845
+S'_START_ a person is riding a bicycle in the sand beside the ocean _END_'
+p2846
+tp2847
+a(S'_START_ a large duck is flying over a rocky stream _END_'
+p2848
+S'_START_ a duck , which is large , is flying over a rocky stream _END_'
+p2849
+tp2850
+a(S'_START_ the kids are chasing each other in the sand _END_'
+p2851
+S'_START_ the children are chasing each other in the sand _END_'
+p2852
+tp2853
+a(S'_START_ a little boy is running on the ground and playing with a little girl _END_'
+p2854
+S'_START_ the little boy is running on the ground and playing with a little girl _END_'
+p2855
+tp2856
+a(S'_START_ two small children are playing with a toy car in the street _END_'
+p2857
+S'_START_ two children , who are small , are playing with a toy car in the street _END_'
+p2858
+tp2859
+a(S'_START_ a daughter is being pushed by her father on a go kart and another girl is watching _END_'
+p2860
+S'_START_ a father is pushing his daughter on a go kart and another girl is watching _END_'
+p2861
+tp2862
+a(S'_START_ a dog is running up a hill full of grass _END_'
+p2863
+S'_START_ a dog is running up a grassy hill _END_'
+p2864
+tp2865
+a(S'_START_ a golden dog is running through a field of tall grass _END_'
+p2866
+S'_START_ the golden dog is running through a field of tall grass _END_'
+p2867
+tp2868
+a(S'_START_ a brown dog is running through the grass which is tall and green _END_'
+p2869
+S'_START_ a brown dog is running through tall green grass _END_'
+p2870
+tp2871
+a(S'_START_ a couple of white dogs are running and jumping along a beach _END_'
+p2872
+S'_START_ two white dogs are running and jumping along a beach _END_'
+p2873
+tp2874
+a(S'_START_ the large brown dog is running outdoors in the dirt _END_'
+p2875
+S'_START_ the large brown dog is running outside in the dirt _END_'
+p2876
+tp2877
+a(S'_START_ a dog is running alongside a fence on a dirt track _END_'
+p2878
+S'_START_ a dog is running alongside a fence on a track full of dirt _END_'
+p2879
+tp2880
+a(S'_START_ a young girl in a coat made for winter is jumping off a boulder into the sand at a beach _END_'
+p2881
+S'_START_ a young girl in a winter coat is jumping off a boulder into the sand at a beach _END_'
+p2882
+tp2883
+a(S'_START_ a girl is jumping off a rock and another is standing on it _END_'
+p2884
+S'_START_ one girl is jumping off a rock and another is standing on it _END_'
+p2885
+tp2886
+a(S'_START_ a young man with brown hair and shades is sitting in front of some cans of soda _END_'
+p2887
+S'_START_ a young man with brown hair and sunglasses is sitting in front of some cans of soda _END_'
+p2888
+tp2889
+a(S'_START_ a woman wearing a blue and white uniform with a white and blue hat is keeping her mouth open and is near others dressed in the same fashion _END_'
+p2890
+S'_START_ the woman wearing the blue and white uniform with a white and blue hat is keeping her mouth open and is near others who are dressed in the same fashion _END_'
+p2891
+tp2892
+a(S'_START_ a woman is wearing a shirt , which is blue , with a white vest and a white cap and is talking and marching _END_'
+p2893
+S'_START_ a woman is wearing a blue shirt with a white vest and a white cap and is talking and marching _END_'
+p2894
+tp2895
+a(S'_START_ a bearded man is standing by a shopping cart and is holding a cardboard sign _END_'
+p2896
+S'_START_ one bearded man is standing by a shopping cart and is holding a cardboard sign _END_'
+p2897
+tp2898
+a(S'_START_ the snowboarder is doing a flip over a mound of snow _END_'
+p2899
+S'_START_ a snowboarder is doing a flip over a mound of snow _END_'
+p2900
+tp2901
+a(S'_START_ somebody is leaping in the air on a board _END_'
+p2902
+S'_START_ somebody is jumping in the air on a board _END_'
+p2903
+tp2904
+a(S'_START_ a large crowd in warm clothing is posing for a camera _END_'
+p2905
+S'_START_ a crowd , which is large , in warm clothing is posing for a camera _END_'
+p2906
+tp2907
+a(S'_START_ a girl , who is little , with blond hair is smiling and sitting on a swing _END_'
+p2908
+S'_START_ a little girl with blond hair is smiling and sitting on a swing _END_'
+p2909
+tp2910
+a(S'_START_ a blond kid in green is sitting on a swing _END_'
+p2911
+S'_START_ a blonde boy in green is sitting on a swing _END_'
+p2912
+tp2913
+a(S'_START_ music is being performed by four people outdoors _END_'
+p2914
+S'_START_ four people are performing music outdoors _END_'
+p2915
+tp2916
+a(S'_START_ the man in the white hat is playing guitar on stage _END_'
+p2917
+S'_START_ a man in a white hat is playing guitar on stage _END_'
+p2918
+tp2919
+a(V_START_ a man is participating in a bmx race _END_
+p2920
+V_START_ a man is participating in a race for bms _END_
+p2921
+tp2922
+a(S'_START_ a happy family is posing by the fireplace _END_'
+p2923
+S'_START_ a family , which looks happy , is posing by the fireplace _END_'
+p2924
+tp2925
+a(S'_START_ the family is posing by a mantel and a christmas tree _END_'
+p2926
+S'_START_ a family is posing by the mantel and the christmas tree _END_'
+p2927
+tp2928
+a(S'_START_ an opponent is tackling a soccer player _END_'
+p2929
+S'_START_ a soccer player is being tackled by his opponent _END_'
+p2930
+tp2931
+a(S'_START_ some people playing rugby are tackling each other _END_'
+p2932
+S'_START_ rugby players are tackling each other _END_'
+p2933
+tp2934
+a(S'_START_ a dog , which is white , is standing on fallen leaves _END_'
+p2935
+S'_START_ a white dog is standing on fallen leaves _END_'
+p2936
+tp2937
+a(S'_START_ a white dog is standing on the leaves on the ground _END_'
+p2938
+S'_START_ one white dog is standing on the leaves on the ground _END_'
+p2939
+tp2940
+a(S'_START_ a white dog is standing on fallen leaves _END_'
+p2941
+S'_START_ one white dog is standing on the leaves on the ground _END_'
+p2942
+tp2943
+a(S'_START_ a white dog is standing on the leaves on the ground _END_'
+p2944
+S'_START_ a dog , which is white , is standing on fallen leaves _END_'
+p2945
+tp2946
+a(S'_START_ a child in clothing which is light colored is standing with his arms extended outward _END_'
+p2947
+S'_START_ a child in light colored clothing is standing with his arms extended outward _END_'
+p2948
+tp2949
+a(S'_START_ the boy and girl are playing on the outdoor gym _END_'
+p2950
+S'_START_ a boy and a girl are playing on the outdoor gym _END_'
+p2951
+tp2952
+a(S'_START_ some children are playing on a playground _END_'
+p2953
+S'_START_ some kids are playing on a playground _END_'
+p2954
+tp2955
+a(S'_START_ the motocross rider is wearing blue and black pants _END_'
+p2956
+S'_START_ blue and black pants are being worn by the motocross rider _END_'
+p2957
+tp2958
+a(S'_START_ a young asian woman with pink gloves is standing in the snow _END_'
+p2959
+S'_START_ a woman , who is young and asian , with gloves colored in pink , is standing in the snow _END_'
+p2960
+tp2961
+a(S'_START_ a female wearing pink gloves and a brown jacket is smiling in the snow _END_'
+p2962
+S'_START_ the female wearing pink gloves and a brown jacket is smiling in the snow _END_'
+p2963
+tp2964
+a(S'_START_ orange juice is being drunk by a man who is walking on a sunny day _END_'
+p2965
+S'_START_ a man is drinking orange juice and walking on a sunny day _END_'
+p2966
+tp2967
+a(S'_START_ a trick is being performed by a rollerblader on a ramp _END_'
+p2968
+S'_START_ a rollerblader is performing a trick on a ramp _END_'
+p2969
+tp2970
+a(S'_START_ a man on inline skates is skating at a skate park _END_'
+p2971
+S'_START_ a man on inline skates is skating at a park built for skating _END_'
+p2972
+tp2973
+a(S'_START_ a dog with a black coat is standing in shallow water _END_'
+p2974
+S'_START_ a black dog is standing in shallow water _END_'
+p2975
+tp2976
+a(S'_START_ the crowd is watching a football game _END_'
+p2977
+S'_START_ a football game is being watched by the crowd _END_'
+p2978
+tp2979
+a(S'_START_ a group of people playing football is running in the field _END_'
+p2980
+S'_START_ a group of football players is running in the field _END_'
+p2981
+tp2982
+a(S'_START_ the group of people is standing together and looking at the camera _END_'
+p2983
+S'_START_ a group of people is standing together and looking at the camera _END_'
+p2984
+tp2985
+a(S'_START_ a child is sitting in a red and yellow toy car _END_'
+p2986
+S'_START_ a child is sitting in a toy car colored in red and yellow _END_'
+p2987
+tp2988
+a(S'_START_ a small girl is riding in a toy car _END_'
+p2989
+S'_START_ the small girl is riding in the toy car _END_'
+p2990
+tp2991
+a(S'_START_ a little boy in clothes dyed in red is jumping into the air _END_'
+p2992
+S'_START_ a little boy in red clothes is jumping into the air _END_'
+p2993
+tp2994
+a(S'_START_ the black dog is playing with the brown dog on the sand _END_'
+p2995
+S'_START_ a black dog is playing with a brown dog on the sand _END_'
+p2996
+tp2997
+a(S'_START_ a brown dog and a black dog are frolicking in the sand _END_'
+p2998
+S'_START_ a black dog is playing with a brown dog on the sand _END_'
+p2999
+tp3000
+a(S'_START_ a brown dog and a black dog are playing in the sand _END_'
+p3001
+S'_START_ the black dog is playing with the brown dog on the sand _END_'
+p3002
+tp3003
+a(S'_START_ a brown dog and a black dog are playing in the sand _END_'
+p3004
+S'_START_ a black dog is playing with a brown dog on the sand _END_'
+p3005
+tp3006
+a(S'_START_ three men and a woman are posing for a picture _END_'
+p3007
+S'_START_ a woman and three men are posing for a photo _END_'
+p3008
+tp3009
+a(S'_START_ a young boy covered in grass is jumping near a wooden fence _END_'
+p3010
+S'_START_ a young boy covered in grass is jumping near a fence made of wood _END_'
+p3011
+tp3012
+a(S'_START_ a black dog is walking through some tall grass _END_'
+p3013
+S'_START_ the black dog is walking through the tall grass _END_'
+p3014
+tp3015
+a(S'_START_ the black dog is climbing on a rock _END_'
+p3016
+S'_START_ a rock is being climbed by the black dog _END_'
+p3017
+tp3018
+a(S'_START_ a dog is standing with its two front paws on a rock in a field _END_'
+p3019
+S'_START_ the dog is standing with its two front paws on a rock in the field _END_'
+p3020
+tp3021
+a(S'_START_ a young child with hair of black color is taking a picture with a camera _END_'
+p3022
+S'_START_ a young child with black hair is taking a picture with a camera _END_'
+p3023
+tp3024
+a(S'_START_ two boys , who look small , dressed in tuxedos are sitting on a red carpeted floor _END_'
+p3025
+S'_START_ two small boys dressed in tuxedos are sitting on a red carpeted floor _END_'
+p3026
+tp3027
+a(S'_START_ the man is standing on the sidewalk _END_'
+p3028
+S'_START_ a man is standing on a sidewalk _END_'
+p3029
+tp3030
+a(S'_START_ a dog with a blanket dyed in blue is running through the grass _END_'
+p3031
+S'_START_ a dog with a blue blanket is running through the grass _END_'
+p3032
+tp3033
+a(S'_START_ a colored toy is being carried by a brown dog in the grass _END_'
+p3034
+S'_START_ a brown dog is carrying a colored toy in the grass _END_'
+p3035
+tp3036
+a(S'_START_ the person with the green shirt is jumping high over the grass _END_'
+p3037
+S'_START_ a person with a green shirt is jumping high over the grass _END_'
+p3038
+tp3039
+a(S'_START_ a young boy is jumping in the air with his knees bent and arms spread _END_'
+p3040
+S'_START_ a boy , who is young , is jumping in the air with his knees bent and arms spread _END_'
+p3041
+tp3042
+a(S'_START_ a ball is being caught by a dog in mid air _END_'
+p3043
+S'_START_ a dog is catching a ball in mid air _END_'
+p3044
+tp3045
+a(S'_START_ a brown and white dog is leaping in the air with a tennis ball in its mouth _END_'
+p3046
+S'_START_ a brown and white dog is jumping in the air with a tennis ball in its mouth _END_'
+p3047
+tp3048
+a(S'_START_ a woman in a shirt dyed in black is sitting next to a fluorescent green bag _END_'
+p3049
+S'_START_ a woman in a black shirt is sitting next to a fluorescent green bag _END_'
+p3050
+tp3051
+a(S'_START_ one man is doing a wheelie on the mountain bike _END_'
+p3052
+S'_START_ the man is doing a wheelie on a mountain bike _END_'
+p3053
+tp3054
+a(S'_START_ a man is riding on a bicycle with one wheel only _END_'
+p3055
+S'_START_ a man on a bicycle is riding on one wheel only _END_'
+p3056
+tp3057
+a(S'_START_ a duck with brown feathers and a green head is flapping its wings in the water _END_'
+p3058
+S'_START_ a brown duck with a green head is flapping its wings in the water _END_'
+p3059
+tp3060
+a(S'_START_ the dog with the brown coat is playing outdoors _END_'
+p3061
+S'_START_ the brown dog is playing outdoors _END_'
+p3062
+tp3063
+a(S'_START_ a furry brown dog is running through the grassy area _END_'
+p3064
+S'_START_ the furry brown dog is running through the grassy area _END_'
+p3065
+tp3066
+a(S'_START_ a woman in a fur hat and fur coat is standing outside a building _END_'
+p3067
+S'_START_ a lady in a fur hat and fur coat is standing outside a building _END_'
+p3068
+tp3069
+a(S'_START_ a young child is running down a gravel road that is covered with dead leaves _END_'
+p3070
+S'_START_ a young child is running down a road made of gravel that is covered with dead leaves _END_'
+p3071
+tp3072
+a(S'_START_ one young child is running outside over some fallen leaves _END_'
+p3073
+S'_START_ a young child is running outside over the fallen leaves _END_'
+p3074
+tp3075
+a(S'_START_ the man in the straw hat is smoking a cigarette _END_'
+p3076
+S'_START_ a cigarette is being smoked by the man in the straw hat _END_'
+p3077
+tp3078
+a(S'_START_ a cigarette is being smoked by the man in the straw hat _END_'
+p3079
+S'_START_ a man is wearing a straw hat and smoking a cigarette _END_'
+p3080
+tp3081
+a(S'_START_ a man is wearing a straw hat and smoking a cigarette _END_'
+p3082
+S'_START_ the man in the straw hat is smoking a cigarette _END_'
+p3083
+tp3084
+a(S'_START_ a man is wearing a long sleeved blue shirt and jeans and is riding a unicycle down a street _END_'
+p3085
+S'_START_ a man is wearing a blue shirt which has long sleeves and jeans and is riding a unicycle down a street _END_'
+p3086
+tp3087
+a(S'_START_ one man is climbing a rock wall and another man is holding a rope _END_'
+p3088
+S'_START_ one man is climbing a wall made of rock and another man is holding a rope _END_'
+p3089
+tp3090
+a(S'_START_ small kids are climbing a statue in a park _END_'
+p3091
+S'_START_ small children are climbing a statue in a park _END_'
+p3092
+tp3093
+a(S'_START_ a tower is being looked at by a blonde lady _END_'
+p3094
+S'_START_ a blonde lady is looking at a tower _END_'
+p3095
+tp3096
+a(S'_START_ a woman is looking at the view of a city _END_'
+p3097
+S'_START_ the woman is looking at the view of a city _END_'
+p3098
+tp3099
+a(S'_START_ a person is standing on a mountain top _END_'
+p3100
+S'_START_ somebody is standing on a mountain top _END_'
+p3101
+tp3102
+a(S'_START_ a man is standing on the top of the rocks with clouds behind them _END_'
+p3103
+S'_START_ one man is standing on the top of the rocks with clouds behind them _END_'
+p3104
+tp3105
+a(S'_START_ the smiling boy in winter clothes is waving his mittened hands outside the building in the snow _END_'
+p3106
+S'_START_ a smiling boy in winter clothes is waving his mittened hands outside a building in the snow _END_'
+p3107
+tp3108
+a(S'_START_ a child , who is young , dressed for cold weather , is standing outside _END_'
+p3109
+S'_START_ a young child dressed for cold weather is standing outside _END_'
+p3110
+tp3111
+a(S'_START_ a kid is smiling at the camera and swimming underwater _END_'
+p3112
+S'_START_ a child is smiling at the camera and swimming underwater _END_'
+p3113
+tp3114
+a(S'_START_ a man and a child are kayaking through gentle waters _END_'
+p3115
+S'_START_ the man and the child are kayaking through gentle waters _END_'
+p3116
+tp3117
+a(S'_START_ a yellow kayak is being ridden by a man and a young boy _END_'
+p3118
+S'_START_ a man and a young boy are riding in a yellow kayak _END_'
+p3119
+tp3120
+a(S'_START_ an american footballer is wearing the red and white strip _END_'
+p3121
+S'_START_ the american footballer is wearing a red and white strip _END_'
+p3122
+tp3123
+a(S'_START_ a person playing football is wearing black armbands _END_'
+p3124
+S'_START_ a football player is wearing black armbands _END_'
+p3125
+tp3126
+a(S'_START_ a dog is running after a ball in the grass _END_'
+p3127
+S'_START_ a dog is chasing a ball in the grass _END_'
+p3128
+tp3129
+a(S'_START_ a dog is chasing a ball on the grass _END_'
+p3130
+S'_START_ a ball is being chased by a dog on the grass _END_'
+p3131
+tp3132
+a(S'_START_ a dog is chasing a ball in the grass _END_'
+p3133
+S'_START_ a ball is being chased by a dog on the grass _END_'
+p3134
+tp3135
+a(S'_START_ a dog is running after a ball in the grass _END_'
+p3136
+S'_START_ a dog is chasing a ball on the grass _END_'
+p3137
+tp3138
+a(S'_START_ a dog is chasing a ball on the grass _END_'
+p3139
+S'_START_ a dog is chasing a ball in the grass _END_'
+p3140
+tp3141
+a(S'_START_ a tan dog is jumping up and catching a tennis ball _END_'
+p3142
+S'_START_ a dog with a tan coat is jumping up and catching a tennis ball _END_'
+p3143
+tp3144
+a(S'_START_ a man is sitting on a train and resting his hand against his face _END_'
+p3145
+S'_START_ the man is sitting on the train and resting his hand against his face _END_'
+p3146
+tp3147
+a(S'_START_ a small child is showing excitement on a swing set at the park _END_'
+p3148
+S'_START_ a small child is showing excitement on a set of swings at the park _END_'
+p3149
+tp3150
+a(S'_START_ the little girl is swinging and the woman is standing behind her _END_'
+p3151
+S'_START_ the girl , who is little , is swinging and the woman is standing behind _END_'
+p3152
+tp3153
+a(S'_START_ a surfer is riding the wave _END_'
+p3154
+S'_START_ the wave is being ridden by a surfer _END_'
+p3155
+tp3156
+a(S'_START_ a surfer is riding the wave _END_'
+p3157
+S'_START_ a rider is surfing the wave _END_'
+p3158
+tp3159
+a(S'_START_ the group of people is sitting in a dim room _END_'
+p3160
+S'_START_ the group of people is sitting in a room which is dim _END_'
+p3161
+tp3162
+a(S'_START_ a man and two women in a dark room are sitting at a table with candles _END_'
+p3163
+S'_START_ a man and two women in a darkened room are sitting at a table with candles _END_'
+p3164
+tp3165
+a(S'_START_ a man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four bottles of beer _END_'
+p3166
+S'_START_ a man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four beer bottles _END_'
+p3167
+tp3168
+a(S'_START_ two guys are sitting around a table and holding beers in their hands _END_'
+p3169
+S'_START_ two blokes are sitting around a table and holding beers in their hands _END_'
+p3170
+tp3171
+a(S'_START_ the dog is chasing the ball _END_'
+p3172
+S'_START_ a dog is chasing a ball _END_'
+p3173
+tp3174
+a(S'_START_ a blue ball is being caught by the dog _END_'
+p3175
+S'_START_ the dog is catching a blue ball _END_'
+p3176
+tp3177
+a(S'_START_ the woman is wearing a red jacket and holding a glass in front of the man in a t shirt , which is white _END_'
+p3178
+S'_START_ the woman is wearing a red jacket and holding a glass in front of the man in a white t shirt _END_'
+p3179
+tp3180
+a(S'_START_ two brown dogs are playing with a frisbee in the water _END_'
+p3181
+S'_START_ two brown dogs are playing with the frisbee in the water _END_'
+p3182
+tp3183
+a(S'_START_ two dogs are battling for a frisbee in a lake _END_'
+p3184
+S'_START_ two dogs are fighting for a frisbee in a lake _END_'
+p3185
+tp3186
+a(S'_START_ a girl in pink is twirling a ribbon _END_'
+p3187
+S'_START_ a ribbon is being twirled by a girl in pink _END_'
+p3188
+tp3189
+a(S'_START_ the girl is wearing a shirt colored in white with a pink skirt , and is standing in front of a house _END_'
+p3190
+S'_START_ the girl is wearing a white shirt and a pink skirt , and is standing in front of a house _END_'
+p3191
+tp3192
+a(S'_START_ the child is playing with the water spout outdoors and the rest of his family is watching _END_'
+p3193
+S'_START_ a child is playing with a water spout outdoors and the rest of his family is watching _END_'
+p3194
+tp3195
+a(S'_START_ a hose is being held by a boy next to a man and another boy is watching _END_'
+p3196
+S'_START_ a boy is holding a hose next to a man and another boy is watching _END_'
+p3197
+tp3198
+a(S'_START_ a football player is running past an official carrying a football _END_'
+p3199
+S'_START_ a person playing football is running past an official carrying a football _END_'
+p3200
+tp3201
+a(S'_START_ a young girl in a blue leotard is jumping in the air _END_'
+p3202
+S'_START_ a young girl in a leotard colored in blue is jumping in the air _END_'
+p3203
+tp3204
+a(S'_START_ the young girl in blue is jumping in the air _END_'
+p3205
+S'_START_ a young girl in blue is jumping in the air _END_'
+p3206
+tp3207
+a(S'_START_ a boy , who is little , is sitting in a green tunnel with a smile on his face _END_'
+p3208
+S'_START_ a little boy is sitting in a green tunnel with a smile on his face _END_'
+p3209
+tp3210
+a(S'_START_ a small boy in a striped shirt is sliding out of a green tube _END_'
+p3211
+S'_START_ a little boy in a striped shirt is sliding out of a green tube _END_'
+p3212
+tp3213
+a(S'_START_ the person is flying through the air on a bicycle _END_'
+p3214
+S'_START_ the person is flying through the air on the bicycle _END_'
+p3215
+tp3216
+a(S'_START_ the bunch of men are playing rugby on a muddy field _END_'
+p3217
+S'_START_ the bunch of men are playing rugby on a field full of mud _END_'
+p3218
+tp3219
+a(S'_START_ rugby is being played by some men _END_'
+p3220
+S'_START_ some men are playing rugby _END_'
+p3221
+tp3222
+a(S'_START_ the person who rides bikes is looking at an accident of another bike rider _END_'
+p3223
+S'_START_ the bike rider is looking at an accident of another bike rider _END_'
+p3224
+tp3225
+a(S'_START_ a person is looking at a bike designed for motocross that is lying on its side and another is racing by _END_'
+p3226
+S'_START_ a person is looking at a motocross bike that is lying on its side and another is racing by _END_'
+p3227
+tp3228
+a(S'_START_ two dogs are frolicking in the snow _END_'
+p3229
+S'_START_ two dogs are playing in the snow _END_'
+p3230
+tp3231
+a(S'_START_ a brown dog and a gray dog are playing in the snow _END_'
+p3232
+S'_START_ the brown dog and the gray dog are playing in the snow _END_'
+p3233
+tp3234
+a(S'_START_ a tattoo is being drawn by the woman in the white sweater on the hand of a teenager _END_'
+p3235
+S'_START_ the woman in the white sweater is drawing a tattoo on the hand of a teenager _END_'
+p3236
+tp3237
+a(S'_START_ a woman in a purple top is walking a bicycle between two stone columns _END_'
+p3238
+S'_START_ a woman in a top which is purple is walking a bicycle between two stone columns _END_'
+p3239
+tp3240
+a(S'_START_ a man in a red jacket is standing next to a yellow kayak on some rocks by the ocean _END_'
+p3241
+S'_START_ the man in the red jacket is standing next to the yellow kayak on some rocks by the ocean _END_'
+p3242
+tp3243
+a(S'_START_ a man is wearing a red jacket and standing beside a yellow canoe on some rocks with water in the background _END_'
+p3244
+S'_START_ a man is wearing a red jacket and standing beside a yellow canoe on some boulders with water in the background _END_'
+p3245
+tp3246
+a(S'_START_ a man is wearing a red jacket and standing beside a yellow canoe on some rocks with water in the background _END_'
+p3247
+S'_START_ the man in the red jacket is standing next to the yellow kayak on some rocks by the ocean _END_'
+p3248
+tp3249
+a(S'_START_ the dog with the black coat is walking along a tree trunk bridge over water _END_'
+p3250
+S'_START_ the black dog is walking along a tree trunk bridge over water _END_'
+p3251
+tp3252
+a(S'_START_ a river is being crossed by a dog on a bridge made from a fallen tree _END_'
+p3253
+S'_START_ a dog is crossing a river on a bridge made from a fallen tree _END_'
+p3254
+tp3255
+a(S'_START_ a child in a green and white sports uniform is running over the grass _END_'
+p3256
+S'_START_ a child in a green and white uniform for sports is running over the grass _END_'
+p3257
+tp3258
+a(S'_START_ the girl in the black hat is wearing a bikini at the beach _END_'
+p3259
+S'_START_ a girl in a black hat is wearing a bikini at the beach _END_'
+p3260
+tp3261
+a(S'_START_ the man is doing a handstand on the wet shore at the edge of the water at the beach _END_'
+p3262
+S'_START_ the man is doing a handstand on the wet sand at the edge of the water at the beach _END_'
+p3263
+tp3264
+a(S'_START_ a man is performing a handstand on the beach _END_'
+p3265
+S'_START_ a handstand is being performed by a man on the beach _END_'
+p3266
+tp3267
+a(S'_START_ the man is doing a handstand on the wet sand at the edge of the water at the beach _END_'
+p3268
+S'_START_ a man is performing a handstand on the beach _END_'
+p3269
+tp3270
+a(S'_START_ a boy of young age is playing in the park with his mother _END_'
+p3271
+S'_START_ a young boy is playing in the park with his mother _END_'
+p3272
+tp3273
+a(S'_START_ the boy in blue is running away from the woman in blue _END_'
+p3274
+S'_START_ a boy in blue is running away from a woman in blue _END_'
+p3275
+tp3276
+a(S'_START_ one little boy with brown hair is jumping off of the brown chair onto the floor _END_'
+p3277
+S'_START_ a little boy with brown hair is jumping off of a brown chair onto the floor _END_'
+p3278
+tp3279
+a(S'_START_ two children are bouncing on colorful balls _END_'
+p3280
+S'_START_ two kids are bouncing on colorful balls _END_'
+p3281
+tp3282
+a(S'_START_ the children are wearing black tights and hopping _END_'
+p3283
+S'_START_ some children are wearing black tights and hopping _END_'
+p3284
+tp3285
+a(S'_START_ a little girl is smiling and wearing a fake nose and glasses _END_'
+p3286
+S'_START_ the little girl is smiling and wearing a fake nose and glasses _END_'
+p3287
+tp3288
+a(S'_START_ the blonde girl with the pink top is smiling and wearing funny glasses with a large nose attached _END_'
+p3289
+S'_START_ the blonde girl with the pink top is happily smiling and wearing funny glasses with a large nose attached _END_'
+p3290
+tp3291
+a(S'_START_ water is being squirted by a man into the mouth of a white dog with a squirt gun _END_'
+p3292
+S'_START_ a man is squirting water into the mouth of a white dog with a squirt gun _END_'
+p3293
+tp3294
+a(S'_START_ a man is spraying a super soaker into the mouth of a dog _END_'
+p3295
+S'_START_ the man is spraying a super soaker into the mouth of the dog _END_'
+p3296
+tp3297
+a(S'_START_ a boy under an umbrella is being held by his father who is wearing a coat dyed in blue _END_'
+p3298
+S'_START_ a boy under an umbrella is being held by his father who is wearing a blue coat _END_'
+p3299
+tp3300
+a(S'_START_ a dog is walking along the snowdrift _END_'
+p3301
+S'_START_ a dog is walking along a snowdrift _END_'
+p3302
+tp3303
+a(S'_START_ a light brown dog is running up a street _END_'
+p3304
+S'_START_ the light brown dog is running up a street _END_'
+p3305
+tp3306
+a(S'_START_ a great dog is climbing a steep hill _END_'
+p3307
+S'_START_ a great dog is wildly climbing a steep hill _END_'
+p3308
+tp3309
+a(S'_START_ a man and a woman are walking down the street of a city _END_'
+p3310
+S'_START_ a man and a woman are walking down a city street _END_'
+p3311
+tp3312
+a(S'_START_ people are walking through a crowded street _END_'
+p3313
+S'_START_ people are walking through a street which is crowded _END_'
+p3314
+tp3315
+a(S'_START_ people are walking through a crowd in the street _END_'
+p3316
+S'_START_ people are walking through a crowded street _END_'
+p3317
+tp3318
+a(S'_START_ a surfer is riding a big wave across dark green water _END_'
+p3319
+S'_START_ a big wave is being ridden by a surfer across dark green water _END_'
+p3320
+tp3321
+a(S'_START_ a surfer is riding a big wave _END_'
+p3322
+S'_START_ the surfer is riding a big wave _END_'
+p3323
+tp3324
+a(S'_START_ a tennis player is lunging to the left _END_'
+p3325
+S'_START_ a tennis player is jumping to the left _END_'
+p3326
+tp3327
+a(S'_START_ a tennis player with a green headband is hitting the ball _END_'
+p3328
+S'_START_ the tennis player with a green headband is hitting the ball _END_'
+p3329
+tp3330
+a(S'_START_ a man is squatting in brush and taking a photograph _END_'
+p3331
+S'_START_ a man is squatting in brush and taking a photo _END_'
+p3332
+tp3333
+a(S'_START_ two dogs are looking at something that is moving in the water _END_'
+p3334
+S'_START_ two dogs are looking at something that is splashing in the water _END_'
+p3335
+tp3336
+a(S'_START_ a black dog is jumping from a cylindrical hay bale _END_'
+p3337
+S'_START_ a black dog is leaping from a cylindrical hay bale _END_'
+p3338
+tp3339
+a(S'_START_ a black dog is jumping from n hay ball to another hay ball _END_'
+p3340
+S'_START_ a black dog is leaping from a hay ball to another hay ball _END_'
+p3341
+tp3342
+a(S'_START_ the brown dog is jumping in the air _END_'
+p3343
+S'_START_ a brown dog is jumping in the air _END_'
+p3344
+tp3345
+a(S'_START_ two people wearing helmets are riding over the yellow and white flowers _END_'
+p3346
+S'_START_ two people wearing helmets are driving over the yellow and white flowers _END_'
+p3347
+tp3348
+a(S'_START_ a white horse is being ridden by a man in a blue cowboy hat _END_'
+p3349
+S'_START_ a man in a blue cowboy hat is riding a white horse _END_'
+p3350
+tp3351
+a(V_START_ three people are driving atvs _END_
+p3352
+V_START_ atvs are being driven by three people _END_
+p3353
+tp3354
+a(S'_START_ a white race car is driving through a puddle _END_'
+p3355
+S'_START_ a white racing vehicle is driving through a puddle _END_'
+p3356
+tp3357
+a(S'_START_ the white rally car is throwing mud into the air and is approaching a bend in the track _END_'
+p3358
+S'_START_ a white rally car is throwing mud into the air and is approaching a bend in the track _END_'
+p3359
+tp3360
+a(S'_START_ a small black dog is wearing a red collar and is in the leaves with a blue ball _END_'
+p3361
+S'_START_ a little black dog is wearing a red collar and is in the leaves with a blue ball _END_'
+p3362
+tp3363
+a(S'_START_ a fur scarf is being held by an asian woman _END_'
+p3364
+S'_START_ an asian woman is holding a fur scarf _END_'
+p3365
+tp3366
+a(S'_START_ a woman dressed in elegant clothing is inside a crowd of people and is looking down _END_'
+p3367
+S'_START_ an elegant woman is inside a crowd of people and is looking down _END_'
+p3368
+tp3369
+a(S'_START_ a basketball player is on the court floor and another one is grabbing the ball _END_'
+p3370
+S'_START_ a basketball player is on the court floor and the ball is being grabbed by another one _END_'
+p3371
+tp3372
+a(S'_START_ a basketball player is on the court floor and the ball is being grabbed by another one _END_'
+p3373
+S'_START_ two basketball players are scrambling for the ball on the court _END_'
+p3374
+tp3375
+a(S'_START_ a black sheep is standing near three white dogs _END_'
+p3376
+S'_START_ a black sheep is standing close to three white dogs _END_'
+p3377
+tp3378
+a(S'_START_ the man surrounded by photographers is wearing a gray suit and glasses _END_'
+p3379
+S'_START_ the man surrounded by men with a camera is wearing a gray suit and glasses _END_'
+p3380
+tp3381
+a(S'_START_ a tennis player in mid game is holding a racquet _END_'
+p3382
+S'_START_ a racquet is being held by a tennis player in mid game _END_'
+p3383
+tp3384
+a(S'_START_ a brown and white dog is playing on the grass _END_'
+p3385
+S'_START_ a brown and white dog is playing on the lawn _END_'
+p3386
+tp3387
+a(S'_START_ a tan skinned kid is looking at the camera _END_'
+p3388
+S'_START_ a tan skinned child is looking at the camera _END_'
+p3389
+tp3390
+a(S'_START_ a little boy with a bib is watching the camera _END_'
+p3391
+S'_START_ a young boy with a bib is watching the camera _END_'
+p3392
+tp3393
+a(S'_START_ a young boy in the blue shirt is jumping into the water _END_'
+p3394
+S'_START_ the young boy in the blue shirt is jumping into the water _END_'
+p3395
+tp3396
+a(S'_START_ a young boy is diving into a still lake _END_'
+p3397
+S'_START_ a young boy is jumping into a still lake _END_'
+p3398
+tp3399
+a(S'_START_ a young girl is wearing a blue patterned swim suit , a black and yellow swim cap and has blue swimming goggles on her head _END_'
+p3400
+S'_START_ a little girl is wearing a blue patterned swim suit , a black and yellow swim cap and has blue swimming goggles on the head _END_'
+p3401
+tp3402
+a(S'_START_ a brown dog is running through a snowy path _END_'
+p3403
+S'_START_ a brown dog is running through a snowy trail _END_'
+p3404
+tp3405
+a(S'_START_ a black and white dog is playing with a ruined volleyball in a brown field _END_'
+p3406
+S'_START_ a black and white dog is playing with a tattered volleyball in a brown field _END_'
+p3407
+tp3408
+a(S'_START_ a young boy in a helmet is riding a bike on the road _END_'
+p3409
+S'_START_ a bike is ridden on the road by a young boy in a helmet _END_'
+p3410
+tp3411
+a(S'_START_ the little boy is riding a bicycle in a race _END_'
+p3412
+S'_START_ a bicycle is being ridden by the little boy in a race _END_'
+p3413
+tp3414
+a(S'_START_ mud is covering a topless woman _END_'
+p3415
+S'_START_ a topless woman is being covered in mud _END_'
+p3416
+tp3417
+a(S'_START_ a family is purchasing something at the vending machine _END_'
+p3418
+S'_START_ a family is buying something at the vending machine _END_'
+p3419
+tp3420
+a(S'_START_ a group of people is holding drinks and pointing at the camera _END_'
+p3421
+S'_START_ drinks are being held by people pointing at the camera _END_'
+p3422
+tp3423
+a(S'_START_ a girl with red hair and red eyebrows is talking _END_'
+p3424
+S'_START_ a girl with red hair and red eyebrows is in misspeech _END_'
+p3425
+tp3426
+a(S'_START_ a man in a purple hat is climbing a rocky wall with bare hands _END_'
+p3427
+S'_START_ a rocky wall is climbed by a man in a purple hat with bare hands _END_'
+p3428
+tp3429
+a(S'_START_ two people are driving a jeep and a lady is sitting on the top of it _END_'
+p3430
+S'_START_ two people are driving a jeep and a girl is sitting on the top of it _END_'
+p3431
+tp3432
+a(S'_START_ a blond woman is sitting on the roof of a yellow vehicle and two people are inside _END_'
+p3433
+S'_START_ a woman with blond hair is sitting on the roof of a yellow vehicle and two people are inside _END_'
+p3434
+tp3435
+a(S'_START_ a large brown dog is jumping over a red hurdle _END_'
+p3436
+S'_START_ a red hurdle is being jumped by a large brown dog _END_'
+p3437
+tp3438
+a(S'_START_ a brown and white dog is jumping over a red , yellow and white barrier _END_'
+p3439
+S'_START_ a brown and white dog is jumping over a red , yellow and white hurdle _END_'
+p3440
+tp3441
+a(S'_START_ a yellow dog is drinking water from the faucet _END_'
+p3442
+S'_START_ water from the faucet is being drunk by a yellow dog _END_'
+p3443
+tp3444
+a(S'_START_ adults and children standing and playing in front of steps near a wooded area _END_'
+p3445
+S'_START_ adults and children standing and playing in front of a stair near a wooded area _END_'
+p3446
+tp3447
+a(S'_START_ the adults and children are being grouped near an outdoor seating arrangement _END_'
+p3448
+S'_START_ the adults and children are being gathered near an outdoor seating arrangement _END_'
+p3449
+tp3450
+a(S'_START_ a black dog is running across a rocky landscape _END_'
+p3451
+S'_START_ a black dog is moving along rocky terrain _END_'
+p3452
+tp3453
+a(S'_START_ a young man is getting a motocross bike up a dirt hill _END_'
+p3454
+S'_START_ a young man is pushing a motocross bike up a dirt hill _END_'
+p3455
+tp3456
+a(S'_START_ a middle aged man and woman are riding bikes down a road beside the water _END_'
+p3457
+S'_START_ a middle aged man and woman are riding bikes down a road near the water _END_'
+p3458
+tp3459
+a(S'_START_ pedestrians and cars are moving through a traffic jam in a big city _END_'
+p3460
+S'_START_ pedestrians and cars are moving through a traffic jam in the big city _END_'
+p3461
+tp3462
+a(S'_START_ a soccer player is sitting on the field and is drinking water _END_'
+p3463
+S'_START_ water is being drunk by a soccer player sitting on the field _END_'
+p3464
+tp3465
+a(S'_START_ a man is sitting on the grass and drinking from a water bottle _END_'
+p3466
+S'_START_ a man is sitting on the lawn and drinking from a water bottle _END_'
+p3467
+tp3468
+a(S'_START_ a dog is running on the sea shore _END_'
+p3469
+S'_START_ a dog is running on the beach _END_'
+p3470
+tp3471
+a(S'_START_ sunglasses are being worn by a boy _END_'
+p3472
+S'_START_ a boy is wearing sunglasses _END_'
+p3473
+tp3474
+a(S'_START_ a chubby faced boy is wearing sunglasses _END_'
+p3475
+S'_START_ a chubby faced boy is wearing dark glasses _END_'
+p3476
+tp3477
+a(S'_START_ children are being dressed in costumes and playing a game _END_'
+p3478
+S'_START_ kids are being dressed in costumes and playing a game _END_'
+p3479
+tp3480
+a(V_START_ two bmx bikers are jumping dirt ramps in front of the water _END_
+p3481
+V_START_ two bmx bikers are jumping dirt ramps in front of a body of water _END_
+p3482
+tp3483
+a(S'_START_ several people are sitting at little tables in a darkened room _END_'
+p3484
+S'_START_ several people are sitting at small tables in a darkened room _END_'
+p3485
+tp3486
+a(S'_START_ a boy is jumping off the side of a water fountain made of stone in front of a building _END_'
+p3487
+S'_START_ a boy is jumping off the side of a stone water fountain in front of a building _END_'
+p3488
+tp3489
+a(S'_START_ two dogs are leaping through snowy grass and rocks _END_'
+p3490
+S'_START_ two dogs are jumping through snowy grass and rocks _END_'
+p3491
+tp3492
+a(S'_START_ two large dogs , a light colored one and a dark one , are quickly moving through snowy terrain _END_'
+p3493
+S'_START_ two large dogs , a light colored one and a dark one , are running through snowy terrain _END_'
+p3494
+tp3495
+a(S'_START_ the young girl in blue is having fun on a slide _END_'
+p3496
+S'_START_ the young girl in blue is enjoying a slide _END_'
+p3497
+tp3498
+a(S'_START_ a man is playing guitar next to a drummer _END_'
+p3499
+S'_START_ a guitar is being played by a man next to a drummer _END_'
+p3500
+tp3501
+a(S'_START_ a black dog is jumping off a dock into water _END_'
+p3502
+S'_START_ a black dog is jumping from a dock into the water _END_'
+p3503
+tp3504
+a(S'_START_ a black dog is jumping off a dock into a pond _END_'
+p3505
+S'_START_ a black dog is jumping from a dock into the water _END_'
+p3506
+tp3507
+a(S'_START_ a skier in black is catching a tiny bit of air _END_'
+p3508
+S'_START_ a skier dressed in black is catching a tiny bit of air _END_'
+p3509
+tp3510
+a(S'_START_ a child is splashing in a pool for children and other kids are playing in the background _END_'
+p3511
+S'_START_ a child is splashing in a pool for children and other children are playing in the background _END_'
+p3512
+tp3513
+a(S'_START_ two men are looking out and binoculars are being held by one of them _END_'
+p3514
+S'_START_ two men are looking out and one is holding binoculars _END_'
+p3515
+tp3516
+a(S'_START_ a man on a motorcycle is turning around a corner _END_'
+p3517
+S'_START_ a man on a motorcycle is going around a corner _END_'
+p3518
+tp3519
+a(S'_START_ a man with no shirt is holding a football _END_'
+p3520
+S'_START_ a football is being held by a man with no shirt _END_'
+p3521
+tp3522
+a(S'_START_ a rainbow afghan is being held by a girl in gold and purple _END_'
+p3523
+S'_START_ a girl in gold and purple is holding a rainbow afghan _END_'
+p3524
+tp3525
+a(S'_START_ a light brown dog is running in the water _END_'
+p3526
+S'_START_ a light brown dog is sprinting in the water _END_'
+p3527
+tp3528
+a(S'_START_ a tan dog which is dirty is rolling in the dirt and looking right at the camera _END_'
+p3529
+S'_START_ a dirty tan dog is rolling in the dirt and looking right at the camera _END_'
+p3530
+tp3531
+a(S'_START_ an arabic man is wearing a white hat _END_'
+p3532
+S'_START_ a white hat is being worn by an arabic man _END_'
+p3533
+tp3534
+a(S'_START_ a person on a yellow bike is airborne _END_'
+p3535
+S'_START_ a cyclist on a yellow bike is airborne _END_'
+p3536
+tp3537
+a(S'_START_ a person on a yellow dirt bike is taking a jump _END_'
+p3538
+S'_START_ a cyclist on a yellow bike is airborne _END_'
+p3539
+tp3540
+a(S'_START_ the bicycle is being ridden by a man wearing a beret on a recreation trail _END_'
+p3541
+S'_START_ a man is wearing a beret and is riding the bicycle on a recreation trail _END_'
+p3542
+tp3543
+a(S'_START_ an old man with a grey beard is riding a bike _END_'
+p3544
+S'_START_ an old man with a beard that is grey is riding a bike _END_'
+p3545
+tp3546
+a(S'_START_ five adults are sitting on stone steps _END_'
+p3547
+S'_START_ five adults are sitting on steps made of stone _END_'
+p3548
+tp3549
+a(S'_START_ a man is rock climbing , pausing and calculating the route _END_'
+p3550
+S'_START_ a man is rock climbing , stopping and calculating the route _END_'
+p3551
+tp3552
+a(S'_START_ a little girl wearing a pink shirt is playing t ball and taking a swing _END_'
+p3553
+S'_START_ a little girl in a pink shirt is playing t ball and taking a swing _END_'
+p3554
+tp3555
+a(S'_START_ people are grouping at a stand at the fair _END_'
+p3556
+S'_START_ a group of people is gathering at a stand at the fair _END_'
+p3557
+tp3558
+a(S'_START_ a group of rollerbladers is lining up on the street _END_'
+p3559
+S'_START_ a group of rollerbladers is lining up on the road _END_'
+p3560
+tp3561
+a(S'_START_ a woman is showing a dog with very long hair at a dog show _END_'
+p3562
+S'_START_ a dog with very long hair is being showed by a woman at a dog show _END_'
+p3563
+tp3564
+a(S'_START_ a skateboarder is jumping off a ramp _END_'
+p3565
+S'_START_ a skateboarder is making a jump off a ramp _END_'
+p3566
+tp3567
+a(S'_START_ three children are running down hill _END_'
+p3568
+S'_START_ three kids are running down hill _END_'
+p3569
+tp3570
+a(S'_START_ three children are running down a grassy hillside _END_'
+p3571
+S'_START_ three children are running down a hillside covered by grass _END_'
+p3572
+tp3573
+a(S'_START_ the black bird with a yellow beak is standing in the green grass _END_'
+p3574
+S'_START_ a black bird with a yellow beak is standing in the green grass _END_'
+p3575
+tp3576
+a(S'_START_ a shirtless man is posing with a girl who is hiking in a park _END_'
+p3577
+S'_START_ a shirtless person is posing with a girl who is hiking in a park _END_'
+p3578
+tp3579
+a(S'_START_ a group of people are standing around a sound mixing table _END_'
+p3580
+S'_START_ a group of people are standing around a sound mixing console _END_'
+p3581
+tp3582
+a(S'_START_ a group of people are looking at sound equipment _END_'
+p3583
+S'_START_ some people is looking at sound equipment _END_'
+p3584
+tp3585
+a(S'_START_ a young couple is lying in bed _END_'
+p3586
+S'_START_ a young couple is lying on a bed together _END_'
+p3587
+tp3588
+a(S'_START_ people are crossing a rope bridge over a rocky stream _END_'
+p3589
+S'_START_ people are walking across a rope bridge over a rocky stream _END_'
+p3590
+tp3591
+a(S'_START_ several people are crossing in line a bridge _END_'
+p3592
+S'_START_ several people are walking in line across a bridge _END_'
+p3593
+tp3594
+a(S'_START_ the young child is riding a three wheeled scooter down the sidewalk _END_'
+p3595
+S'_START_ a young child is riding a three wheeled scooter down the sidewalk _END_'
+p3596
+tp3597
+a(S'_START_ people are clustered around a bonfire at night _END_'
+p3598
+S'_START_ people are sitting around a bonfire at night _END_'
+p3599
+tp3600
+a(S'_START_ several people are sitting around a fire at night _END_'
+p3601
+S'_START_ people are clustered around a bonfire at night _END_'
+p3602
+tp3603
+a(S'_START_ two dogs are running quickly through the park _END_'
+p3604
+S'_START_ two dogs are running quickly through a park _END_'
+p3605
+tp3606
+a(S'_START_ two animals are running through the park _END_'
+p3607
+S'_START_ two dogs are running quickly through a park _END_'
+p3608
+tp3609
+a(S'_START_ a small white dog is running in a lawn _END_'
+p3610
+S'_START_ a small white dog is running across a lawn _END_'
+p3611
+tp3612
+a(S'_START_ a brown and white dog with a brown and black bandanna is quickly running _END_'
+p3613
+S'_START_ a brown and white dog with a brown and black bandanna is running very fast _END_'
+p3614
+tp3615
+a(S'_START_ a woman is wearing a long black coat and a brown hat and is walking past a park with a lot of blooming trees _END_'
+p3616
+S'_START_ a woman is wearing a long black jacket and a brown hat and is walking past a park with a lot of blooming trees _END_'
+p3617
+tp3618
+a(S'_START_ two people are riding motorbikes _END_'
+p3619
+S'_START_ motorbikes are being ridden by two people _END_'
+p3620
+tp3621
+a(S'_START_ a couple is looking at a street guide _END_'
+p3622
+S'_START_ a couple is looking at a map _END_'
+p3623
+tp3624
+a(S'_START_ one boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is diving into the water _END_'
+p3625
+S'_START_ one boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water _END_'
+p3626
+tp3627
+a(S'_START_ a boy is playing a game with wooden blocks _END_'
+p3628
+S'_START_ a boy is playing a game with blocks made of wood _END_'
+p3629
+tp3630
+a(S'_START_ a boy in blue shirt is looking at his hand near a stack of blocks on table _END_'
+p3631
+S'_START_ the boy in blue shirt is looking at his hand near the stack of blocks on table _END_'
+p3632
+tp3633
+a(S'_START_ a woman in a bikini is pulling a dog on a leash at the seashore _END_'
+p3634
+S'_START_ a woman in a bikini is pulling a dog on a leash at the beach _END_'
+p3635
+tp3636
+a(S'_START_ a small group of people are standing and two are sitting on the couch _END_'
+p3637
+S'_START_ a small group of people are standing and two are sitting on the sofa _END_'
+p3638
+tp3639
+a(S'_START_ the dog has its head inside a red and green gift bag _END_'
+p3640
+S'_START_ a dog has its head inside a red and green gift bag _END_'
+p3641
+tp3642
+a(S'_START_ a red and brown dog is digging its nose inside the holiday gift bag _END_'
+p3643
+S'_START_ the red and brown dog is digging its nose inside a holiday gift bag _END_'
+p3644
+tp3645
+a(S'_START_ a white hat is being worn by a boy which is running on the beach _END_'
+p3646
+S'_START_ a boy is wearing a white hat and is running on the beach _END_'
+p3647
+tp3648
+a(S'_START_ a cardboard box is being touched by a man in a black hat _END_'
+p3649
+S'_START_ a man in a black hat is touching a cardboard box _END_'
+p3650
+tp3651
+a(S'_START_ a blond kid is going down a slide and throwing up his arms _END_'
+p3652
+S'_START_ a blond child is going down a slide and throwing up his arms _END_'
+p3653
+tp3654
+a(S'_START_ a young girl with a heart tank top is raising her hands as she is playing on a slide _END_'
+p3655
+S'_START_ a young girl with a heart tank top is raising her hands as she is sliding _END_'
+p3656
+tp3657
+a(S'_START_ two dogs are playing on the beach _END_'
+p3658
+S'_START_ two dogs are playing on a beach _END_'
+p3659
+tp3660
+a(S'_START_ two dogs are playing on a rocky beach _END_'
+p3661
+S'_START_ two dogs are playing on a beach made of rocks _END_'
+p3662
+tp3663
+a(S'_START_ a large white dog is jumping in the air over an area covered by snow _END_'
+p3664
+S'_START_ a large white dog is jumping in the air over a snowy area _END_'
+p3665
+tp3666
+a(S'_START_ a large white dog is jumping in the air over an area covered by snow _END_'
+p3667
+S'_START_ a large white dog is jumping up in the snow _END_'
+p3668
+tp3669
+a(S'_START_ a pair of kids are sticking out blue and green colored tongues _END_'
+p3670
+S'_START_ two kids are sticking out blue and green colored tongues _END_'
+p3671
+tp3672
+a(S'_START_ a white dog is standing on a hill covered by grass _END_'
+p3673
+S'_START_ a white dog is standing on a grassy hillside _END_'
+p3674
+tp3675
+a(S'_START_ two children are rolling in dirty water _END_'
+p3676
+S'_START_ two children are rolling in muddy water _END_'
+p3677
+tp3678
+a(S'_START_ a brown and black dog is looking upwards _END_'
+p3679
+S'_START_ a brown and black dog is pointing the nose upwards _END_'
+p3680
+tp3681
+a(S'_START_ a large man is sitting in a military accessories shop _END_'
+p3682
+S'_START_ a large man is sitting in a military accessories store _END_'
+p3683
+tp3684
+a(S'_START_ a veteran is showing different things from a war to some people _END_'
+p3685
+S'_START_ different things from a war are being shown to some people by a veteran _END_'
+p3686
+tp3687
+a(S'_START_ a young black child is standing on the edge of a body of water near some buckets _END_'
+p3688
+S'_START_ a young black child is waiting on the edge of a body of water near some buckets _END_'
+p3689
+tp3690
+a(S'_START_ a boy next to some buckets of rags is holding something _END_'
+p3691
+S'_START_ a boy next to some buckets of rags is holding an object _END_'
+p3692
+tp3693
+a(S'_START_ the woman is wearing a colorful shirt and a lot of jewelry _END_'
+p3694
+S'_START_ a woman is wearing a colorful shirt and a lot of jewelry _END_'
+p3695
+tp3696
+a(S'_START_ a young woman with indian clothing and henna on her hand is going through paperwork _END_'
+p3697
+S'_START_ a girl with indian clothing and henna on her hand is going through paperwork _END_'
+p3698
+tp3699
+a(S'_START_ a man in a jersey which is black is standing in a gym _END_'
+p3700
+S'_START_ a man in a black jersey is standing in a gym _END_'
+p3701
+tp3702
+a(S'_START_ the snowboarder is jumping off the snow _END_'
+p3703
+S'_START_ a snowboarder is jumping off the snow _END_'
+p3704
+tp3705
+a(S'_START_ the snowboarder is jumping off a snow covered hill _END_'
+p3706
+S'_START_ the snowboarder is jumping off a snowy hill _END_'
+p3707
+tp3708
+a(S'_START_ the boy is standing next to the opening of a fountain _END_'
+p3709
+S'_START_ a boy is standing next to the opening of a fountain _END_'
+p3710
+tp3711
+a(S'_START_ a brown and white animal is jumping on the sidewalk _END_'
+p3712
+S'_START_ a brown and white dog is jumping on the sidewalk _END_'
+p3713
+tp3714
+a(S'_START_ a small brown and white dog is running on the sidewalk _END_'
+p3715
+S'_START_ a little brown and white dog is running on the sidewalk _END_'
+p3716
+tp3717
+a(S'_START_ a distant person with a blue backpack is hiking in rocky area _END_'
+p3718
+S'_START_ a distant person with a blue backpack is hiking area full of rocks _END_'
+p3719
+tp3720
+a(S'_START_ a ball is being chased by a yellow dog _END_'
+p3721
+S'_START_ a yellow dog is chasing a ball _END_'
+p3722
+tp3723
+a(S'_START_ a woman in blue jeans is standing in front of a group of children beside a house made of stone _END_'
+p3724
+S'_START_ a woman in blue jeans is standing in front of a group of children beside a stone built house _END_'
+p3725
+tp3726
+a(S'_START_ a girl in a strange outfit is riding the bike _END_'
+p3727
+S'_START_ the bike is being ridden by a girl in a strange outfit _END_'
+p3728
+tp3729
+a(S'_START_ a woman is wearing paint and costume pieces and is riding a bike on a busy street _END_'
+p3730
+S'_START_ a bike is being ridden by a woman wearing paint and costume pieces on a busy street _END_'
+p3731
+tp3732
+a(S'_START_ a man with no shirt is jumping over a log _END_'
+p3733
+S'_START_ a shirtless man is jumping over a log _END_'
+p3734
+tp3735
+a(S'_START_ the man in blue is posing for a picture next to a vehicle _END_'
+p3736
+S'_START_ the man in blue is posing for a picture next to a car _END_'
+p3737
+tp3738
+a(S'_START_ the woman is sitting near a flower bed and is overlooking a tunnel _END_'
+p3739
+S'_START_ a woman is sitting near a flower bed and is overlooking a tunnel _END_'
+p3740
+tp3741
+a(S'_START_ a man is wearing a clear plastic cap and a mask _END_'
+p3742
+S'_START_ a man is wearing a clear plastic cap and a face mask _END_'
+p3743
+tp3744
+a(S'_START_ a man by a brick wall is wearing a mask around his mouth and a hair net _END_'
+p3745
+S'_START_ a man by a wall made of bricks is wearing a mask around his mouth and a hair net _END_'
+p3746
+tp3747
+a(S'_START_ two dogs and two people are walking in the woods _END_'
+p3748
+S'_START_ two dogs and two people are walking in a wood _END_'
+p3749
+tp3750
+a(S'_START_ a man is skiing down a hill and over a red obstacle _END_'
+p3751
+S'_START_ a man is skiing down a hill and jumping a red obstacle _END_'
+p3752
+tp3753
+a(S'_START_ a man in a red shirt is doing a trick with the skateboard _END_'
+p3754
+S'_START_ a man in a red shirt is doing a trick with a skateboard _END_'
+p3755
+tp3756
+a(S'_START_ the skateboarder is jumping in the air _END_'
+p3757
+S'_START_ a skateboarder is jumping in the air _END_'
+p3758
+tp3759
+a(S'_START_ three friends are making faces for the camera _END_'
+p3760
+S'_START_ three friends are making faces for a photo _END_'
+p3761
+tp3762
+a(S'_START_ two men and a girl in front of a wood panel wall are posing with funny faces _END_'
+p3763
+S'_START_ two men and a girl in front of a wood panel wall are making funny faces _END_'
+p3764
+tp3765
+a(S'_START_ four people are walking along a city sidewalk and the one in the green hat is phoning someone _END_'
+p3766
+S'_START_ four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone _END_'
+p3767
+tp3768
+a(S'_START_ a man is standing at dusk on an almost pristine , snowy road , that is lit only by headlights _END_'
+p3769
+S'_START_ a man is standing at dusk on an almost pristine road covered by snow , that is lit only by headlights _END_'
+p3770
+tp3771
+a(S'_START_ a surfer is surfing a big wave _END_'
+p3772
+S'_START_ a surfer is surfing a huge wave _END_'
+p3773
+tp3774
+a(S'_START_ a person with a red hooded jacket and a black backpack is walking near a rocky wall _END_'
+p3775
+S'_START_ a person with a red hooded jacket and a black backpack is moving near a rocky wall _END_'
+p3776
+tp3777
+a(S'_START_ the man dressed in chaps made of leather and a purple shirt is standing in front of some onlookers _END_'
+p3778
+S'_START_ the man dressed in leather chaps and a purple shirt is standing in front of someone lookers _END_'
+p3779
+tp3780
+a(S'_START_ two dogs on the grass are playing with a plastic toy _END_'
+p3781
+S'_START_ two dogs on a lawn are playing with a plastic toy _END_'
+p3782
+tp3783
+a(S'_START_ a dog is in an area full of sand , with the sand that is being stirred up into the air and several plants are in the background _END_'
+p3784
+S'_START_ a dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background _END_'
+p3785
+tp3786
+a(S'_START_ a dog is in the sand that is blowing in the air _END_'
+p3787
+S'_START_ a dog is in the sand that is blowing in the wind _END_'
+p3788
+tp3789
+a(S'_START_ the black and white dog is running outdoors _END_'
+p3790
+S'_START_ a black and white dog is running outdoors _END_'
+p3791
+tp3792
+a(S'_START_ a woman wearing a blue shirt and high heels is standing on the sidewalk next to a man _END_'
+p3793
+S'_START_ a woman wearing a blue shirt and high heels is standing on the sidewalk next to the man _END_'
+p3794
+tp3795
+a(S'_START_ the dog is jumping in the shade of some trees _END_'
+p3796
+S'_START_ a dog is jumping in the shade of some trees _END_'
+p3797
+tp3798
+a(S'_START_ a man on a green bike is performing tricks on a dirt ramp _END_'
+p3799
+S'_START_ the man on a green bike is performing tricks on the dirt ramp _END_'
+p3800
+tp3801
+a(S'_START_ a black dog and a white dog are wrestling on the floor _END_'
+p3802
+S'_START_ a black dog and a white dog are wrestling on the ground _END_'
+p3803
+tp3804
+a(S'_START_ a cluster of four brown dogs are playing in a field of brown grass _END_'
+p3805
+S'_START_ a group of four brown dogs are playing in a field of brown grass _END_'
+p3806
+tp3807
+a(S'_START_ four dogs are playing in a area covered by grass _END_'
+p3808
+S'_START_ four dogs are playing in a grassy area _END_'
+p3809
+tp3810
+a(S'_START_ a woman is petting a dog near a stone trail _END_'
+p3811
+S'_START_ a woman is petting a dog near a stone path _END_'
+p3812
+tp3813
+a(S'_START_ two race cars are on a road in front of a grassy parking area _END_'
+p3814
+S'_START_ two cars for racing are on a road in front of a grassy parking area _END_'
+p3815
+tp3816
+a(S'_START_ the rider dressed in orange is driving a motorcycle on one wheel _END_'
+p3817
+S'_START_ the orange rider is driving a motorcycle on one wheel _END_'
+p3818
+tp3819
+a(S'_START_ a man on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up _END_'
+p3820
+S'_START_ a biker on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up _END_'
+p3821
+tp3822
+a(S'_START_ tambourines are being played by a group of children _END_'
+p3823
+S'_START_ a group of children is playing tambourines _END_'
+p3824
+tp3825
+a(S'_START_ a brown dog is running in the snow _END_'
+p3826
+S'_START_ the brown dog is running in the snow _END_'
+p3827
+tp3828
+a(S'_START_ a dog is fetching a piece of wood out of very clear water _END_'
+p3829
+S'_START_ a dog is fetching a stick out of very clear water _END_'
+p3830
+tp3831
+a(S'_START_ a small black and white dog is carrying a stick and is swimming _END_'
+p3832
+S'_START_ a small black and white dog is biting a stick and is swimming _END_'
+p3833
+tp3834
+a(S"_START_ the woman is holding the paintbrush next to the artist 's easel _END_"
+p3835
+S"_START_ the lady is holding the paintbrush next to the artist 's easel _END_"
+p3836
+tp3837
+a(S'_START_ the girl in a blue coverall is painting _END_'
+p3838
+S'_START_ the girl in the blue coverall is painting _END_'
+p3839
+tp3840
+a(S'_START_ a yellow dog is running down a sandy path _END_'
+p3841
+S'_START_ a yellow dog is running down a path covered by sand _END_'
+p3842
+tp3843
+a(S'_START_ a black and white dog is jumping for a ball _END_'
+p3844
+S'_START_ the black and white dog is jumping for the ball _END_'
+p3845
+tp3846
+a(S'_START_ people are riding two camels at the beach _END_'
+p3847
+S'_START_ people are riding two camels on the sand _END_'
+p3848
+tp3849
+a(S'_START_ a barefoot man in pajamas is looking toward the stars and is walking on the tennis court _END_'
+p3850
+S'_START_ a barefoot man in pajamas is looking toward the sky and is walking on the tennis court _END_'
+p3851
+tp3852
+a(S'_START_ the man is standing in the water at the base of a waterfall _END_'
+p3853
+S'_START_ a man is standing in the water at the base of a waterfall _END_'
+p3854
+tp3855
+a(S'_START_ a shirtless man is leading a horse that is pulling a carriage _END_'
+p3856
+S'_START_ a shirtless man is leading a carriage that is being pulled by a horse _END_'
+p3857
+tp3858
+a(S'_START_ a shirtless man is escorting a horse that is pulling a carriage along a paved road _END_'
+p3859
+S'_START_ a shirtless man is escorting a horse that is pulling a carriage along a road _END_'
+p3860
+tp3861
+a(S'_START_ the young girl is playing on the edge of a fountain and an older woman is watching her _END_'
+p3862
+S'_START_ a young girl is playing on the edge of a fountain and an older woman is watching her _END_'
+p3863
+tp3864
+a(S'_START_ the girl is wearing an orange shirt and a striped tie _END_'
+p3865
+S'_START_ a girl is wearing an orange shirt and a striped tie _END_'
+p3866
+tp3867
+a(S'_START_ a bicyclist is performing a trick over a heavily graphitized wall _END_'
+p3868
+S'_START_ a bicyclist is performing a trick over wall full of graffiti _END_'
+p3869
+tp3870
+a(S'_START_ a woman is crouching down next to a dog and is smiling at a young girl sitting on the sidewalk _END_'
+p3871
+S'_START_ a woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk _END_'
+p3872
+tp3873
+a(S'_START_ a black and white dog is carrying a big stick on the green grass _END_'
+p3874
+S'_START_ a black and white dog is carrying a huge stick on the green grass _END_'
+p3875
+tp3876
+a(S'_START_ a black and white dog is carrying a huge stick on the green grass _END_'
+p3877
+S'_START_ a black and white dog with a large branch is running in the field _END_'
+p3878
+tp3879
+a(S'_START_ a motorcycle racer is riding a red and black bike _END_'
+p3880
+S'_START_ the motorcycle racer is riding a red and black bike _END_'
+p3881
+tp3882
+a(S'_START_ a woman is firing at target practice _END_'
+p3883
+S'_START_ a woman is shooting at target practice _END_'
+p3884
+tp3885
+a(S'_START_ a woman is wearing ear protection and is firing a gun at an indoor shooting range _END_'
+p3886
+S'_START_ the woman is wearing ear protection and is firing a gun at an indoor shooting range _END_'
+p3887
+tp3888
+a(S'_START_ the little boy is sticking his tongue out for the camera and another boy is looking on _END_'
+p3889
+S'_START_ a little boy is sticking his tongue out for the camera and another boy is looking on _END_'
+p3890
+tp3891
+a(S'_START_ a little boy is sticking his tongue out for the camera and another boy is looking on _END_'
+p3892
+S'_START_ two kids are looking up at the camera and one is sticking out his tongue _END_'
+p3893
+tp3894
+a(S'_START_ a little boy is sticking his tongue out for the camera and another boy is looking on _END_'
+p3895
+S'_START_ two young boys are looking up at the camera and one is sticking out his tongue _END_'
+p3896
+tp3897
+a(S'_START_ the large dog is walking outside and is carrying a colorful toy in its mouth _END_'
+p3898
+S'_START_ the large dog is walking outside and is holding a colorful toy in its mouth _END_'
+p3899
+tp3900
+a.
