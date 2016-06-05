@@ -31,18 +31,16 @@ def process_ppdb_data(infile):
         # Split input line by tabs
         split_line = line.split('|||')
         # Put spaces before punctuation marks
-        premise = format_sent(split_line[1], False)
-        hypothesis = format_sent(split_line[2], False)
+        premise = split_line[1]
+        hypothesis = split_line[2]
 
-        threshold = min(len(premise), len(hypothesis), 4)
-        edit_distance = editdistance.eval(premise, hypothesis)
-        # Only accept pair if premise and hypothesis are sufficiently different
-        if edit_distance >= threshold:
+        # Only accept pair if all the checks pass
+        if accept_pair(premise, hypothesis):
             # Add to growing premise and hypothesis lists
             premise_list.append(premise)
             hypothesis_list.append(hypothesis)
         count += 1
-        if count == 100:
+        if count == 1000000:
             break
     f.close()
 
@@ -51,6 +49,27 @@ def process_ppdb_data(infile):
     write_to_file(outfile_hp, hypothesis_list)
 
     print 'Done!'
+
+
+'''
+Function: accept_pair
+---------------------
+Performs a series of checks to determine whether or not the
+given (premise, hypothesis) pair should be accepted. Checks include
+whether the premise and hypothesis are sufficiently different by
+edit distance, whether the pair consists only of valid words in the
+English dictionary, and whether the pair consist only of alphanumerical
+characters.
+'''
+def accept_pair(premise, hypothesis):
+    if not d.check(premise) or not str.isalnum(premise):
+        return False
+    threshold = min(len(premise), len(hypothesis), 4)
+    edit_distance = editdistance.eval(premise, hypothesis)
+    if edit_distance < threshold:
+        return False
+    return True
+
 
 
 '''
@@ -66,24 +85,6 @@ def write_to_file(outfile, data_list):
     for sent in data_list:
         f.write(sent + '\n')
     f.close()
-
-
-'''
-Function: format_sent
----------------------
-Formats an input sentence to convert to lower case, and
-put a space before every punctuation mark.
-'''
-def format_sent(sentence, add_tags=True):
-    sentence = sentence.lower()
-    sentence = re.sub(r"([a-z])\-([a-z])", r"\1 \2", sentence)
-    sentence = re.sub(r"([\w/'+$\s-]+|[^\w/'+$\s-]+)\s*", r"\1 ", sentence)
-    for index, char in enumerate(sentence):
-        if char == "'" or char == '"': sentence = sentence[:index] + ' ' + sentence[index:]
-    sentence = fix_typos(sentence)
-    if add_tags:
-        return '_START_ ' + sentence + ' _END_'
-    return sentence
 
 
 '''
