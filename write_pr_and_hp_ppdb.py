@@ -1,6 +1,11 @@
+import editdistance
+import enchant
 import re
 from constants import *
 from autocorrect import spell
+
+d = enchant.Dict("en_US")
+typos = set()
 
 '''
 Function: process_ppdb_data
@@ -21,6 +26,7 @@ def process_ppdb_data(infile):
     premise_list = []
     # List of hypotheses
     hypothesis_list = []
+    count = 0
     for line in f:
         # Split input line by tabs
         split_line = line.split('|||')
@@ -28,9 +34,16 @@ def process_ppdb_data(infile):
         premise = format_sent(split_line[1], False)
         hypothesis = format_sent(split_line[2], False)
 
-        # Add to growing premise and hypothesis lists
-        premise_list.append(premise)
-        hypothesis_list.append(hypothesis)
+        threshold = min(len(premise), len(hypothesis), 4)
+        edit_distance = editdistance.eval(premise, hypothesis)
+        # Only accept pair if premise and hypothesis are sufficiently different
+        if edit_distance >= threshold:
+            # Add to growing premise and hypothesis lists
+            premise_list.append(premise)
+            hypothesis_list.append(hypothesis)
+        count += 1
+        if count == 100:
+            break
     f.close()
 
     # Write the premises and hypotheses to their corresponding output files
