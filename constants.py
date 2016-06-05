@@ -4,6 +4,14 @@ TEST_FILE = 'snli_1.0/snli_1.0_test.txt'
 TRAIN_PICKLE_FILE = 'snli_1.0/snli_1.0_train_data.pickle'
 DEV_PICKLE_FILE = 'snli_1.0/snli_1.0_dev_data.pickle'
 TEST_PICKLE_FILE = 'snli_1.0/snli_1.0_test_data.pickle'
+SICK_DATA_FILE = 'SICK/SICK.txt'
+PPDB_S_FILE = 'PPDB/ppdb-1.0-s-all'
+PPDB_M_FILE = 'PPDB/ppdb-1.0-m-all'
+PPDB_L_FILE = 'PPDB/ppdb-1.0-l-all'
+PPDB_XL_FILE = 'PPDB/ppdb-1.0-xl-all'
+PPDB_XXL_FILE = 'PPDB/ppdb-1.0-xxl-all'
+PPDB_XXXL_FILE = 'PPDB/ppdb-1.0-xxxl-all'
+
 
 GLOVE_DIM = 50
 HIDDEN_SIZE = 100
