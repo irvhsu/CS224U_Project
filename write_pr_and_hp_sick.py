@@ -4,7 +4,7 @@ from read_sick_data import *
 '''
 Function: process_sick_data
 ---------------------------
-Reads the snli data from the given filename
+Reads the SICK data from the given filename
 and writes the premises and hypotheses of the
 entailments into separate output files.
 '''
