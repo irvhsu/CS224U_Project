@@ -35,9 +35,11 @@ def get_bleu_scores(infile1, infile2, n=1):
     print "Average BLEU score: {}\n".format(avg_bleu_score)
 
 if __name__ == '__main__':
-
-    infile1 = "milestone_outputs/" + sys.argv[1] + '_hypothesis.txt'
-    infile2 = "milestone_outputs/" + sys.argv[2] + '_' + sys.argv[1] + '_results.txt'
+    '''
+    Argument 1 is either 'train', 'valid', or 'test'. Argument 2 is the model name.
+    '''
+    infile1 = 'contradictions/' + sys.argv[1] + '_hypothesis.txt'
+    infile2 = 'contradictions/' + sys.argv[2] + '/translations_' + sys.argv[1] + '.txt'
 
     # get_bleu_scores(infile1, infile2, n=1)
     get_bleu_scores(infile1, infile2, n=2)
